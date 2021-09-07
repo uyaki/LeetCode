@@ -10,7 +10,7 @@ import static org.junit.Assert.*;
 public class P187_RepeatedDnaSequencesTest {
 
     @Test
-    public void main(){
+    public void findRepeatedDnaSequences(){
         P187_RepeatedDnaSequences.Solution solution = new P187_RepeatedDnaSequences().new Solution();
         String[] s1 = {"AAAAACCCCC", "CCCCCAAAAA"};
         List<String> l1 = Arrays.asList(s1);

@@ -7,7 +7,7 @@ import static org.junit.Assert.*;
 public class P1_TwoSumTest {
 
     @Test
-    public void main() {
+    public void twoSum() {
         //测试代码
         P1_TwoSum.Solution solution = new P1_TwoSum().new Solution();
         assertArrayEquals(solution.twoSum(new int[]{2,7,11,15}, 9), new int[]{0, 1});
