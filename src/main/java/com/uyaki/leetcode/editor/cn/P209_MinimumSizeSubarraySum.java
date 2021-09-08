@@ -52,15 +52,26 @@ package com.uyaki.leetcode.editor.cn;
 /**
  * 长度最小的子数组
  */
-public class P209_MinimumSizeSubarraySum{
-	//leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
-    public int minSubArrayLen(int target, int[] nums) {
-		int ans = 0;
-
-		return 0;
+public class P209_MinimumSizeSubarraySum {
+    //leetcode submit region begin(Prohibit modification and deletion)
+    class Solution {
+        public int minSubArrayLen(int target, int[] nums) {
+            int ans = 0;
+            int sum = 0;
+            int left = 0;
+            for (int right = 0; right < nums.length; right++) {
+                //累加
+                sum += nums[right];
+                while (sum >= target) {
+                    //如果初始值为0，则取初始值，
+                    ans = ans == 0 ? right - left + 1 : Math.min(ans, right - left + 1);
+                    //减去左边的数字，左指针向右移动一格
+                    sum -= nums[left++];
+                }
+            }
+            return ans;
+        }
     }
-}
 //leetcode submit region end(Prohibit modification and deletion)
 
 }

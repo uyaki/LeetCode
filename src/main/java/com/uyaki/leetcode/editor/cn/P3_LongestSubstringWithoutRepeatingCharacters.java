@@ -53,26 +53,26 @@ import java.util.Map;
 /**
  * 无重复字符的最长子串
  */
-public class P3_LongestSubstringWithoutRepeatingCharacters{
-	//leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
-    public int lengthOfLongestSubstring(String s) {
-		int n = s.length(), ans = 0;
-		//用map记录字符是否出现过
-		Map<Character, Integer> map = new HashMap<>();
-		//实际上是一个滑动窗口，i为左指针，j为由指针
-		for (int j = 0, i = 0; j < n; j++) {
-			if (map.containsKey(s.charAt(j))) {
-				//如果出现重复字符，i = 滑动窗口左指针移动到新的值
-				i = Math.max(map.get(s.charAt(j)), i);
-			}
-			ans = Math.max(ans, j - i + 1);
-			// 记录字符最后一次出现是在第几个位置
-			map.put(s.charAt(j), j + 1);
-		}
-		return ans;
+public class P3_LongestSubstringWithoutRepeatingCharacters {
+    //leetcode submit region begin(Prohibit modification and deletion)
+    class Solution {
+        public int lengthOfLongestSubstring(String s) {
+            int n = s.length(), ans = 0;
+            //用map记录字符是否出现过
+            Map<Character, Integer> map = new HashMap<>();
+            //实际上是一个滑动窗口，i为左指针，j为由指针
+            for (int j = 0, i = 0; j < n; j++) {
+                if (map.containsKey(s.charAt(j))) {
+                    //如果出现重复字符，i = 滑动窗口左指针移动到新的值
+                    i = Math.max(map.get(s.charAt(j)), i);
+                }
+                ans = Math.max(ans, j - i + 1);
+                // 记录字符最后一次出现是在第几个位置
+                map.put(s.charAt(j), j + 1);
+            }
+            return ans;
+        }
     }
-}
 //leetcode submit region end(Prohibit modification and deletion)
 
 }

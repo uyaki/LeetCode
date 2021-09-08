@@ -32,7 +32,10 @@
 
 package com.uyaki.leetcode.editor.cn;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.List;
 
 /**
  * 重复的DNA序列
