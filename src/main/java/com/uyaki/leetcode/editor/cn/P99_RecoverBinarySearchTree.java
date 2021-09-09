@@ -34,64 +34,60 @@ package com.uyaki.leetcode.editor.cn;
 
 import com.uyaki.leetcode.editor.cn.base.TreeNode;
 
-import java.security.spec.RSAOtherPrimeInfo;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.List;
-
 
 /**
  * 恢复二叉搜索树
  */
-public class P99_RecoverBinarySearchTree{
-	//leetcode submit region begin(Prohibit modification and deletion)
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
-class Solution {
-	//t1,t2用于记录两个错误节点，pre用于记录前节点
-	TreeNode t1,t2,pre;
-    public void recoverTree(TreeNode root) {
-		inOrder(root);
-		int temp = t1.val;
-		t1.val = t2.val;
-		t2.val = temp;
-		// 这2行代码只是为了验证结果
-		// TreeNode.inOrder(root);
-		// System.out.println("");
+public class P99_RecoverBinarySearchTree {
+    //leetcode submit region begin(Prohibit modification and deletion)
+
+    /**
+     * Definition for a binary tree node.
+     * public class TreeNode {
+     * int val;
+     * TreeNode left;
+     * TreeNode right;
+     * TreeNode() {}
+     * TreeNode(int val) { this.val = val; }
+     * TreeNode(int val, TreeNode left, TreeNode right) {
+     * this.val = val;
+     * this.left = left;
+     * this.right = right;
+     * }
+     * }
+     */
+    class Solution {
+        //t1,t2用于记录两个错误节点，pre用于记录前节点
+        TreeNode t1, t2, pre;
+
+        public void recoverTree(TreeNode root) {
+            inOrder(root);
+            int temp = t1.val;
+            t1.val = t2.val;
+            t2.val = temp;
+            // 这2行代码只是为了验证结果
+            // TreeNode.inOrder(root);
+            // System.out.println("");
+        }
+
+        private void inOrder(TreeNode node) {
+            if (node == null) {
+                return;
+            }
+            inOrder(node.left);
+            // 前节点指针不为空，且前节点大于当前节点
+            if (pre != null && pre.val > node.val) {
+                if (t1 == null) {
+                    t1 = pre;
+                }
+                t2 = node;
+            }
+            // 前节点指针移动到当前节点
+            pre = node;
+            inOrder(node.right);
+
+        }
     }
-
-	private void inOrder(TreeNode node) {
-		if(node == null){
-			return;
-		}
-		inOrder(node.left);
-		// 前节点指针不为空，且前节点大于当前节点
-		if(pre!=null && pre.val>node.val){
-			if(t1 == null){
-				t1 = pre;
-			}
-			t2 = node;
-		}
-		// 前节点指针移动到当前节点
-		pre = node;
-		inOrder(node.right);
-
-	}
-}
 //leetcode submit region end(Prohibit modification and deletion)
 
 }
