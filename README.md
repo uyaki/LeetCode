@@ -6,6 +6,7 @@
 - [P209_长度最小的子数组](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P209_MinimumSizeSubarraySum.md)
 
 ## 树
+> 树的解题总结: [Tree](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Tree.md)
 - [P94_二叉树的中序遍历](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P94_BinaryTreeInorderTraversal.md)
 - [P95_不同的二叉搜索树 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P95_UniqueBinarySearchTreesIi.md)
 - [P98_验证二叉搜索树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P98_ValidateBinarySearchTree.md)
