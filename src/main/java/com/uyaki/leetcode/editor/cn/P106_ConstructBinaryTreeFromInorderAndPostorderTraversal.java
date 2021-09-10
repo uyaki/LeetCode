@@ -95,6 +95,34 @@ public class P106_ConstructBinaryTreeFromInorderAndPostorderTraversal {
             //构建右子树
             buildTree(rightTreeInOrder, rightTreePostOrder, node, 1);
         }
+
+		/**
+		 * 解法2: 实际上可以不用切割数组，改为遍历的时候范围遍历
+		 */
+		public TreeNode buildTree2(int[] inorder, int[] postorder) {
+			return buildTree2(inorder, postorder, postorder.length - 1, 0, inorder.length - 1);
+		}
+
+		public TreeNode buildTree2(int[] inorder, int[] postorder, int postEnd, int inStart, int inEnd) {
+			if (inStart > inEnd) {
+				return null;
+			}
+
+			int currentVal = postorder[postEnd];
+			TreeNode current = new TreeNode(currentVal);
+
+			int inIndex = 0;
+			for (int i = inStart; i <= inEnd; i++) {
+				if (inorder[i] == currentVal) {
+					inIndex = i;
+				}
+			}
+			TreeNode left = buildTree2(inorder, postorder, postEnd - (inEnd- inIndex) - 1, inStart, inIndex - 1);
+			TreeNode right = buildTree2(inorder, postorder, postEnd - 1, inIndex + 1, inEnd);
+			current.left = left;
+			current.right = right;
+			return current;
+		}
     }
 //leetcode submit region end(Prohibit modification and deletion)
 
