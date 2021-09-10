@@ -74,7 +74,7 @@ public class TreeNode {
      * 前序遍历
      */
     public static void preOrder(TreeNode node) {
-        if(node == null){
+        if (node == null) {
             return;
         }
         System.out.print(node.val + " ");
@@ -86,7 +86,7 @@ public class TreeNode {
      * 中序遍历
      */
     public static void inOrder(TreeNode node) {
-        if(node == null){
+        if (node == null) {
             return;
         }
         inOrder(node.left);
@@ -98,7 +98,7 @@ public class TreeNode {
      * 后序遍历
      */
     public static void postOrder(TreeNode node) {
-        if(node == null){
+        if (node == null) {
             return;
         }
         postOrder(node.left);
@@ -107,7 +107,20 @@ public class TreeNode {
     }
 
     /**
+     * 获取最大深度
+     */
+    public static int maxDepth(TreeNode root) {
+        if (root == null) {
+            return 0;
+        }
+        int left = maxDepth(root.left);
+        int right = maxDepth(root.right);
+        return Math.max(left, right) + 1;
+    }
+
+    /**
      * 重写equals方法
+     *
      * @param o
      * @return
      */

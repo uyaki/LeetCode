@@ -14,6 +14,7 @@
 - [P101_对称二叉树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P101_SymmetricTree.md)
 - [P102_二叉树的层序遍历](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P102_BinaryTreeLevelOrderTraversal.md)
 - [P103_二叉树的锯齿形层序遍历](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P103_BinaryTreeZigzagLevelOrderTraversal.md)
+- [P104_二叉树的最大深度](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P104_MaximumDepthOfBinaryTree.md)
 
 ## 动态规划
 - [P96_不同的二叉搜索树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P96_UniqueBinarySearchTrees.md)
