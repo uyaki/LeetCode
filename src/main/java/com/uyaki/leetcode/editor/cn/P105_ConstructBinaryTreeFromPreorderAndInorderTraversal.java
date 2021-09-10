@@ -107,6 +107,36 @@ public class P105_ConstructBinaryTreeFromPreorderAndInorderTraversal {
             buildTree(leftTreePreOrder, leftTreeInOrder, node, 0);
             buildTree(rightTreePreOrder, rightTreeInOrder, node, 1);
         }
+
+        /**
+         * 解法2: 实际上可以不用切割数组，改为遍历的时候范围遍历
+         */
+        public TreeNode buildTree2(int[] preorder, int[] inorder) {
+            return buildTree2(preorder, inorder, 0, 0, inorder.length - 1);
+        }
+
+        public TreeNode buildTree2(int[] preorder, int[] inorder, int preStart, int inStart, int inEnd) {
+            if (inStart > inEnd) {
+                return null;
+            }
+
+            int currentVal = preorder[preStart];
+            TreeNode current = new TreeNode(currentVal);
+
+            int inIndex = 0;
+            for (int i = inStart; i <= inEnd; i++) {
+                if (inorder[i] == currentVal) {
+                    inIndex = i;
+                }
+            }
+            // 当前 preStart的下一个位置 = 左子树前序遍历的 preStart
+            TreeNode left = buildTree2(preorder, inorder, preStart + 1, inStart, inIndex - 1);
+            // 当前 preStart的下一个位置+ 左子树的长度 = 右子树前序遍历的 preStart
+            TreeNode right = buildTree2(preorder, inorder, preStart + 1 + (inEnd - inIndex), inIndex + 1, inEnd);
+            current.left = left;
+            current.right = right;
+            return current;
+        }
     }
 //leetcode submit region end(Prohibit modification and deletion)
 
