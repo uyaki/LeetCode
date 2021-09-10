@@ -1,5 +1,6 @@
 # 树的解题套路总结
-## 树的结构
+## 二叉树
+### 树的结构
 ```java
 public class TreeNode {
     int val;
@@ -14,8 +15,8 @@ public class TreeNode {
     }
 }
 ```
-## 树的遍历
-### 前序遍历
+### 树的遍历
+#### 前序遍历
 ```java
 class Solution{
     public void preOrder(TreeNode node) {
@@ -28,7 +29,7 @@ class Solution{
     }
 }
 ```
-### 中序遍历
+#### 中序遍历
 ```java
 class Solution {
     public void inOrder(TreeNode node) {
@@ -41,7 +42,7 @@ class Solution {
     }
 }
 ```
-### 后序遍历
+#### 后序遍历
 ```java
 class Solution {
     public void postOrder(TreeNode node) {
@@ -54,7 +55,7 @@ class Solution {
     }
 }
 ```
-### 前序、中序、后序遍历
+#### 前序、中序、后序遍历
 前序、中序、后序遍历的区别在于是访问根节点的顺序：
 - 前序：根、左、右
 - 中序：左、根、右
@@ -79,12 +80,13 @@ class Solution {
 由上可知，两种遍历组合可以推导出树的结构
 - 前序+中序。如算法[P105_从前序与中序遍历序列构造二叉树](../content/P105_ConstructBinaryTreeFromPreorderAndInorderTraversal.md)
 - 中序+后序。如算法[P106_从中序与后序遍历序列构造二叉树](../content/P106_ConstructBinaryTreeFromInorderAndPostorderTraversal.md)
+
 思路如下：
 1. 前序遍历的第一个节点为根节点。根据该根节点，可以将中序遍历的结构切割成两部分。左边为根节点的左子树，右边为根节点的右子树。
 2. 根据左、右子树中序遍历的长度，可以将前序遍历切割成左、右子树对应的前序遍历。
 3. 根据左、右子树的前序遍历+中序遍历，可以递归，继续切割，推导下一层级的子树。
 4. 递归得到树的结构
-### 层序遍历
+#### 层序遍历
 ```java
 class Solution{
     public void levelOrder(TreeNode root) {
@@ -110,7 +112,7 @@ class Solution{
 }
 ```
 
-### 树的深度
+#### 树的深度
 ```java
 class Solution{
     public int maxDepth(TreeNode root) {
@@ -120,6 +122,21 @@ class Solution{
         int left = maxDepth(root.left);
         int right = maxDepth(root.right);
         return Math.max(left, right) + 1;
+    }
+}
+```
+
+## N叉树
+### 数据结构
+```java
+/* 基本的 N 叉树节点 */
+class TreeNode {
+    int val;
+    TreeNode[] children;
+    void traverse(TreeNode root) {
+        for (TreeNode child : root.children) {
+            traverse(child);
+        }
     }
 }
 ```
