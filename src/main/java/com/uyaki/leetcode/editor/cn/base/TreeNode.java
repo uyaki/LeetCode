@@ -1,8 +1,6 @@
 package com.uyaki.leetcode.editor.cn.base;
 
-import java.util.Deque;
-import java.util.LinkedList;
-import java.util.Objects;
+import java.util.*;
 
 public class TreeNode {
     public int val;
@@ -106,6 +104,30 @@ public class TreeNode {
         System.out.print(node.val + " ");
     }
 
+    /**
+     * 层序遍历
+     * @param root
+     */
+    public static void levelOrder(TreeNode root) {
+        System.out.println();
+        List<List<Integer>> ans = new ArrayList<>();
+        levelRecursion(root, ans,0);
+        ans.stream().forEach(it->it.stream().forEach(item->System.out.print(item +" ")));
+        System.out.println();
+
+    }
+
+    private static void levelRecursion(TreeNode node, List<List<Integer>> ans, int level) {
+        if (node == null) {
+            return;
+        }
+        if(ans.size()<level+1){
+            ans.add(new ArrayList<>());
+        }
+        ans.get(level).add(node.val);
+        levelRecursion(node.left, ans, level + 1);
+        levelRecursion(node.right, ans, level + 1);
+    }
     /**
      * 获取最大深度
      */

@@ -88,16 +88,24 @@ class Solution {
 ```java
 class Solution{
     public void levelOrder(TreeNode root) {
-        levelRecursion(root, 0);
+        System.out.println();
+        List<List<Integer>> ans = new ArrayList<>();
+        levelRecursion(root, ans,0);
+        ans.stream().forEach(it->it.stream().forEach(item->System.out.print(item +" ")));
+        System.out.println();
+
     }
-    
-    private void levelRecursion(TreeNode node, int level) {
+
+    private void levelRecursion(TreeNode node, List<List<Integer>> ans, int level) {
         if (node == null) {
             return;
         }
-        //do something...
-        levelRecursion(node.left, level + 1);
-        levelRecursion(node.right, level + 1);
+        if(ans.size()<level+1){
+            ans.add(new ArrayList<>());
+        }
+        ans.get(level).add(node.val);
+        levelRecursion(node.left, ans, level + 1);
+        levelRecursion(node.right, ans, level + 1);
     }
 }
 ```
