@@ -1,6 +1,6 @@
 # README
 
-## 堆
+## 栈
 - [P20_有效的括号](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P20_ValidParentheses.md)
 
 ## 滑动窗口
@@ -23,9 +23,13 @@
 - [P106_从中序与后序遍历序列构造二叉树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P106_ConstructBinaryTreeFromInorderAndPostorderTraversal.md)
 - [P107_二叉树的层序遍历 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P107_BinaryTreeLevelOrderTraversalIi.md)
 - [P108_将有序数组转换为二叉搜索树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P108_ConvertSortedArrayToBinarySearchTree.md)(树+二分法)
+- [P144_二叉树的前序遍历](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P144_BinaryTreePreorderTraversal.md)
 
 ## 字符串操作
 - [P5_最长回文子串](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P5_LongestPalindromicSubstring.md)
+
+## 贪心算法
+- [P11_盛最多水的容器](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P11_ContainerWithMostWater.md)
 
 ## 动态规划
 - [P96_不同的二叉搜索树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P96_UniqueBinarySearchTrees.md)
