@@ -57,51 +57,44 @@
 
 package com.uyaki.leetcode.editor.cn;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.LinkedList;
+import java.util.Queue;
 
 /**
  * 用队列实现栈
  */
 public class P225_ImplementStackUsingQueues {
     class MyStack {
-        List<Integer> array = new ArrayList<>();
+        private Queue<Integer> inputQueue;//输入队列
+        private Queue<Integer> outputQueue;//输出队列
 
-        /**
-         * Initialize your data structure here.
-         */
         public MyStack() {
-
+            inputQueue = new LinkedList<>();
+            outputQueue = new LinkedList<>();
         }
 
-        /**
-         * Push element x onto stack.
-         */
         public void push(int x) {
-            array.add(x);
+            inputQueue.offer(x);
+            // 将b队列中元素全部转给a队列
+            while (!outputQueue.isEmpty()) {
+                inputQueue.offer(outputQueue.poll());
+            }
+            // 交换a和b,使得a队列没有在push()的时候始终为空队列
+            Queue temp = inputQueue;
+            inputQueue = outputQueue;
+            outputQueue = temp;
         }
 
-        /**
-         * Removes the element on top of the stack and returns that element.
-         */
         public int pop() {
-            int last = array.get(array.size() - 1);
-            array.remove(array.size() - 1);
-            return last;
+            return outputQueue.poll();
         }
 
-        /**
-         * Get the top element.
-         */
         public int top() {
-            return array.get(array.size() - 1);
+            return outputQueue.peek();
         }
 
-        /**
-         * Returns whether the stack is empty.
-         */
         public boolean empty() {
-            return array.isEmpty();
+            return outputQueue.isEmpty();
         }
     }
 
