@@ -1,5 +1,8 @@
 # README
 
+## 位运算
+- [P190_颠倒二进制位](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P190_ReverseBits.md)
+
 ## 栈
 - [P20_有效的括号](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P20_ValidParentheses.md)
 - [P155_最小栈](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P155_MinStack.md)
