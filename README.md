@@ -1,5 +1,7 @@
 # README
-
+## 递归
+- [P2_两数相加](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2_AddTwoNumbers.md)
+---
 ## 位运算
 - [P190_颠倒二进制位](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P190_ReverseBits.md)
 
@@ -8,6 +10,9 @@
 - [P155_最小栈](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P155_MinStack.md)
 - [P225_用队列实现栈](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P225_ImplementStackUsingQueues.md)
 - [P232_用栈实现队列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P232_ImplementQueueUsingStacks.md)
+---
+## 链表
+- [P234_回文链表](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P234_PalindromeLinkedList.md)
 ---
 ## 滑动窗口
 - [P3_无重复字符的最长子串](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P3_LongestSubstringWithoutRepeatingCharacters.md)
