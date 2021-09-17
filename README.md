@@ -39,6 +39,8 @@
 - [P106_从中序与后序遍历序列构造二叉树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P106_ConstructBinaryTreeFromInorderAndPostorderTraversal.md)
 - [P144_二叉树的前序遍历](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P144_BinaryTreePreorderTraversal.md)
 - [P145_二叉树的后序遍历](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P145_BinaryTreePostorderTraversal.md)
+### 深度优先搜索
+- [P110_平衡二叉树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P110_BalancedBinaryTree.md)
 ---
 ## 字符串操作
 - [P5_最长回文子串](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P5_LongestPalindromicSubstring.md)
