@@ -178,6 +178,8 @@ class Solution {
 
 ![img.png](img/tree.png)
 
+---
+
 ## N叉树
 
 ### 数据结构
