@@ -72,32 +72,39 @@ public class P110_BalancedBinaryTree {
             }
             boolean left = isBalanced(root.left);
             boolean right = isBalanced(root.right);
-            int max = maxLevel(root);
-            int min = minLevel(root);
+            int max = maxDepth(root);
+            int min = minDepth(root);
             if (max - min > 1) {
                 return false;
             }
             return left && right;
         }
 
-        private int maxLevel(TreeNode node) {
+        private int maxDepth(TreeNode node) {
             if (node == null) {
                 return 0;
             }
-            int left = maxLevel(node.left);
-            int right = maxLevel(node.right);
+            int left = maxDepth(node.left);
+            int right = maxDepth(node.right);
             // 最大深度 = 左右子树的最大深度的最大值+1（1为自身深度）
             return Math.max(left, right) + 1;
         }
 
-        private int minLevel(TreeNode node) {
+        private int minDepth(TreeNode node) {
             if (node == null) {
                 return 0;
             }
-            int left = maxLevel(node.left);
-            int right = maxLevel(node.right);
-            //  最小深度 = 左右子树的最大深度的最小值+1（1为自身深度）
-            return Math.min(left, right) + 1;
+            if (node.left == null && node.right == null) {
+                return 1;
+            }
+            int minDepth = Integer.MAX_VALUE;
+            if (node.left != null) {
+                minDepth = Math.min(minDepth(node.left), minDepth);
+            }
+            if (node.right != null) {
+                minDepth = Math.min(minDepth(node.right), minDepth);
+            }
+            return minDepth + 1;
         }
     }
 //leetcode submit region end(Prohibit modification and deletion)
