@@ -16,6 +16,7 @@
 - [P155_最小栈](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P155_MinStack.md)
 - [P225_用队列实现栈](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P225_ImplementStackUsingQueues.md)
 - [P232_用栈实现队列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P232_ImplementQueueUsingStacks.md)
+- [P496_下一个更大元素 I](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P496_NextGreaterElementI.md)
 
 ---
 
