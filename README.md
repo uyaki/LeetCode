@@ -3,6 +3,7 @@
 ## 递归
 
 - [P2_两数相加](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2_AddTwoNumbers.md)
+- [P21_合并两个有序链表](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P21_MergeTwoSortedLists.md)
 
 ---
 
