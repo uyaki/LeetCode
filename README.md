@@ -4,6 +4,7 @@
 
 - 解题技巧：[一些坑](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Error.md)
 - 树的解题总结: [Tree](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Tree.md)
+- 分治法的解题总结: [Divide And Conquer](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/DivideAndConquer.md)
 - 二分法的解题总结: [binary search](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/BinarySearch.md)
 
 ---
@@ -51,7 +52,7 @@
 - [P100_相同的树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P100_SameTree.md)
 - [P101_对称二叉树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P101_SymmetricTree.md)
 - [P108_将有序数组转换为二叉搜索树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P108_ConvertSortedArrayToBinarySearchTree.md)(
-  树+二分法)
+  树+分治法)
 
 ### 树的遍历
 
@@ -59,8 +60,10 @@
 - [P102_二叉树的层序遍历](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P102_BinaryTreeLevelOrderTraversal.md)
 - [P103_二叉树的锯齿形层序遍历](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P103_BinaryTreeZigzagLevelOrderTraversal.md)
 - [P107_二叉树的层序遍历 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P107_BinaryTreeLevelOrderTraversalIi.md)
-- [P105_从前序与中序遍历序列构造二叉树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P105_ConstructBinaryTreeFromPreorderAndInorderTraversal.md)
-- [P106_从中序与后序遍历序列构造二叉树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P106_ConstructBinaryTreeFromInorderAndPostorderTraversal.md)
+- [P105_从前序与中序遍历序列构造二叉树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P105_ConstructBinaryTreeFromPreorderAndInorderTraversal.md)(
+  分治法)
+- [P106_从中序与后序遍历序列构造二叉树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P106_ConstructBinaryTreeFromInorderAndPostorderTraversal.md)(
+  分治法)
 - [P144_二叉树的前序遍历](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P144_BinaryTreePreorderTraversal.md)
 - [P145_二叉树的后序遍历](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P145_BinaryTreePostorderTraversal.md)
 
@@ -94,4 +97,5 @@
 
 ## 动态规划
 
+- [P53_最大子序和](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P53_MaximumSubarray.md)
 - [P96_不同的二叉搜索树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P96_UniqueBinarySearchTrees.md)
