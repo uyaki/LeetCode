@@ -1,5 +1,13 @@
 # README
 
+## 总结
+
+- 解题技巧：[一些坑](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Error.md)
+- 树的解题总结: [Tree](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Tree.md)
+- 二分法的解题总结: [binary search](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/BinarySearch.md)
+
+---
+
 ## 递归
 
 - [P2_两数相加](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2_AddTwoNumbers.md)
@@ -37,8 +45,6 @@
 
 ## 树
 
-> 树的解题总结: [Tree](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Tree.md)
-
 - [P95_不同的二叉搜索树 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P95_UniqueBinarySearchTreesIi.md)
 - [P98_验证二叉搜索树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P98_ValidateBinarySearchTree.md)
 - [P99_恢复二叉搜索树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P99_RecoverBinarySearchTree.md)
@@ -74,8 +80,8 @@
 
 ## 二分查找
 
-> 二分法的解题总结: [binary search](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/BinarySearch.md) 
 - [P35_搜索插入位置](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P35_SearchInsertPosition.md)
+- [P69_x 的平方根](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P69_Sqrtx.md)
 - [P704_二分查找](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P704_BinarySearch.md)
 
 ---
