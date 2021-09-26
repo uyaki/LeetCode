@@ -92,6 +92,12 @@
 
 ---
 
+## 分治法
+
+- [💚 P169_多数元素](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P169_MajorityElement.md)
+
+---
+
 ## 二分查找
 
 - [💚 P35_搜索插入位置](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P35_SearchInsertPosition.md)
@@ -102,11 +108,10 @@
 
 ## 贪心算法
 
-- [🧡 P11_盛最多水的容器](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P11_ContainerWithMostWater.md)
-
 ---
 
 ## 动态规划
+
 - [❤️ P10_正则表达式匹配](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P10_RegularExpressionMatching.md)
 - [💚 P53_最大子序和](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P53_MaximumSubarray.md)
 - [💚 P70_爬楼梯](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P70_ClimbingStairs.md)
