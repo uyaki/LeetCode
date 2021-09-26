@@ -113,3 +113,4 @@
 - [🧡 P96_不同的二叉搜索树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P96_UniqueBinarySearchTrees.md)
 - [💚 P118_杨辉三角](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P118_PascalsTriangle.md)
 - [💚 P119_杨辉三角 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P119_PascalsTriangleIi.md)
+- [💚 P121_买卖股票的最佳时机](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P121_BestTimeToBuyAndSellStock.md)
