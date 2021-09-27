@@ -28,6 +28,7 @@
 ## 栈
 
 - [💚 P20_有效的括号](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P20_ValidParentheses.md)
+- [🧡 P71_简化路径](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P71_SimplifyPath.md)
 - [💚 P155_最小栈](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P155_MinStack.md)
 - [💚 P225_用队列实现栈](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P225_ImplementStackUsingQueues.md)
 - [💚 P232_用栈实现队列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P232_ImplementQueueUsingStacks.md)
