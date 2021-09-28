@@ -121,3 +121,9 @@
 - [💚 P118_杨辉三角](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P118_PascalsTriangle.md)
 - [💚 P119_杨辉三角 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P119_PascalsTriangleIi.md)
 - [💚 P121_买卖股票的最佳时机](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P121_BestTimeToBuyAndSellStock.md)
+
+---
+
+## 最短路径
+
+- [🧡 P1514_概率最大的路径](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1514_PathWithMaximumProbability.md)
