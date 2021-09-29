@@ -33,6 +33,7 @@
 - [💚 P225_用队列实现栈](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P225_ImplementStackUsingQueues.md)
 - [💚 P232_用栈实现队列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P232_ImplementQueueUsingStacks.md)
 - [💚 P496_下一个更大元素 I](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P496_NextGreaterElementI.md)
+- [💚 P682_棒球比赛](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P682_BaseballGame.md)
 
 ---
 
@@ -127,3 +128,9 @@
 ## 最短路径
 
 - [🧡 P1514_概率最大的路径](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1514_PathWithMaximumProbability.md)
+
+---
+
+## TODO
+
+-[ ] Dijkstra 算法详解
