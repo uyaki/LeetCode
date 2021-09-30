@@ -43,6 +43,9 @@ package com.uyaki.leetcode.editor.cn;
 public class P223_RectangleArea {
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
+        /**
+         * 方法一：投影法
+         */
         public int computeArea(int ax1, int ay1, int ax2, int ay2, int bx1, int by1, int bx2, int by2) {
             //方法一：计算重叠面积
             // 两个矩形覆盖的总面积等于两个矩形的面积之和减去两个矩形的重叠部分的面积。
@@ -60,6 +63,9 @@ public class P223_RectangleArea {
             return area1 + area2 - overlapArea;
         }
 
+        /**
+         * 方法二：数学方法计算
+         */
         public int computeArea2(int ax1, int ay1, int ax2, int ay2, int bx1, int by1, int bx2, int by2) {
             // a的面积
             int aArea = (ax2 - ax1) * (ay2 - ay1);
