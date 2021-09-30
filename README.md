@@ -131,6 +131,10 @@
 
 ---
 
+## 数学题
+
+- [🧡 P223_矩形面积](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P223_RectangleArea.md)
+
 ## TODO
 
 -[ ] Dijkstra 算法详解
