@@ -127,7 +127,7 @@
 
 ## 最短路径
 
-- [🧡 P1436_旅行终点站](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1436_DestinationCity.md)
+- [💚 P1436_旅行终点站](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1436_DestinationCity.md)
 - [🧡 P1514_概率最大的路径](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1514_PathWithMaximumProbability.md)
 
 ---
