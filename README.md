@@ -134,6 +134,7 @@
 
 ## 数学题
 
+- [🧡 P166_分数到小数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P166_FractionToRecurringDecimal.md)
 - [🧡 P223_矩形面积](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P223_RectangleArea.md)
 - [💚 P405_数字转换为十六进制数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P405_ConvertANumberToHexadecimal.md)
 
