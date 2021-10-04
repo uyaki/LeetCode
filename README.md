@@ -86,6 +86,7 @@
 ## 字符串操作
 
 - [🧡 P5_最长回文子串](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P5_LongestPalindromicSubstring.md)
+- [💚 P482_密钥格式化](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P482_LicenseKeyFormatting.md)
 
 ---
 
