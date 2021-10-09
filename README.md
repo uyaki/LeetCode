@@ -109,6 +109,7 @@
 
 - [💚 P35_搜索插入位置](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P35_SearchInsertPosition.md)
 - [💚 P69_x 的平方根](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P69_Sqrtx.md)
+- [❤️ P352_将数据流变为多个不相交区间](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P352_DataStreamAsDisjointIntervals.md)
 - [💚 P704_二分查找](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P704_BinarySearch.md)
 
 ---
