@@ -4,7 +4,7 @@
 
 > 使用`x/y >z` 替代 `y*z<x`的逻辑判断。
 
-例子：[P69_x 的平方根](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P69_Sqrtx.md)
+例子：[💚 P69_x 的平方根](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P69_Sqrtx.md)
 
 ## 计算中间值时的数据溢出
 
@@ -18,4 +18,4 @@
 
 结果出错。
 
-例子： - [💚 P441_排列硬币](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P441_ArrangingCoins.md)
+例子：[💚 P441_排列硬币](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P441_ArrangingCoins.md)
