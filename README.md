@@ -87,6 +87,7 @@
 ## 字符串操作
 
 - [🧡 P5_最长回文子串](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P5_LongestPalindromicSubstring.md)
+- [❤️ P273_整数转换英文表示](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P273_IntegerToEnglishWords.md)
 - [💚 P434_字符串中的单词数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P434_NumberOfSegmentsInAString.md)
 - [💚 P482_密钥格式化](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P482_LicenseKeyFormatting.md)
 
