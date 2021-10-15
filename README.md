@@ -152,6 +152,12 @@
 - [💚 P412_Fizz Buzz](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P412_FizzBuzz.md)
 - [💚 P414_第三大的数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P414_ThirdMaximumNumber.md)
 
+---
+
+## 回溯法
+
+- [❤️ P38_外观数列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P38_CountAndSay.md)
+
 ## TODO
 
 -[ ] Dijkstra 算法详解
