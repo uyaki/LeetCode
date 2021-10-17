@@ -12,6 +12,7 @@
 ## 总结
 
 - 解题技巧：[一些坑](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Error.md)
+- 位运算的解题总结：[Bit](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Bit.md)
 - 树的解题总结：[Tree](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Tree.md)
 - 分治法的解题总结：[Divide And Conquer](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/DivideAndConquer.md)
 - 二分法的解题总结：[binary search](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/BinarySearch.md)
@@ -33,6 +34,7 @@
 |难度|题目|题解|掌握度|
 |:---:|:---|:---|:---:|
 |💚 |[P190_颠倒二进制位](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P190_ReverseBits.md) |[P190_ReverseBits.java](./src/main/java/com/uyaki/leetcode/editor/cn/P190_ReverseBits.java)|😄|
+|💚 |[P476_数字的补数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P476_NumberComplement.md) |[P476_NumberComplement.java](./src/main/java/com/uyaki/leetcode/editor/cn/P476_NumberComplement.java)|🤨|
 
 ## 栈
 
