@@ -102,6 +102,7 @@
 |💚 |[P104_二叉树的最大深度](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P104_MaximumDepthOfBinaryTree.md) |[P104_MaximumDepthOfBinaryTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P104_MaximumDepthOfBinaryTree.java)|😄|
 |💚 |[P110_平衡二叉树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P110_BalancedBinaryTree.md) |[P110_BalancedBinaryTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P110_BalancedBinaryTree.java)|😄|
 |💚 |[P111_二叉树的最小深度](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P111_MinimumDepthOfBinaryTree.md) |[P111_MinimumDepthOfBinaryTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P111_MinimumDepthOfBinaryTree.java)|😄|
+|🧡 |[P211_添加与搜索单词 - 数据结构设计](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P211_DesignAddAndSearchWordsDataStructure.md) |[P211_DesignAddAndSearchWordsDataStructure.java](./src/main/java/com/uyaki/leetcode/editor/cn/P211_DesignAddAndSearchWordsDataStructure.java)|😄|
 
 ---
 
