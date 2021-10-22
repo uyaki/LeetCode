@@ -13,6 +13,8 @@
 
 - 解题技巧：[一些坑](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Error.md)
 - 位运算的解题总结：[Bit](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Bit.md)
+-
+摩尔投票法总结：[Boyer–Moore Majority Vote Algorithm](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Boyer–MooreMajorityVoteAlgorithm.md)
 - 树的解题总结：[Tree](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Tree.md)
 - 分治法的解题总结：[Divide And Conquer](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/DivideAndConquer.md)
 - 二分法的解题总结：[binary search](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/BinarySearch.md)
@@ -183,6 +185,7 @@
 |💚 |[P66_加一](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P66_PlusOne.md) |[P66_PlusOne.java](./src/main/java/com/uyaki/leetcode/editor/cn/P66_PlusOne.java)|😄|
 |🧡 |[P166_分数到小数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P166_FractionToRecurringDecimal.md) |[P166_FractionToRecurringDecimal.java](./src/main/java/com/uyaki/leetcode/editor/cn/P166_FractionToRecurringDecimal.java)|😄|
 |🧡 |[P223_矩形面积](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P223_RectangleArea.md) |[P223_RectangleArea.java](./src/main/java/com/uyaki/leetcode/editor/cn/P223_RectangleArea.java)|😄|
+|🧡 |[P229_求众数 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P229_MajorityElementIi.md) |[P229_MajorityElementIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P229_MajorityElementIi.java)|😄|
 |💚 |[P405_数字转换为十六进制数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P405_ConvertANumberToHexadecimal.md) |[P405_ConvertANumberToHexadecimal.java](./src/main/java/com/uyaki/leetcode/editor/cn/P405_ConvertANumberToHexadecimal.java)|😄|
 |💚 |[P412_Fizz Buzz](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P412_FizzBuzz.md) |[P412_FizzBuzz.java](./src/main/java/com/uyaki/leetcode/editor/cn/P412_FizzBuzz.java)|😄|
 |💚 |[P414_第三大的数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P414_ThirdMaximumNumber.md) |[P414_ThirdMaximumNumber.java](./src/main/java/com/uyaki/leetcode/editor/cn/P414_ThirdMaximumNumber.java)|😄|
