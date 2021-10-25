@@ -13,7 +13,8 @@
 
 - 解题技巧：[一些坑](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Error.md)
 - 位运算的解题总结：[Bit](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Bit.md)
-- 摩尔投票法总结：[Boyer–Moore Majority Vote Algorithm](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Boyer–MooreMajorityVoteAlgorithm.md)
+-
+摩尔投票法总结：[Boyer–Moore Majority Vote Algorithm](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Boyer–MooreMajorityVoteAlgorithm.md)
 - 树的解题总结：[Tree](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Tree.md)
 - 分治法的解题总结：[Divide And Conquer](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/DivideAndConquer.md)
 - 二分法的解题总结：[binary search](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/BinarySearch.md)
@@ -142,6 +143,7 @@
 |:---:|:---|:---|:---:|
 |💚 |[P35_搜索插入位置](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P35_SearchInsertPosition.md) |[P35_SearchInsertPosition.java](./src/main/java/com/uyaki/leetcode/editor/cn/P35_SearchInsertPosition.java)|😄|
 |💚 |[P69_x 的平方根](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P69_Sqrtx.md) |[P69_Sqrtx.java](./src/main/java/com/uyaki/leetcode/editor/cn/P69_Sqrtx.java)|😄|
+|🧡 |[P240_搜索二维矩阵 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P240_SearchA2dMatrixIi.md) |[P240_SearchA2dMatrixIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P240_SearchA2dMatrixIi.java)|😄|
 |❤️ |[P352_将数据流变为多个不相交区间](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P352_DataStreamAsDisjointIntervals.md) |[P352_DataStreamAsDisjointIntervals.java](./src/main/java/com/uyaki/leetcode/editor/cn/P352_DataStreamAsDisjointIntervals.java)|😄|
 |💚 |[P441_排列硬币](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P441_ArrangingCoins.md) |[P441_ArrangingCoins.java](./src/main/java/com/uyaki/leetcode/editor/cn/P441_ArrangingCoins.java)|😄|
 |💚 |[P704_二分查找](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P704_BinarySearch.md) |[P704_BinarySearch.java](./src/main/java/com/uyaki/leetcode/editor/cn/P704_BinarySearch.java)|😄|
