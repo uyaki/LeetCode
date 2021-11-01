@@ -2,6 +2,8 @@
 
 ## 解决问题
 
+> 二分图的最大匹配算法
+
 ## 二分图
 
 二分图：又称作二部图，是图论中的一种特殊模型。 设G=(V,E)是一个无向图，如果顶点V可分割为两个互不相交的子集(A,B)，并且图中的每条边所关联的两个顶点i和j分别属于这两个不同的顶点集(i∈A, j∈B)，则称图G为一个二分图。
@@ -232,108 +234,108 @@ class Solution {
 
 ```java
 class Solution {
-     /**
-      * 女生数
-      */
-     int m;
-     /**
-      * 男生数
-      */
-     int n;
-     /**
-      * 第j个男生被哪个女生匹配了. -1表示还没有对象
-      */
-     int[] boys;
-     /**
-      * 第i个女生被哪个男生匹配了. -1表示还没有对象
-      */
-     int[] girls;
-     /**
-      * 当前男生匹配的对象是哪个女生 vis[j]=x代表被使用过了
-      */
-     int[] vis;
+    /**
+     * 女生数
+     */
+    int m;
+    /**
+     * 男生数
+     */
+    int n;
+    /**
+     * 第j个男生被哪个女生匹配了. -1表示还没有对象
+     */
+    int[] boys;
+    /**
+     * 第i个女生被哪个男生匹配了. -1表示还没有对象
+     */
+    int[] girls;
+    /**
+     * 当前男生匹配的对象是哪个女生 vis[j]=x代表被使用过了
+     */
+    int[] vis;
 
-     /**
-      * (i,j) = 1表示第i个女生可以和第j个男生搭配
-      */
-     int[][] lines;
+    /**
+     * (i,j) = 1表示第i个女生可以和第j个男生搭配
+     */
+    int[][] lines;
 
-     /**
-      * 前节点，-1表示根节点
-      */
-     int[] prev;
+    /**
+     * 前节点，-1表示根节点
+     */
+    int[] prev;
 
-     /**
-      * @param m   女生人数
-      * @param n   男生人数
-      * @param map 关系图
-      * @return 关系数
-      */
-     public int domino(int m, int n, int[][] map) {
-         this.m = m;
-         this.n = n;
-         this.vis = new int[n + 1];
-         this.boys = new int[n + 1];
-         this.girls = new int[m + 1];
-         this.lines = new int[m + 1][n + 1];
-         this.prev = new int[m + 1];
-         Arrays.fill(boys, -1);
-         Arrays.fill(girls, -1);
-         Arrays.fill(vis, -1);
-         for (int[] temp : map) {
-             lines[temp[0]][temp[1]] = 1;
-         }
-         int res = 0;
-         for (int i = 1; i <= m; i++) {
-             if (bfs(i)) {
-                 //成功找到一个新的增广路径
-                 res++;
-             }
-         }
-         return res;
-     }
+    /**
+     * @param m   女生人数
+     * @param n   男生人数
+     * @param map 关系图
+     * @return 关系数
+     */
+    public int domino(int m, int n, int[][] map) {
+        this.m = m;
+        this.n = n;
+        this.vis = new int[n + 1];
+        this.boys = new int[n + 1];
+        this.girls = new int[m + 1];
+        this.lines = new int[m + 1][n + 1];
+        this.prev = new int[m + 1];
+        Arrays.fill(boys, -1);
+        Arrays.fill(girls, -1);
+        Arrays.fill(vis, -1);
+        for (int[] temp : map) {
+            lines[temp[0]][temp[1]] = 1;
+        }
+        int res = 0;
+        for (int i = 1; i <= m; i++) {
+            if (bfs(i)) {
+                //成功找到一个新的增广路径
+                res++;
+            }
+        }
+        return res;
+    }
 
-     public boolean bfs(int x) {
-         // 如果没有连接的男的
-         if (girls[x] == -1) {
-             Queue<Integer> queue = new ArrayDeque<>();
-             //塞入队列，等待连接
-             queue.add(x);
-             // 设x为起始路径
-             prev[x] = -1;
-             // 尚未找到增广路
-             boolean flag = false;
-             while (!queue.isEmpty() && !flag) {
-                 int i = queue.peek();
-                 queue.poll();
-                 for (int j = 1; j <= n; j++) {
-                     //注意，是vis[j]=x，而不是=i
-                     if (vis[j] != x && lines[i][j] == 1) {
-                         vis[j] = x;
-                         if (boys[j] >= 0) {
-                             //如果j被别人连了，就要调整对应的i
-                             queue.add(boys[j]);
-                             // 在已匹配点
-                             prev[boys[j]] = i;
-                         } else {
-                             // 找到未匹配点，交替路变为增广路
-                             flag = true;
-                             while (i != -1) {
-                                 //找到一个未匹配点，不断往回更新，让他们重选下一个
-                                 int t = girls[i];
-                                 girls[i] = j;
-                                 boys[j] = i;
-                                 i = prev[i];
-                                 j = t;
-                             }
-                             break;
-                         }
-                     }
-                 }
-             }
-             return girls[x] > 0;
-         }
-         return false;
-     }
- }
+    public boolean bfs(int x) {
+        // 如果没有连接的男的
+        if (girls[x] == -1) {
+            Queue<Integer> queue = new ArrayDeque<>();
+            //塞入队列，等待连接
+            queue.add(x);
+            // 设x为起始路径
+            prev[x] = -1;
+            // 尚未找到增广路
+            boolean flag = false;
+            while (!queue.isEmpty() && !flag) {
+                int i = queue.peek();
+                queue.poll();
+                for (int j = 1; j <= n; j++) {
+                    //注意，是vis[j]=x，而不是=i
+                    if (vis[j] != x && lines[i][j] == 1) {
+                        vis[j] = x;
+                        if (boys[j] >= 0) {
+                            //如果j被别人连了，就要调整对应的i
+                            queue.add(boys[j]);
+                            // 在已匹配点
+                            prev[boys[j]] = i;
+                        } else {
+                            // 找到未匹配点，交替路变为增广路
+                            flag = true;
+                            while (i != -1) {
+                                //找到一个未匹配点，不断往回更新，让他们重选下一个
+                                int t = girls[i];
+                                girls[i] = j;
+                                boys[j] = i;
+                                i = prev[i];
+                                j = t;
+                            }
+                            break;
+                        }
+                    }
+                }
+            }
+            return girls[x] > 0;
+        }
+        return false;
+    }
+}
 ```
