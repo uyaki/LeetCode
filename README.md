@@ -60,6 +60,7 @@
 |难度|题目|题解|掌握度|
 |:---:|:---|:---|:---:|
 |💚 |[P234_回文链表](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P234_PalindromeLinkedList.md) |[P234_PalindromeLinkedList.java](./src/main/java/com/uyaki/leetcode/editor/cn/P234_PalindromeLinkedList.java)|😄|
+|💚 |[P237_删除链表中的节点](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P237_DeleteNodeInALinkedList.md) |[P237_DeleteNodeInALinkedList.java](./src/main/java/com/uyaki/leetcode/editor/cn/P237_DeleteNodeInALinkedList.java)|😄|
 
 ---
 
