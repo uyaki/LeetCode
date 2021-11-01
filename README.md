@@ -14,11 +14,8 @@
 - 解题技巧：[一些坑](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Error.md)
 - 位运算的解题总结：[Bit](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Bit.md)
 - 背包问题[Knapsack problem](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/KnapsackProblem.md)
--
-
-  最接近目标值的子序列合问题解法[Sum of target subsequences](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/SumOfTargetSubsequences.md)
--
-摩尔投票法总结：[Boyer–Moore Majority Vote](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Boyer–MooreMajorityVote.md)
+- 最接近目标值的子序列合问题解法[Sum of target subsequences](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/SumOfTargetSubsequences.md)
+- 摩尔投票法总结：[Boyer–Moore Majority Vote](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Boyer–MooreMajorityVote.md)
 - 二分图的最大匹配算法
   - 匈牙利算法：[HungarianAlgorithm](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/HungarianAlgorithm.md)
 - 树的解题总结：[Tree](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Tree.md)
