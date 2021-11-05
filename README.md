@@ -216,6 +216,7 @@
 |💚 |[P118_杨辉三角](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P118_PascalsTriangle.md) | |[P118_PascalsTriangle.java](./src/main/java/com/uyaki/leetcode/editor/cn/P118_PascalsTriangle.java)|😄|
 |💚 |[P119_杨辉三角 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P119_PascalsTriangleIi.md) | |[P119_PascalsTriangleIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P119_PascalsTriangleIi.java)|😄|
 |💚 |[P121_买卖股票的最佳时机](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P121_BestTimeToBuyAndSellStock.md) | |[P121_BestTimeToBuyAndSellStock.java](./src/main/java/com/uyaki/leetcode/editor/cn/P121_BestTimeToBuyAndSellStock.java)|😄|
+|❤️ |[P1218_最长定差子序列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1218_LongestArithmeticSubsequenceOfGivenDifference.md) | |[P1218_LongestArithmeticSubsequenceOfGivenDifference.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1218_LongestArithmeticSubsequenceOfGivenDifference.java)|😄|
 
 ---
 
