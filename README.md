@@ -68,6 +68,7 @@
 |难度|题目|题解|代码|掌握度|
 |:---:|:---|:---|:---:|:---|
 |💚 |[P190_颠倒二进制位](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P190_ReverseBits.md) | |[P190_ReverseBits.java](./src/main/java/com/uyaki/leetcode/editor/cn/P190_ReverseBits.java)|😄|
+|💚 |[P268_丢失的数字](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P268_MissingNumber.md) | 异或`^`抵消 |[P268_MissingNumber.java](./src/main/java/com/uyaki/leetcode/editor/cn/P268_MissingNumber.java)|😄|
 |💚 |[P476_数字的补数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P476_NumberComplement.md) | |[P476_NumberComplement.java](./src/main/java/com/uyaki/leetcode/editor/cn/P476_NumberComplement.java)|🤨|
 
 ---
