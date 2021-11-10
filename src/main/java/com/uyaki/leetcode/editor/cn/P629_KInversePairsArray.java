@@ -49,6 +49,11 @@ public class P629_KInversePairsArray {
             f[0][0] = 1;
             for (int i = 1; i <= n; ++i) {
                 for (int j = 0; j <= k; ++j) {
+                    // i & 1= i % 2 ;
+                    // 0 ^ 1 = 1
+                    // 1 ^ 1 = 0
+                    // i 为奇数 ，则 cur = 1；prev = 0；
+                    // i 为偶数 ，则 cur = 0；prev = 1；
                     int cur = i & 1, prev = cur ^ 1;
                     f[cur][j] = (j - 1 >= 0 ? f[cur][j - 1] : 0) - (j - i >= 0 ? f[prev][j - i] : 0) + f[prev][j];
                     if (f[cur][j] >= MOD) {
