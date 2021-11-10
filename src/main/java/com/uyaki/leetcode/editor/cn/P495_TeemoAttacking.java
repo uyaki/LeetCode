@@ -59,10 +59,8 @@ public class P495_TeemoAttacking {
     class Solution {
         public int findPoisonedDuration(int[] timeSeries, int duration) {
             int ans = 0;
-            int prev = timeSeries[0];
             for (int i = 1; i < timeSeries.length; i++) {
-                ans += Math.min(timeSeries[i] - prev, duration);
-                prev = timeSeries[i];
+                ans += Math.min(timeSeries[i] - timeSeries[i-1], duration);
             }
             return ans + duration;
         }
