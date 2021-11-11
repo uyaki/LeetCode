@@ -38,18 +38,22 @@ public class P375_GuessNumberHigherOrLowerIi {
     class Solution {
         public int getMoneyAmount(int n) {
             // dp[i][j] 表示在 区间[i,j]猜数所需要的花费
-            // dp[0][0] = 0
+            //
+            // dp[1][1] = 0
+            // dp[1][1]是指只有一个数字1，我们以1作为分割点(猜的数)，赢得游戏所用钱的最小值，一看就知道，dp[1][1]=0。因为我们只能猜1，答案也只能是1，不用花钱
+            //
             // 枚举先猜k，则花费k，剩下区间[i,k-1]和[k+1,j]，因为会告诉你大了或小了，所以肯定只选择一个
             // 又因为我们要保证猜对，所以取max{dp[i][k-1],dp[k+1][j]} ，即有：
             // dp[i][j]=min(dp[i][j], k+max(dp[i][k-1],dp[k+1][j]));
-            int[][] dp = new int[n + 2][n + 2];
-            for (int j = 1; j <= n; j++) {
-                for (int i = j - 1; i >= 1; i--) {
-                    dp[i][j] = n * n; //初始成极大值
-                    for (int k = i; k <= j; k++) {
+            int[][] dp = new int[n + 1][n + 1];
+            for (int i = n - 1; i >= 1; i--) {
+                for (int j = i + 1; j <= n; j++) {
+                    int minCost = Integer.MAX_VALUE;
+                    for (int k = i; k < j; k++) {
                         int cost = k + Math.max(dp[i][k - 1], dp[k + 1][j]);
-                        dp[i][j] = Math.min(dp[i][j], cost);
+                        minCost = Math.min(minCost, cost);
                     }
+                    dp[i][j] = minCost;
                 }
             }
             return dp[1][n];
