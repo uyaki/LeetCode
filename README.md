@@ -4,6 +4,8 @@
   - [IDEA插件之LeetCode Editor配置](#idea插件之leetcode-editor配置)
   - [说明](#说明)
   - [总结](#总结)
+  - [字符串操作](#字符串操作)
+  - [数组](#数组)
   - [递归](#递归)
   - [位运算](#位运算)
   - [堆](#堆)
@@ -13,8 +15,6 @@
   - [树](#树)
     - [树的遍历](#树的遍历)
     - [深度优先搜索](#深度优先搜索)
-  - [字符串操作](#字符串操作)
-  - [数组](#数组)
   - [分治法](#分治法)
   - [二分查找](#二分查找)
   - [贪心算法](#贪心算法)
@@ -51,6 +51,30 @@
 - 分治法的解题总结：[Divide And Conquer](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/DivideAndConquer.md)
 - 二分法的解题总结：[binary search](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/BinarySearch.md)
 - 动态规划的解题总结：[Dynamic Programming](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/DynamicProgramming.md)
+---
+
+## 字符串操作
+
+|难度|题目|题解|代码|掌握度|
+|:---:|:---|:---|:---:|:---|
+|💛 |[P5_最长回文子串](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P5_LongestPalindromicSubstring.md) | |[P5_LongestPalindromicSubstring.java](./src/main/java/com/uyaki/leetcode/editor/cn/P5_LongestPalindromicSubstring.java)|😄|
+|💛 |[P38_外观数列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P38_CountAndSay.md) | |[P38_CountAndSay.java](./src/main/java/com/uyaki/leetcode/editor/cn/P38_CountAndSay.java)|😄|
+|❤️ |[P273_整数转换英文表示](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P273_IntegerToEnglishWords.md) | |[P273_IntegerToEnglishWords.java](./src/main/java/com/uyaki/leetcode/editor/cn/P273_IntegerToEnglishWords.java)|😄|
+|💛 |[P299_猜数字游戏](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P299_BullsAndCows.md) | |[P299_BullsAndCows.java](./src/main/java/com/uyaki/leetcode/editor/cn/P299_BullsAndCows.java)|😄|
+|💚 |[P434_字符串中的单词数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P434_NumberOfSegmentsInAString.md) | |[P434_NumberOfSegmentsInAString.java](./src/main/java/com/uyaki/leetcode/editor/cn/P434_NumberOfSegmentsInAString.java)|😄|
+|💚 |[P482_密钥格式化](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P482_LicenseKeyFormatting.md) | |[P482_LicenseKeyFormatting.java](./src/main/java/com/uyaki/leetcode/editor/cn/P482_LicenseKeyFormatting.java)|😄|
+|💚 |[P500_键盘行](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P500_KeyboardRow.md) | |[P500_KeyboardRow.java](./src/main/java/com/uyaki/leetcode/editor/cn/P500_KeyboardRow.java)|😄|
+|💚 |[P520_检测大写字母](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P520_DetectCapital.md) | |[P520_DetectCapital.java](./src/main/java/com/uyaki/leetcode/editor/cn/P520_DetectCapital.java)|😄|
+
+---
+
+## 数组
+
+|难度|题目|题解|代码|掌握度|
+|:---:|:---|:---|:---:|:---|
+|❤️ |[P4_寻找两个正序数组的中位数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P4_MedianOfTwoSortedArrays.md) | |[P4_MedianOfTwoSortedArrays.java](./src/main/java/com/uyaki/leetcode/editor/cn/P4_MedianOfTwoSortedArrays.java)|😄|
+|💛 |[P260_只出现一次的数字 III](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P260_SingleNumberIii.md) | |[P260_SingleNumberIii.java](./src/main/java/com/uyaki/leetcode/editor/cn/P260_SingleNumberIii.java)|😄|
+|💛 |[P284_顶端迭代器](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P284_PeekingIterator.md) | |[P284_PeekingIterator.java](./src/main/java/com/uyaki/leetcode/editor/cn/P284_PeekingIterator.java)|😄|
 
 ---
 
@@ -150,29 +174,6 @@
 |💚 |[P111_二叉树的最小深度](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P111_MinimumDepthOfBinaryTree.md) | |[P111_MinimumDepthOfBinaryTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P111_MinimumDepthOfBinaryTree.java)|😄|
 |💛 |[P211_添加与搜索单词 - 数据结构设计](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P211_DesignAddAndSearchWordsDataStructure.md) | |[P211_DesignAddAndSearchWordsDataStructure.java](./src/main/java/com/uyaki/leetcode/editor/cn/P211_DesignAddAndSearchWordsDataStructure.java)|😄|
 
----
-
-## 字符串操作
-
-|难度|题目|题解|代码|掌握度|
-|:---:|:---|:---|:---:|:---|
-|💛 |[P5_最长回文子串](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P5_LongestPalindromicSubstring.md) | |[P5_LongestPalindromicSubstring.java](./src/main/java/com/uyaki/leetcode/editor/cn/P5_LongestPalindromicSubstring.java)|😄|
-|💛 |[P38_外观数列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P38_CountAndSay.md) | |[P38_CountAndSay.java](./src/main/java/com/uyaki/leetcode/editor/cn/P38_CountAndSay.java)|😄|
-|❤️ |[P273_整数转换英文表示](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P273_IntegerToEnglishWords.md) | |[P273_IntegerToEnglishWords.java](./src/main/java/com/uyaki/leetcode/editor/cn/P273_IntegerToEnglishWords.java)|😄|
-|💛 |[P299_猜数字游戏](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P299_BullsAndCows.md) | |[P299_BullsAndCows.java](./src/main/java/com/uyaki/leetcode/editor/cn/P299_BullsAndCows.java)|😄|
-|💚 |[P434_字符串中的单词数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P434_NumberOfSegmentsInAString.md) | |[P434_NumberOfSegmentsInAString.java](./src/main/java/com/uyaki/leetcode/editor/cn/P434_NumberOfSegmentsInAString.java)|😄|
-|💚 |[P482_密钥格式化](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P482_LicenseKeyFormatting.md) | |[P482_LicenseKeyFormatting.java](./src/main/java/com/uyaki/leetcode/editor/cn/P482_LicenseKeyFormatting.java)|😄|
-|💚 |[P500_键盘行](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P500_KeyboardRow.md) | |[P500_KeyboardRow.java](./src/main/java/com/uyaki/leetcode/editor/cn/P500_KeyboardRow.java)|😄|
-
----
-
-## 数组
-
-|难度|题目|题解|代码|掌握度|
-|:---:|:---|:---|:---:|:---|
-|❤️ |[P4_寻找两个正序数组的中位数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P4_MedianOfTwoSortedArrays.md) | |[P4_MedianOfTwoSortedArrays.java](./src/main/java/com/uyaki/leetcode/editor/cn/P4_MedianOfTwoSortedArrays.java)|😄|
-|💛 |[P260_只出现一次的数字 III](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P260_SingleNumberIii.md) | |[P260_SingleNumberIii.java](./src/main/java/com/uyaki/leetcode/editor/cn/P260_SingleNumberIii.java)|😄|
-|💛 |[P284_顶端迭代器](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P284_PeekingIterator.md) | |[P284_PeekingIterator.java](./src/main/java/com/uyaki/leetcode/editor/cn/P284_PeekingIterator.java)|😄|
 
 ---
 
