@@ -6,6 +6,7 @@
   - [总结](#总结)
   - [字符串操作](#字符串操作)
   - [数组](#数组)
+  - [哈希](#哈希)
   - [递归](#递归)
   - [位运算](#位运算)
   - [堆](#堆)
@@ -75,6 +76,14 @@
 |❤️ |[P4_寻找两个正序数组的中位数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P4_MedianOfTwoSortedArrays.md) | |[P4_MedianOfTwoSortedArrays.java](./src/main/java/com/uyaki/leetcode/editor/cn/P4_MedianOfTwoSortedArrays.java)|😄|
 |💛 |[P260_只出现一次的数字 III](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P260_SingleNumberIii.md) | |[P260_SingleNumberIii.java](./src/main/java/com/uyaki/leetcode/editor/cn/P260_SingleNumberIii.java)|😄|
 |💛 |[P284_顶端迭代器](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P284_PeekingIterator.md) | |[P284_PeekingIterator.java](./src/main/java/com/uyaki/leetcode/editor/cn/P284_PeekingIterator.java)|😄|
+
+---
+
+## 哈希
+
+|难度|题目|题解|代码|掌握度|
+|:---:|:---|:---|:---:|:---|
+|💛 |[P677_键值映射](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P677_MapSumPairs.md) | |[P677_MapSumPairs.java](./src/main/java/com/uyaki/leetcode/editor/cn/P677_MapSumPairs.java)|😄|
 
 ---
 
