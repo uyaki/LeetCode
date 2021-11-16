@@ -489,6 +489,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P318_MaximumProductOfWordLengths.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P318_MaximumProductOfWordLengths.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P318_MaximumProductOfWordLengths.java" />
+              <option name="questionId" value="318" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P319_BulbSwitcher.java">
           <value>
             <LeetcodeEditor>
