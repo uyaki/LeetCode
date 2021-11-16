@@ -55,7 +55,6 @@ public class P318_MaximumProductOfWordLengths {
     class Solution {
         public int maxProduct(String[] words) {
             int maxSum = 0;
-            //贪心
             for (int i = 0; i < words.length; i++) {
                 for (int j = i + 1; j < words.length; j++) {
                     if (!hasSameChar(words[i], words[j])) {
