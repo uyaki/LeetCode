@@ -19,6 +19,7 @@
   - [分治法](#分治法)
   - [二分查找](#二分查找)
   - [贪心算法](#贪心算法)
+  - [记忆化搜索](#记忆化搜索)
   - [动态规划](#动态规划)
   - [最短路径](#最短路径)
   - [数学题](#数学题)
@@ -216,6 +217,15 @@
 |难度|题目|题解|代码|掌握度|
 |:---:|:---|:---|:---:|:---|
 |💚 |[P575_分糖果](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P575_DistributeCandies.md) | |[P575_DistributeCandies.java](./src/main/java/com/uyaki/leetcode/editor/cn/P575_DistributeCandies.java)|😄|
+|💛 |[P397_整数替换](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P397_IntegerReplacement.md) | |[P397_IntegerReplacement.java](./src/main/java/com/uyaki/leetcode/editor/cn/P397_IntegerReplacement.java)|😄|
+
+---
+
+## 记忆化搜索
+
+|难度|题目|题解|代码|掌握度|
+|:---:|:---|:---|:---:|:---|
+|💛 |[P397_整数替换](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P397_IntegerReplacement.md) | |[P397_IntegerReplacement.java](./src/main/java/com/uyaki/leetcode/editor/cn/P397_IntegerReplacement.java)|😄|
 
 ---
 

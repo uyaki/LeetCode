@@ -570,6 +570,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P397_IntegerReplacement.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P397_IntegerReplacement.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P397_IntegerReplacement.java" />
+              <option name="questionId" value="397" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P3_LongestSubstringWithoutRepeatingCharacters.java">
           <value>
             <LeetcodeEditor>
