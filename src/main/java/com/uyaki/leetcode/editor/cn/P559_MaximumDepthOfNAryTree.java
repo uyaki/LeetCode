@@ -79,6 +79,7 @@ class Node {
             List<Node> children = root.children;
             for (Node child : children) {
                 int childDepth = maxDepth(child);
+                // 选择子树深度最大的那颗
                 maxChildDepth = Math.max(maxChildDepth, childDepth);
             }
             return maxChildDepth + 1;
