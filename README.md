@@ -78,6 +78,7 @@
 |❤️ |[P4_寻找两个正序数组的中位数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P4_MedianOfTwoSortedArrays.md) | |[P4_MedianOfTwoSortedArrays.java](./src/main/java/com/uyaki/leetcode/editor/cn/P4_MedianOfTwoSortedArrays.java)|😄|
 |💛 |[P260_只出现一次的数字 III](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P260_SingleNumberIii.md) | |[P260_SingleNumberIii.java](./src/main/java/com/uyaki/leetcode/editor/cn/P260_SingleNumberIii.java)|😄|
 |💛 |[P284_顶端迭代器](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P284_PeekingIterator.md) | |[P284_PeekingIterator.java](./src/main/java/com/uyaki/leetcode/editor/cn/P284_PeekingIterator.java)|😄|
+|💛 |[P384_打乱数组](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P384_ShuffleAnArray.md) | |[P384_ShuffleAnArray.java](./src/main/java/com/uyaki/leetcode/editor/cn/P384_ShuffleAnArray.java)|😄|
 |💚 |[P594_最长和谐子序列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P594_LongestHarmoniousSubsequence.md) | |[P594_LongestHarmoniousSubsequence.java](./src/main/java/com/uyaki/leetcode/editor/cn/P594_LongestHarmoniousSubsequence.java)|😄|
 
 ---
