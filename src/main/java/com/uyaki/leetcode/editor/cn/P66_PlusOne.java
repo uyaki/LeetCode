@@ -53,6 +53,7 @@ public class P66_PlusOne{
 	//leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int[] plusOne(int[] digits) {
+		// 不要使用转成数字运算再转成数组的方法，会越界
 		// 是否进位+1
 		int tmp = 0;
 		for (int i = digits.length - 1; i >= 0; i--) {
