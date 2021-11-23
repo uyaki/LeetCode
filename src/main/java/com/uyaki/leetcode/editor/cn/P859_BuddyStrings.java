@@ -53,49 +53,50 @@ package com.uyaki.leetcode.editor.cn;
 /**
  * 亲密字符串
  */
-public class P859_BuddyStrings{
-	 public static void main(String[] args) {
-	 	 //测试代码
-	 	 Solution solution = new P859_BuddyStrings().new Solution();
-	 }
-	//leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
-    public boolean buddyStrings(String s, String goal) {
-		//1、长度要一致；
-		if(s.length()!=goal.length()){
-			return false;
-		}
-		// 2、字符串相同且最大频次字母大于1
-		if (s.equals(goal)) {
-			//统计字符出现频次
-			int[] count = new int[26];
-			for (char ch:s.toCharArray()) {
-				count[ch - 'a']++;
-				if (count[ch - 'a'] > 1) {
-					return true;
-				}
-			}
-			return false;
-		}else {
-		// 3、两个字符不相同且可以互换；
-			int first = -1, second = -1;
-			for (int i = 0; i < s.length(); i++) {
-				if (s.charAt(i) != goal.charAt(i)) {
-					if (first == -1) {
-						first = i;
-					} else if (second == -1) {
-						second = i;
-					} else {
-						// 超过3个字符不同直接false
-						return false;
-					}
-				}
-			}
-			// 有两个字符不同且，可以互换
-			return second != -1 && s.charAt(first) == goal.charAt(second) && s.charAt(second) == goal.charAt(first);
-		}
+public class P859_BuddyStrings {
+    public static void main(String[] args) {
+        //测试代码
+        Solution solution = new P859_BuddyStrings().new Solution();
     }
-}
+
+    //leetcode submit region begin(Prohibit modification and deletion)
+    class Solution {
+        public boolean buddyStrings(String s, String goal) {
+            //1、长度要一致；
+            if (s.length() != goal.length()) {
+                return false;
+            }
+            // 2、字符串相同且最大频次字母大于1
+            if (s.equals(goal)) {
+                //统计字符出现频次
+                int[] count = new int[26];
+                for (char ch : s.toCharArray()) {
+                    count[ch - 'a']++;
+                    if (count[ch - 'a'] > 1) {
+                        return true;
+                    }
+                }
+                return false;
+            } else {
+                // 3、两个字符不相同且可以互换；
+                int first = -1, second = -1;
+                for (int i = 0; i < s.length(); i++) {
+                    if (s.charAt(i) != goal.charAt(i)) {
+                        if (first == -1) {
+                            first = i;
+                        } else if (second == -1) {
+                            second = i;
+                        } else {
+                            // 超过3个字符不同直接false
+                            return false;
+                        }
+                    }
+                }
+                // 有两个字符不同且，可以互换
+                return second != -1 && s.charAt(first) == goal.charAt(second) && s.charAt(second) == goal.charAt(first);
+            }
+        }
+    }
 //leetcode submit region end(Prohibit modification and deletion)
 
 }
