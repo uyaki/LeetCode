@@ -4,6 +4,7 @@
   - [IDEA插件之LeetCode Editor配置](#idea插件之leetcode-editor配置)
   - [说明](#说明)
   - [总结](#总结)
+  - [数学题](#数学题)
   - [字符串操作](#字符串操作)
   - [数组](#数组)
   - [哈希](#哈希)
@@ -22,7 +23,6 @@
   - [记忆化搜索](#记忆化搜索)
   - [动态规划](#动态规划)
   - [最短路径](#最短路径)
-  - [数学题](#数学题)
   - [回溯法](#回溯法)
   - [TODO](#todo)
 
@@ -53,6 +53,35 @@
 - 分治法的解题总结：[Divide And Conquer](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/DivideAndConquer.md)
 - 二分法的解题总结：[binary search](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/BinarySearch.md)
 - 动态规划的解题总结：[Dynamic Programming](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/DynamicProgramming.md)
+
+---
+
+## 数学题
+
+|难度|题目|题解|代码|掌握度|
+|:---:|:---|:---|:---:|:---|
+|💛 |[P29_两数相除?](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P29_DivideTwoIntegers.md) | |[P29_DivideTwoIntegers.java](./src/main/java/com/uyaki/leetcode/editor/cn/P29_DivideTwoIntegers.java)|😄|
+|💚 |[P66_加一](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P66_PlusOne.md) | |[P66_PlusOne.java](./src/main/java/com/uyaki/leetcode/editor/cn/P66_PlusOne.java)|😄|
+|💛 |[P166_分数到小数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P166_FractionToRecurringDecimal.md) | |[P166_FractionToRecurringDecimal.java](./src/main/java/com/uyaki/leetcode/editor/cn/P166_FractionToRecurringDecimal.java)|😄|
+|💛 |[P223_矩形面积](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P223_RectangleArea.md) | |[P223_RectangleArea.java](./src/main/java/com/uyaki/leetcode/editor/cn/P223_RectangleArea.java)|😄|
+|💛 |[P229_求众数 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P229_MajorityElementIi.md) | |[P229_MajorityElementIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P229_MajorityElementIi.java)|😄|
+|💛 |[P319_灯泡开关](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P319_BulbSwitcher.md) | |[P319_BulbSwitcher.java](./src/main/java/com/uyaki/leetcode/editor/cn/P319_BulbSwitcher.java)|😄|
+|❤️ |[P335_路径交叉](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P335_SelfCrossing.md) | |[P335_SelfCrossing.java](./src/main/java/com/uyaki/leetcode/editor/cn/P335_SelfCrossing.java)|🤯|
+|❤️ |[P391_完美矩形](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P391_PerfectRectangle.md) | |[P391_PerfectRectangle.java](./src/main/java/com/uyaki/leetcode/editor/cn/P391_PerfectRectangle.java)|😄|
+|💚 |[P405_数字转换为十六进制数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P405_ConvertANumberToHexadecimal.md) | |[P405_ConvertANumberToHexadecimal.java](./src/main/java/com/uyaki/leetcode/editor/cn/P405_ConvertANumberToHexadecimal.java)|😄|
+|💚 |[P412_Fizz Buzz](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P412_FizzBuzz.md) | |[P412_FizzBuzz.java](./src/main/java/com/uyaki/leetcode/editor/cn/P412_FizzBuzz.java)|😄|
+|💚 |[P414_第三大的数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P414_ThirdMaximumNumber.md) | |[P414_ThirdMaximumNumber.java](./src/main/java/com/uyaki/leetcode/editor/cn/P414_ThirdMaximumNumber.java)|😄|
+|💛 |[P423_从英文中重建数字](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P423_ReconstructOriginalDigitsFromEnglish.md) | 数学统计没啥意思 |[P423_ReconstructOriginalDigitsFromEnglish.java](./src/main/java/com/uyaki/leetcode/editor/cn/P423_ReconstructOriginalDigitsFromEnglish.java)|😄|
+|💚 |[P453_最小操作次数使数组元素相等](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P453_MinimumMovesToEqualArrayElements.md) | |[P453_MinimumMovesToEqualArrayElements.java](./src/main/java/com/uyaki/leetcode/editor/cn/P453_MinimumMovesToEqualArrayElements.java)|😄|
+|💚 |[P492_构造矩形](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P492_ConstructTheRectangle.md) | |[P492_ConstructTheRectangle.java](./src/main/java/com/uyaki/leetcode/editor/cn/P492_ConstructTheRectangle.java)|😄|
+|💚 |[P495_提莫攻击](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P495_TeemoAttackingTest.md) | |[P495_TeemoAttackingTest.java](./src/main/java/com/uyaki/leetcode/editor/cn/P495_TeemoAttackingTest.java)|😄|
+|💚 |[P598_范围求和 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P598_RangeAdditionIi.md) | |[P598_RangeAdditionIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P598_RangeAdditionIi.java)|😄|
+|+++|+++|+++|+++|+++|
+|💛 |[P47_全排列 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P47_PermutationsIi.md) | |[P47_PermutationsIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P47_PermutationsIi.java)|😄|
+|💚 |[P231_2 的幂](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P231_PowerOfTwo.md) | |[P231_PowerOfTwo.java](./src/main/java/com/uyaki/leetcode/editor/cn/P231_PowerOfTwo.java)|😄|
+|💛 |[P869_重新排序得到 2 的幂](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P869_ReorderedPowerOf2.md) | |[P869_ReorderedPowerOf2.java](./src/main/java/com/uyaki/leetcode/editor/cn/P869_ReorderedPowerOf2.java)|😄|
+|+++|+++|+++|+++|+++|
+
 ---
 
 ## 字符串操作
@@ -257,33 +286,6 @@
 |:---:|:---|:---|:---:|:---|
 |💚 |[P1436_旅行终点站](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1436_DestinationCity.md) | |[P1436_DestinationCity.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1436_DestinationCity.java)|😄|
 |💛 |[P1514_概率最大的路径](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1514_PathWithMaximumProbability.md) | |[P1514_PathWithMaximumProbability.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1514_PathWithMaximumProbability.java)|😄|
-
----
-
-## 数学题
-
-|难度|题目|题解|代码|掌握度|
-|:---:|:---|:---|:---:|:---|
-|💛 |[P29_两数相除?](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P29_DivideTwoIntegers.md) | |[P29_DivideTwoIntegers.java](./src/main/java/com/uyaki/leetcode/editor/cn/P29_DivideTwoIntegers.java)|😄|
-|💚 |[P66_加一](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P66_PlusOne.md) | |[P66_PlusOne.java](./src/main/java/com/uyaki/leetcode/editor/cn/P66_PlusOne.java)|😄|
-|💛 |[P166_分数到小数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P166_FractionToRecurringDecimal.md) | |[P166_FractionToRecurringDecimal.java](./src/main/java/com/uyaki/leetcode/editor/cn/P166_FractionToRecurringDecimal.java)|😄|
-|💛 |[P223_矩形面积](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P223_RectangleArea.md) | |[P223_RectangleArea.java](./src/main/java/com/uyaki/leetcode/editor/cn/P223_RectangleArea.java)|😄|
-|💛 |[P229_求众数 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P229_MajorityElementIi.md) | |[P229_MajorityElementIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P229_MajorityElementIi.java)|😄|
-|💛 |[P319_灯泡开关](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P319_BulbSwitcher.md) | |[P319_BulbSwitcher.java](./src/main/java/com/uyaki/leetcode/editor/cn/P319_BulbSwitcher.java)|😄|
-|❤️ |[P335_路径交叉](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P335_SelfCrossing.md) | |[P335_SelfCrossing.java](./src/main/java/com/uyaki/leetcode/editor/cn/P335_SelfCrossing.java)|🤯|
-|❤️ |[P391_完美矩形](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P391_PerfectRectangle.md) | |[P391_PerfectRectangle.java](./src/main/java/com/uyaki/leetcode/editor/cn/P391_PerfectRectangle.java)|😄|
-|💚 |[P405_数字转换为十六进制数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P405_ConvertANumberToHexadecimal.md) | |[P405_ConvertANumberToHexadecimal.java](./src/main/java/com/uyaki/leetcode/editor/cn/P405_ConvertANumberToHexadecimal.java)|😄|
-|💚 |[P412_Fizz Buzz](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P412_FizzBuzz.md) | |[P412_FizzBuzz.java](./src/main/java/com/uyaki/leetcode/editor/cn/P412_FizzBuzz.java)|😄|
-|💚 |[P414_第三大的数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P414_ThirdMaximumNumber.md) | |[P414_ThirdMaximumNumber.java](./src/main/java/com/uyaki/leetcode/editor/cn/P414_ThirdMaximumNumber.java)|😄|
-|💚 |[P453_最小操作次数使数组元素相等](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P453_MinimumMovesToEqualArrayElements.md) | |[P453_MinimumMovesToEqualArrayElements.java](./src/main/java/com/uyaki/leetcode/editor/cn/P453_MinimumMovesToEqualArrayElements.java)|😄|
-|💚 |[P492_构造矩形](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P492_ConstructTheRectangle.md) | |[P492_ConstructTheRectangle.java](./src/main/java/com/uyaki/leetcode/editor/cn/P492_ConstructTheRectangle.java)|😄|
-|💚 |[P495_提莫攻击](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P495_TeemoAttackingTest.md) | |[P495_TeemoAttackingTest.java](./src/main/java/com/uyaki/leetcode/editor/cn/P495_TeemoAttackingTest.java)|😄|
-|💚 |[P598_范围求和 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P598_RangeAdditionIi.md) | |[P598_RangeAdditionIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P598_RangeAdditionIi.java)|😄|
-|+++|+++|+++|+++|+++|
-|💛 |[P47_全排列 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P47_PermutationsIi.md) | |[P47_PermutationsIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P47_PermutationsIi.java)|😄|
-|💚 |[P231_2 的幂](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P231_PowerOfTwo.md) | |[P231_PowerOfTwo.java](./src/main/java/com/uyaki/leetcode/editor/cn/P231_PowerOfTwo.java)|😄|
-|💛 |[P869_重新排序得到 2 的幂](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P869_ReorderedPowerOf2.md) | |[P869_ReorderedPowerOf2.java](./src/main/java/com/uyaki/leetcode/editor/cn/P869_ReorderedPowerOf2.java)|😄|
-|+++|+++|+++|+++|+++|
 
 ---
 
