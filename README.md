@@ -7,6 +7,7 @@
   - [数学题](#数学题)
   - [字符串操作](#字符串操作)
   - [数组](#数组)
+  - [优先队列](#优先队列)
   - [哈希](#哈希)
   - [递归](#递归)
   - [位运算](#位运算)
@@ -116,6 +117,14 @@
 
 ---
 
+## 优先队列
+|难度|题目|题解|代码|掌握度|
+|:---:|:---|:---|:---:|:---|
+|❤️ |[P407_接雨水 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P407_TrappingRainWaterIi.md) |[P407_TrappingRainWaterIi](./src/main/java/com/uyaki/leetcode/editor/cn/doc/answer/P407_TrappingRainWaterIi.md)|[P407_TrappingRainWaterIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P407_TrappingRainWaterIi.java)|🤨|
+|❤️ |[P786_第 K 个最小的素数分数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P786_KThSmallestPrimeFraction.md) | |[P786_KThSmallestPrimeFraction.java](./src/main/java/com/uyaki/leetcode/editor/cn/P786_KThSmallestPrimeFraction.java)|😄|
+|💛 |[P1514_概率最大的路径](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1514_PathWithMaximumProbability.md) | |[P1514_PathWithMaximumProbability.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1514_PathWithMaximumProbability.java)|😄|
+
+---
 ## 哈希
 
 |难度|题目|题解|代码|掌握度|
