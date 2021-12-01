@@ -103,6 +103,7 @@
 |💚 |[P500_键盘行](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P500_KeyboardRow.md) | |[P500_KeyboardRow.java](./src/main/java/com/uyaki/leetcode/editor/cn/P500_KeyboardRow.java)|😄|
 |💚 |[P520_检测大写字母](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P520_DetectCapital.md) | |[P520_DetectCapital.java](./src/main/java/com/uyaki/leetcode/editor/cn/P520_DetectCapital.java)|😄|
 |💚 |[P859_亲密字符串](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P859_BuddyStrings.md) | |[P859_BuddyStrings.java](./src/main/java/com/uyaki/leetcode/editor/cn/P859_BuddyStrings.java)|😄|
+|💚 |[P1446_连续字符](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1446_ConsecutiveCharacters.md) | 🍼 入门 |[P1446_ConsecutiveCharacters.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1446_ConsecutiveCharacters.java)|😄|
 
 ---
 
