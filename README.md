@@ -83,6 +83,7 @@
 |❤️ |[P458_可怜的小猪](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P458_PoorPigs.md) | 👍 信息量/动态规划 |[P458_PoorPigs.java](./src/main/java/com/uyaki/leetcode/editor/cn/P458_PoorPigs.java)|😄|
 |💚 |[P492_构造矩形](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P492_ConstructTheRectangle.md) | 👎 数学 |[P492_ConstructTheRectangle.java](./src/main/java/com/uyaki/leetcode/editor/cn/P492_ConstructTheRectangle.java)|😄|
 |💚 |[P495_提莫攻击](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P495_TeemoAttacking.md) | 🍼 入门  |[P495_TeemoAttacking.java](./src/main/java/com/uyaki/leetcode/editor/cn/P495_TeemoAttacking.java)|😄|
+|💚 |[P506_相对名次](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P506_RelativeRanks.md) | 👍 二位数组记录原始下标 |[P506_RelativeRanks.java](./src/main/java/com/uyaki/leetcode/editor/cn/P506_RelativeRanks.java)|😄|
 |💛 |[P519_随机翻转矩阵](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P519_RandomFlipMatrix.md) | 👍 数组映射 |[P519_RandomFlipMatrix.java](./src/main/java/com/uyaki/leetcode/editor/cn/P519_RandomFlipMatrix.java)|😄|
 |💚 |[P598_范围求和 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P598_RangeAdditionIi.md) | 👎 数学 |[P598_RangeAdditionIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P598_RangeAdditionIi.java)|😄|
 
