@@ -58,9 +58,9 @@
     - 匈牙利算法：[HungarianAlgorithm](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/HungarianAlgorithm.md)
 - 树的解题总结：[Tree](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Tree.md)
 - 分治法的解题总结：[Divide And Conquer](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/DivideAndConquer.md)
+  - 快速幂(本质：分治)总结：[Fast Pow](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/FastPow.md)
 - 二分法的解题总结：[binary search](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/BinarySearch.md)
 - 动态规划的解题总结：[Dynamic Programming](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/DynamicProgramming.md)
-
 ---
 
 ## 数学题
@@ -87,6 +87,9 @@
 |💚 |[P506_相对名次](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P506_RelativeRanks.md) | 👍 二位数组记录原始下标 |[P506_RelativeRanks.java](./src/main/java/com/uyaki/leetcode/editor/cn/P506_RelativeRanks.java)|😄|
 |💛 |[P519_随机翻转矩阵](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P519_RandomFlipMatrix.md) | 👍 数组映射 |[P519_RandomFlipMatrix.java](./src/main/java/com/uyaki/leetcode/editor/cn/P519_RandomFlipMatrix.java)|😄|
 |💚 |[P598_范围求和 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P598_RangeAdditionIi.md) | 👎 数学 |[P598_RangeAdditionIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P598_RangeAdditionIi.java)|😄|
+|+++|快速幂|+++|快速幂|+++|
+|💛 |[P50_Pow(x, n)](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P50_PowxN.md) | 👍 [快速幂](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/FastPow.md) |[P50_PowxN.java](./src/main/java/com/uyaki/leetcode/editor/cn/P50_PowxN.java)|😄|
+|💛 |[P372_超级次方](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P372_SuperPow.md) | 👍 [快速幂](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/FastPow.md) |[P166_FractionToRecurringDecimal.java](./src/main/java/com/uyaki/leetcode/editor/cn/P372_SuperPow.java)|😄|
 
 
 ---
