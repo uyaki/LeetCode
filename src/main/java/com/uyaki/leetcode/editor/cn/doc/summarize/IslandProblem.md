@@ -1,5 +1,29 @@
 # 岛屿（网格）问题
 
+- [岛屿（网格）问题](#岛屿网格问题)
+  - [本质](#本质)
+  - [基本概念](#基本概念)
+    - [网格的基本概念](#网格的基本概念)
+  - [DFS](#dfs)
+    - [DFS的基本结构](#dfs的基本结构)
+    - [网格的DFS](#网格的dfs)
+    - [如何避免重复遍历](#如何避免重复遍历)
+      - [3色标记法：标记已经遍历过的格子（题目允许修改原数组）](#3色标记法标记已经遍历过的格子题目允许修改原数组)
+      - [记忆化搜索：标记数组记录（题目要求不能修改原数组）](#记忆化搜索标记数组记录题目要求不能修改原数组)
+  - [系列问题](#系列问题)
+    - [P200_岛屿数量](#p200_岛屿数量)
+      - [题目](#题目)
+      - [题解](#题解)
+    - [P463_岛屿的周长](#p463_岛屿的周长)
+      - [题目](#题目-1)
+      - [题解](#题解-1)
+    - [P695_岛屿的最大面积](#p695_岛屿的最大面积)
+      - [题目](#题目-2)
+      - [题解](#题解-2)
+    - [P827_最大人工岛](#p827_最大人工岛)
+      - [题目](#题目-3)
+      - [题解](#题解-3)
+
 ## 本质
 
 深度优先搜索DFS
@@ -132,21 +156,22 @@ class Solution {
 
 ## 系列问题
 
-|难度|题目|题解|代码|掌握度|
-|:---:|:---|:---|:---|:---:|
-|+++|岛屿问题|+++|+++|+++|
-|💛 |[P200_岛屿数量](./../content/P200_NumberOfIslands.md) |  |[P200_NumberOfIslands.java](./../../P200_NumberOfIslands.java)|😄|
-|💚 |[P463_岛屿的周长](./../content/P463_IslandPerimeter.md) |  |[P463_IslandPerimeter.java](../../../P463_IslandPerimeter.java)|😄|
-|💛 |[P695_岛屿的最大面积 ](./../content/P695_MaxAreaOfIsland.md) |  |[.java](../../../P695_MaxAreaOfIsland.java)|😄|
-|❤️ |[P827_最大人工岛](./../content/P827_MakingALargeIsland.md) |  |[P827_MakingALargeIsland.java](../../../P827_MakingALargeIsland.java)|😄|
-|💛 |[P1034_边界着色](./../content/P1034_ColoringABorder.md) | ❓ 题目在说啥啊 |[P1034_ColoringABorder.java](./../../P1034_ColoringABorder.java)|😄|
+| 难度  | 题目 | 题解 | 代码 | 掌握度 |
+| :---: | :--- | :--- | :--- | :---: |
+| 💛 | [P200_岛屿数量](./../content/P200_NumberOfIslands.md) |                | [P200_NumberOfIslands.java](./../../P200_NumberOfIslands.java) |   😄    |
+| 💚 | [P463_岛屿的周长](./../content/P463_IslandPerimeter.md) |                | [P463_IslandPerimeter.java](../../../P463_IslandPerimeter.java) |   😄    |
+| 💛 | [P695_岛屿的最大面积 ](./../content/P695_MaxAreaOfIsland.md) |                | [.java](../../../P695_MaxAreaOfIsland.java) |   😄    |
+| ❤️   | [P827_最大人工岛](./../content/P827_MakingALargeIsland.md) |                | [P827_MakingALargeIsland.java](../../../P827_MakingALargeIsland.java) |   😄    |
+| 💛 | [P1034_边界着色](./../content/P1034_ColoringABorder.md) | ❓ 题目在说啥啊 | [P1034_ColoringABorder.java](./../../P1034_ColoringABorder.java) |   😄    |
 
 ### P200_岛屿数量
 
 #### 题目
 
 <pre>
+
 <p>给你一个由 <code>'1'</code>（陆地）和 <code>'0'</code>（水）组成的的二维网格，请你计算网格中岛屿的数量。</p>
+
 </pre>
 
 #### 题解
@@ -195,11 +220,15 @@ class Solution {
 
 #### 题目
 
+<pre>
+
 <p>给定一个 <code>row x col</code> 的二维网格地图 <code>grid</code> ，其中：<code>grid[i][j] = 1</code> 表示陆地， <code>grid[i][j] = 0</code> 表示水域。</p>
 
 <p>网格中的格子 <strong>水平和垂直</strong> 方向相连（对角线方向不相连）。整个网格被水完全包围，但其中恰好有一个岛屿（或者说，一个或多个表示陆地的格子相连组成的岛屿）。</p>
 
 <p>岛屿中没有“湖”（“湖” 指水域在岛屿内部且不和岛屿周围的水相连）。格子是边长为 1 的正方形。网格为长方形，且宽度和高度均不超过 100 。计算这个岛屿的周长。</p>
+
+</pre>
 
 #### 题解
 
@@ -261,6 +290,8 @@ class Solution {
 
 #### 题目
 
+<pre>
+
 <p>给你一个大小为 <code>m x n</code> 的二进制矩阵 <code>grid</code> 。</p>
 
 <p><strong>岛屿</strong>&nbsp;是由一些相邻的&nbsp;<code>1</code>&nbsp;(代表土地) 构成的组合，这里的「相邻」要求两个 <code>1</code> 必须在 <strong>水平或者竖直的四个方向上 </strong>相邻。你可以假设&nbsp;<code>grid</code> 的四个边缘都被 <code>0</code>（代表水）包围着。</p>
@@ -269,6 +300,7 @@ class Solution {
 
 <p>计算并返回 <code>grid</code> 中最大的岛屿面积。如果没有岛屿，则返回面积为 <code>0</code> 。</p>
 
+</pre>
 
 #### 题解
 
@@ -314,12 +346,15 @@ class Solution {
 
 #### 题目
 
+<pre>
+
 <p>给你一个大小为 <code>n x n</code> 二进制矩阵 <code>grid</code> 。<strong>最多</strong> 只能将一格 <code>0</code> 变成 <code>1</code> 。</p>
 
 <p>返回执行此操作后，<code>grid</code> 中最大的岛屿面积是多少？</p>
 
 <p><strong>岛屿</strong> 由一组上、下、左、右四个方向相连的 <code>1</code> 形成。</p>
 
+</pre>
 
 #### 题解
 
