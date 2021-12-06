@@ -158,9 +158,9 @@ class Solution {
 | 难度  | 题目 | 题解 | 代码 | 掌握度 |
 | :---: | :--- | :--- | :--- | :---: |
 | 💛 | [P200_岛屿数量](./../content/P200_NumberOfIslands.md) |                | [P200_NumberOfIslands.java](./../../P200_NumberOfIslands.java) |   😄    |
-| 💚 | [P463_岛屿的周长](./../content/P463_IslandPerimeter.md) |                | [P463_IslandPerimeter.java](../../../P463_IslandPerimeter.java) |   😄    |
-| 💛 | [P695_岛屿的最大面积 ](./../content/P695_MaxAreaOfIsland.md) |                | [.java](../../../P695_MaxAreaOfIsland.java) |   😄    |
-| ❤️   | [P827_最大人工岛](./../content/P827_MakingALargeIsland.md) |                | [P827_MakingALargeIsland.java](../../../P827_MakingALargeIsland.java) |   😄    |
+| 💚 | [P463_岛屿的周长](./../content/P463_IslandPerimeter.md) |                | [P463_IslandPerimeter.java](./../../P463_IslandPerimeter.java) |   😄    |
+| 💛 | [P695_岛屿的最大面积 ](./../content/P695_MaxAreaOfIsland.md) |                | [P695_MaxAreaOfIsland.java](./../../P695_MaxAreaOfIsland.java) |   😄    |
+| ❤️   | [P827_最大人工岛](./../content/P827_MakingALargeIsland.md) |                | [P827_MakingALargeIsland.java](./../../P827_MakingALargeIsland.java) |   😄    |
 | 💛 | [P1034_边界着色](./../content/P1034_ColoringABorder.md) | ❓ 题目在说啥啊 | [P1034_ColoringABorder.java](./../../P1034_ColoringABorder.java) |   😄    |
 
 ### P200_岛屿数量
