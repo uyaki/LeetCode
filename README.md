@@ -244,6 +244,7 @@
 |💚 |[P110_平衡二叉树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P110_BalancedBinaryTree.md) | |[P110_BalancedBinaryTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P110_BalancedBinaryTree.java)|😄|
 |💚 |[P111_二叉树的最小深度](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P111_MinimumDepthOfBinaryTree.md) | |[P111_MinimumDepthOfBinaryTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P111_MinimumDepthOfBinaryTree.java)|😄|
 |💛 |[P211_添加与搜索单词 - 数据结构设计](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P211_DesignAddAndSearchWordsDataStructure.md) | |[P211_DesignAddAndSearchWordsDataStructure.java](./src/main/java/com/uyaki/leetcode/editor/cn/P211_DesignAddAndSearchWordsDataStructure.java)|😄|
+|💛 |[P1034_边界着色](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1034_ColoringABorder.md) | ❓ 题目在说啥啊 |[P1034_ColoringABorder.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1034_ColoringABorder.java)|😄|
 
 
 ---
