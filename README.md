@@ -206,6 +206,7 @@
 |💛 |[P187_重复的DNA序列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P187_RepeatedDnaSequences.md) | |[P187_RepeatedDnaSequences.java](./src/main/java/com/uyaki/leetcode/editor/cn/P187_RepeatedDnaSequences.java)|😄|
 |💛 |[P209_长度最小的子数组](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P209_MinimumSizeSubarraySum.md) | |[P209_MinimumSizeSubarraySum.java](./src/main/java/com/uyaki/leetcode/editor/cn/P209_MinimumSizeSubarraySum.java)|😄|
 |💛 |[P438_找到字符串中所有字母异位词](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P438_FindAllAnagramsInAString.md) | |[P438_FindAllAnagramsInAString.java](./src/main/java/com/uyaki/leetcode/editor/cn/P438_FindAllAnagramsInAString.java)|😄|
+|❤️ |[P689_三个无重叠子数组的最大和](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P689_MaximumSumOf3NonOverlappingSubarrays.md) | 👍  |[P689_MaximumSumOf3NonOverlappingSubarrays.java](./src/main/java/com/uyaki/leetcode/editor/cn/P689_MaximumSumOf3NonOverlappingSubarrays.java)|😄|
 
 ---
 
