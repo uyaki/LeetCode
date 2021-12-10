@@ -128,6 +128,7 @@
 |💛 |[P284_顶端迭代器](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P284_PeekingIterator.md) | |[P284_PeekingIterator.java](./src/main/java/com/uyaki/leetcode/editor/cn/P284_PeekingIterator.java)|😄|
 |💛 |[P384_打乱数组](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P384_ShuffleAnArray.md) | |[P384_ShuffleAnArray.java](./src/main/java/com/uyaki/leetcode/editor/cn/P384_ShuffleAnArray.java)|😄|
 |💚 |[P594_最长和谐子序列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P594_LongestHarmoniousSubsequence.md) | |[P594_LongestHarmoniousSubsequence.java](./src/main/java/com/uyaki/leetcode/editor/cn/P594_LongestHarmoniousSubsequence.java)|😄|
+|💛 |[P911_在线选举](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P911_OnlineElection.md) | 二分法 |[P911_OnlineElection.java](./src/main/java/com/uyaki/leetcode/editor/cn/P911_OnlineElection.java)|😄|
 
 ---
 
