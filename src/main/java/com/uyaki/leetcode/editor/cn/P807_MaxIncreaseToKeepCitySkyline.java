@@ -69,14 +69,13 @@ public class P807_MaxIncreaseToKeepCitySkyline {
                 sky[1][i] = max2;
             }
 
-            int sum = 0;
+            int ans = 0;
             for (int i = 0; i < n; i++) {
                 for (int j = 0; j < n; j++) {
-                    int min = Math.min(sky[0][j], sky[1][i]);
-                    sum += min > grid[i][j] ? min - grid[i][j] : 0;
+                    ans += Math.min(sky[0][j], sky[1][i])  - grid[i][j] ;
                 }
             }
-            return sum;
+            return ans;
         }
     }
 //leetcode submit region end(Prohibit modification and deletion)
