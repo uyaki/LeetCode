@@ -293,6 +293,8 @@
 |💛 |[P397_整数替换](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P397_IntegerReplacement.md) | |[P397_IntegerReplacement.java](./src/main/java/com/uyaki/leetcode/editor/cn/P397_IntegerReplacement.java)|😄|
 |💚 |[P575_分糖果](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P575_DistributeCandies.md) | |[P575_DistributeCandies.java](./src/main/java/com/uyaki/leetcode/editor/cn/P575_DistributeCandies.java)|😄|
 |💚 |[P1005_K 次取反后最大化的数组和](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1005_MaximizeSumOfArrayAfterKNegations.md) | |[P1005_MaximizeSumOfArrayAfterKNegations.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1005_MaximizeSumOfArrayAfterKNegations.java)|😄|
+|+++|课程表|+++| |+++|
+|❤️ |[P630_课程表 III](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P630_CourseScheduleIii.md) | |[P630_CourseScheduleIii.java](./src/main/java/com/uyaki/leetcode/editor/cn/P630_CourseScheduleIii.java)|😄|
 
 ---
 
