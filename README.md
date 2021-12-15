@@ -283,6 +283,7 @@
 |💚 |[P367_有效的完全平方数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P367_ValidPerfectSquare.md) | |[P367_ValidPerfectSquare.java](./src/main/java/com/uyaki/leetcode/editor/cn/P367_ValidPerfectSquare.java)|😄|
 |💚 |[P441_排列硬币](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P441_ArrangingCoins.md) | |[P441_ArrangingCoins.java](./src/main/java/com/uyaki/leetcode/editor/cn/P441_ArrangingCoins.java)|😄|
 |💚 |[P704_二分查找](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P704_BinarySearch.md) | |[P704_BinarySearch.java](./src/main/java/com/uyaki/leetcode/editor/cn/P704_BinarySearch.java)|😄|
+|❤️ |[P1610_可见点的最大数目](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1610_MaximumNumberOfVisiblePoints.md) | 二分法或滑动窗口 |[P1610_MaximumNumberOfVisiblePoints.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1610_MaximumNumberOfVisiblePoints.java)|🤯🤯|
 |💚 |[P剑指 Offer II 069_B1IidL](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P剑指%20Offer%20II%20069_B1IidL.md) | |[P剑指_Offer_II_069_B1IidL.java](./src/main/java/com/uyaki/leetcode/editor/cn/P剑指_Offer_II_069_B1IidL.java)|😄|
 
 ---
