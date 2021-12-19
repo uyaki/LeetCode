@@ -132,6 +132,7 @@
 |💚 |[P594_最长和谐子序列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P594_LongestHarmoniousSubsequence.md) | |[P594_LongestHarmoniousSubsequence.java](./src/main/java/com/uyaki/leetcode/editor/cn/P594_LongestHarmoniousSubsequence.java)|😄|
 |💛 |[P807_保持城市天际线](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P807_MaxIncreaseToKeepCitySkyline.md) | 🍼 入门 |[P807_MaxIncreaseToKeepCitySkyline.java](./src/main/java/com/uyaki/leetcode/editor/cn/P807_MaxIncreaseToKeepCitySkyline.java)|😄|
 |💛 |[P911_在线选举](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P911_OnlineElection.md) | 二分法 |[P911_OnlineElection.java](./src/main/java/com/uyaki/leetcode/editor/cn/P911_OnlineElection.java)|😄|
+|💚 |[P997_找到小镇的法官](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P997_FindTheTownJudge.md) | 🍼 入门 |[P997_FindTheTownJudge.java](./src/main/java/com/uyaki/leetcode/editor/cn/P997_FindTheTownJudge.java)|😄|
 
 ---
 
