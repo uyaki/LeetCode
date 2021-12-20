@@ -26,7 +26,7 @@
   - [最短路径](#最短路径)
   - [回溯法](#回溯法)
   - [TODO](#todo)
-  - [LICENSE](#LICENSE)
+  - [LICENSE](#📝 License)
 ## IDEA插件之LeetCode Editor配置
 
 [LeetCode_Editor配置](./src/main/java/com/uyaki/leetcode/editor/cn/doc/plugin/LeetCode_Editor.md)
