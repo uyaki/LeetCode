@@ -359,6 +359,7 @@
 - [ ] Dijkstra 算法详解
 - [ ] 回溯法总结
 - [ ] PLCP_04_BrokenBoardDominoes
+- [ ] P686 Rabin-Karp 算法 与 Knuth-Morris-Pratt 算法 实现
 
 ## 📝 License
 
