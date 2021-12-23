@@ -64,7 +64,8 @@
 - 动态规划的解题总结：[Dynamic Programming](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/DynamicProgramming.md)
 - 深度优先搜索DFS：
   - 岛屿问题总结：[Island Problem](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/IslandProblem.md)
-
+- 字符串
+  - KMP算法总结：[KMP](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/KMP.md)
 ---
 
 ## 数学题
@@ -147,6 +148,7 @@
 |❤️ |[P23_合并K个升序链表](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P23_MergeKSortedLists.md) | |[P23_MergeKSortedLists.java](./src/main/java/com/uyaki/leetcode/editor/cn/P23_MergeKSortedLists.java)|🤨|
 |❤️ |[P407_接雨水 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P407_TrappingRainWaterIi.md) |[P407_TrappingRainWaterIi](./src/main/java/com/uyaki/leetcode/editor/cn/doc/answer/P407_TrappingRainWaterIi.md)|[P407_TrappingRainWaterIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P407_TrappingRainWaterIi.java)|🤨|
 |❤️ |[P786_第 K 个最小的素数分数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P786_KThSmallestPrimeFraction.md) | |[P786_KThSmallestPrimeFraction.java](./src/main/java/com/uyaki/leetcode/editor/cn/P786_KThSmallestPrimeFraction.java)|😄|
+|💛 |[P1705_吃苹果的最大数目](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1705_MaximumNumberOfEatenApples.md) | 👍 优先队列、贪心 |[P1705_MaximumNumberOfEatenApples.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1705_MaximumNumberOfEatenApples.java)|😄|
 |💛 |[P1514_概率最大的路径](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1514_PathWithMaximumProbability.md) | |[P1514_PathWithMaximumProbability.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1514_PathWithMaximumProbability.java)|😄|
 
 ---
