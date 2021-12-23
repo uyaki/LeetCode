@@ -114,13 +114,15 @@
 |💚 |[P482_密钥格式化](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P482_LicenseKeyFormatting.md) | |[P482_LicenseKeyFormatting.java](./src/main/java/com/uyaki/leetcode/editor/cn/P482_LicenseKeyFormatting.java)|😄|
 |💚 |[P500_键盘行](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P500_KeyboardRow.md) | |[P500_KeyboardRow.java](./src/main/java/com/uyaki/leetcode/editor/cn/P500_KeyboardRow.java)|😄|
 |💚 |[P520_检测大写字母](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P520_DetectCapital.md) | |[P520_DetectCapital.java](./src/main/java/com/uyaki/leetcode/editor/cn/P520_DetectCapital.java)|😄|
-|💛 |[P686_重复叠加字符串匹配](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P686_RepeatedStringMatch.md) | 👍 也可以用KMP算法 |[P686_RepeatedStringMatch.java](./src/main/java/com/uyaki/leetcode/editor/cn/P686_RepeatedStringMatch.java)|😄|
 |💚 |[P709_转换成小写字母](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P709_ToLowerCase.md) |  🍼 入门 |[P709_ToLowerCase.java](./src/main/java/com/uyaki/leetcode/editor/cn/P709_ToLowerCase.java)|😄|
 |💚 |[P748_最短补全词](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P748_ShortestCompletingWord.md) |  🍼 入门 |[P748_ShortestCompletingWord.java](./src/main/java/com/uyaki/leetcode/editor/cn/P748_ShortestCompletingWord.java)|😄|
 |💛 |[P794_有效的井字游戏](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P794_ValidTicTacToeState.md) |  |[P794_ValidTicTacToeState.java](./src/main/java/com/uyaki/leetcode/editor/cn/P794_ValidTicTacToeState.java)|😄|
 |💚 |[P859_亲密字符串](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P859_BuddyStrings.md) | |[P859_BuddyStrings.java](./src/main/java/com/uyaki/leetcode/editor/cn/P859_BuddyStrings.java)|😄|
 |💚 |[P1446_连续字符](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1446_ConsecutiveCharacters.md) | 🍼 入门 |[P1446_ConsecutiveCharacters.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1446_ConsecutiveCharacters.java)|😄|
 |💚 |[P1816_截断句子](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1816_TruncateSentence.md) | 🍼 入门 |[P1816_TruncateSentence.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1816_TruncateSentence.java)|😄|
+|+++| Rabin-Karp 算法 |+++| Rabin-Karp 算法 |+++|
+|💛 |[P686_重复叠加字符串匹配](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P686_RepeatedStringMatch.md) | 👍 也可以用KMP算法 |[P686_RepeatedStringMatch.java](./src/main/java/com/uyaki/leetcode/editor/cn/P686_RepeatedStringMatch.java)|😄|
+|❤️ |[P1044_最长重复子串](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1044_LongestDuplicateSubstring.md) | 👍二分查找 + Rabin-Karp 字符串编码 |[P1044_LongestDuplicateSubstring.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1044_LongestDuplicateSubstring.java)|😄|
 
 ---
 
@@ -359,7 +361,7 @@
 - [ ] Dijkstra 算法详解
 - [ ] 回溯法总结
 - [ ] PLCP_04_BrokenBoardDominoes
-- [ ] P686 Rabin-Karp 算法 与 Knuth-Morris-Pratt 算法 实现
+- [ ] P686 P1044 Rabin-Karp 算法 与 Knuth-Morris-Pratt 算法 实现
 
 ## 📝 License
 
