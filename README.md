@@ -119,6 +119,7 @@
 |💚 |[P748_最短补全词](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P748_ShortestCompletingWord.md) |  🍼 入门 |[P748_ShortestCompletingWord.java](./src/main/java/com/uyaki/leetcode/editor/cn/P748_ShortestCompletingWord.java)|😄|
 |💛 |[P794_有效的井字游戏](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P794_ValidTicTacToeState.md) |  |[P794_ValidTicTacToeState.java](./src/main/java/com/uyaki/leetcode/editor/cn/P794_ValidTicTacToeState.java)|😄|
 |💚 |[P859_亲密字符串](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P859_BuddyStrings.md) | |[P859_BuddyStrings.java](./src/main/java/com/uyaki/leetcode/editor/cn/P859_BuddyStrings.java)|😄|
+|💚 |[P1078_Bigram 分词](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1078_OccurrencesAfterBigram.md) | 🍼 入门 |[P1078_OccurrencesAfterBigram.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1078_OccurrencesAfterBigram.java)|😄|
 |💚 |[P1446_连续字符](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1446_ConsecutiveCharacters.md) | 🍼 入门 |[P1446_ConsecutiveCharacters.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1446_ConsecutiveCharacters.java)|😄|
 |💚 |[P1816_截断句子](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1816_TruncateSentence.md) | 🍼 入门 |[P1816_TruncateSentence.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1816_TruncateSentence.java)|😄|
 |+++| Rabin-Karp 算法 |+++| Rabin-Karp 算法 |+++|
