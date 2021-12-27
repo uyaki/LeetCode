@@ -18,6 +18,7 @@
   - [树](#树)
     - [树的遍历](#树的遍历)
     - [深度优先搜索](#深度优先搜索)
+    - [字典树（前缀树）](#字典树（前缀树）)
   - [分治法](#分治法)
   - [二分查找](#二分查找)
   - [双指针](#双指针)
@@ -275,6 +276,13 @@
 |❤️ |[P827_最大人工岛](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P827_MakingALargeIsland.md) | 👍 [岛屿问题](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/IslandProblem.md) |[P827_MakingALargeIsland.java](./src/main/java/com/uyaki/leetcode/editor/cn/P827_MakingALargeIsland.java)|😄|
 |💛 |[P1034_边界着色](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1034_ColoringABorder.md) | ❓ 题目在说啥啊 |[P1034_ColoringABorder.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1034_ColoringABorder.java)|😄|
 
+---
+
+### 字典树（前缀树）
+|难度|题目|题解|代码|掌握度|
+|:---:|:---|:---|:---|:---:|
+| |P208 | | | |
+|❤️ |[P472_连接词](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P472_ConcatenatedWords.md) | 👍字典树+DFS  |[P472_ConcatenatedWords.java](./src/main/java/com/uyaki/leetcode/editor/cn/P472_ConcatenatedWords.java)|😄|
 
 ---
 
