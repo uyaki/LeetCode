@@ -20,6 +20,7 @@
     - [深度优先搜索](#深度优先搜索)
   - [分治法](#分治法)
   - [二分查找](#二分查找)
+  - [双指针](#双指针)
   - [贪心算法](#贪心算法)
   - [记忆化搜索](#记忆化搜索)
   - [动态规划](#动态规划)
@@ -299,6 +300,14 @@
 |💚 |[P704_二分查找](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P704_BinarySearch.md) | |[P704_BinarySearch.java](./src/main/java/com/uyaki/leetcode/editor/cn/P704_BinarySearch.java)|😄|
 |❤️ |[P1610_可见点的最大数目](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1610_MaximumNumberOfVisiblePoints.md) | 二分法或滑动窗口 |[P1610_MaximumNumberOfVisiblePoints.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1610_MaximumNumberOfVisiblePoints.java)|🤯🤯|
 |💚 |[P剑指 Offer II 069_B1IidL](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P剑指%20Offer%20II%20069_B1IidL.md) | |[P剑指_Offer_II_069_B1IidL.java](./src/main/java/com/uyaki/leetcode/editor/cn/P剑指_Offer_II_069_B1IidL.java)|😄|
+
+---
+
+## 双指针
+
+|难度|题目|题解|代码|掌握度|
+|:---:|:---|:---|:---|:---:|
+|💛 |[P825_适龄的朋友](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P825_FriendsOfAppropriateAges.md) | 排序+双指针 |[P825_FriendsOfAppropriateAges.java](./src/main/java/com/uyaki/leetcode/editor/cn/P825_FriendsOfAppropriateAges.java)|😄|
 
 ---
 
