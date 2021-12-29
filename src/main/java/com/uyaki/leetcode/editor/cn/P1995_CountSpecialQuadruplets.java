@@ -58,6 +58,7 @@ public class P1995_CountSpecialQuadruplets {
     class Solution {
 
         int ans = 0;
+
         public int countQuadruplets(int[] nums) {
             // 全排列的下标组合
             int[] indexes = new int[4];
@@ -71,7 +72,7 @@ public class P1995_CountSpecialQuadruplets {
          * @param start 开始坐标
          * @param count 数量
          */
-        public void combine(int[] nums, int[] indexes,  int start, int count) {
+        public void combine(int[] nums, int[] indexes, int start, int count) {
             for (int i = start; i < nums.length + 1 - count; i++) {
                 indexes[count - 1] = i;
                 if (count - 1 == 0) {
@@ -79,7 +80,7 @@ public class P1995_CountSpecialQuadruplets {
                         ans++;
                     }
                 } else {
-                    combine(nums, indexes,  i + 1, count - 1);
+                    combine(nums, indexes, i + 1, count - 1);
                 }
             }
         }
