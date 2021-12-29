@@ -2,9 +2,9 @@
 
 ## 排列
 
-从n个不同元素中，任取m(m≤n,m与n均为自然数,下同）个不同的元素按照一定的顺序排成一列，叫做从n个不同元素中取出m个元素的一个排列；
+从 n 个不同元素中，任取 `m(m≤n，m与n均为自然数，下同)` 个不同的元素 **按照一定的顺序** 排成一列，叫做从 n 个不同元素中取出 m 个元素的一个排列；
 
-从n个不同元素中取出m(m≤n）个元素的所有排列的个数，叫做从n个不同元素中取出m个元素的排列数，用符号 <img src="https://latex.codecogs.com/svg.image?A(n,m)" />
+从 n 个不同元素中取出 `m(m≤n)` 个元素的所有排列的个数，叫做从 n 个不同元素中取出 m 个元素的排列数，用符号 <img src="https://latex.codecogs.com/svg.image?A(n,m)" />
 或 <img src="https://latex.codecogs.com/svg.image?A_{m}^{n}" /> 表示
 
 <img src="https://latex.codecogs.com/svg.image?A_{m}^{n}=\underbrace{n(n-1)(n-2)...(n-m&plus;1)}=\frac{n!}{(n-m)!},n\geqslant&space;m" />
@@ -17,7 +17,7 @@
 |:---:|:---|:---|:---:|
 |💛 |[P46_全排列](./../content/P46_Permutations.md) |[P46_Permutations.java](./../../P46_Permutations.java)|😄|
 
-给定一个不含重复数字的数组 nums ，返回其 所有可能的全排列 。你可以 按任意顺序 返回答案。
+给定一个不含重复数字的数组 nums ，返回其所有可能的全排列 。你可以 **按任意顺序** 返回答案。
 
 示例 1：
 
@@ -29,12 +29,12 @@
 
 ### 回溯算法
 
-我们定义递归函数 backtrack(first, output) 表示从左往右填到第 first 个位置，当前排列为 output。 那么整个递归函数分为两个情况：
+我们定义递归函数 `backtrack(first, output)` 表示从左往右填到第 first 个位置，当前排列为 output。 那么整个递归函数分为两个情况：
 
-- 如果 first == n，说明我们已经填完了 n 个位置（注意下标从 0 开始），找到了一个可行的解，我们将 output 放入答案数组中，递归结束。
-- 如果 first < n，我们要考虑这第 first 个位置我们要填哪个数。
+- 如果 `first == n`，说明我们已经填完了 n 个位置（注意下标从 0 开始），找到了一个可行的解，我们将 output 放入答案数组中，递归结束。
+- 如果 `first < n`，我们要考虑这第 first 个位置我们要填哪个数。
     - 根据题目要求我们肯定不能填已经填过的数，因此很容易想到的一个处理手段是我们定义一个标记数组 vis[] 来标记已经填过的数
-    - 那么在填第 first 个数的时候我们遍历题目给定的 n 个数，如果这个数没有被标记过，我们就尝试填入，并将其标记，继续尝试填下一个位置，即调用函数 backtrack(first + 1, output)。
+    - 那么在填第 first 个数的时候我们遍历题目给定的 n 个数，如果这个数没有被标记过，我们就尝试填入，并将其标记，继续尝试填下一个位置，即调用函数 `backtrack(first + 1, output)`。
     - 回溯的时候要撤销这一个位置填的数以及标记，并继续尝试其他没被标记过的数。
 
 使用标记数组来处理填过的数是一个很直观的思路，但是可不可以去掉这个标记数组呢？毕竟标记数组也增加了我们算法的空间复杂度。
@@ -46,14 +46,14 @@
 
 具体来说，假设我们已经填到第 first 个位置，那么nums 数组中
 
-- [0,first−1] 是已填过的数的集合，
-- [first,n−1] 是待填的数的集合。
+- `[0,first−1]` 是已填过的数的集合，
+- `[first,n−1]` 是待填的数的集合。
 
-我们肯定是尝试用 [first,n−1] 里的数去填第 first 个数，
+我们肯定是尝试用 `[first,n−1]` 里的数去填第 first 个数，
 
 假设待填的数的下标为 i ，那么填完以后我们将第 i 个数和第 first 个数交换，
 
-即能使得在填第 first+1个数的时候 nums 数组的[0,first] 部分为已填过的数，[\textit{first}+1,n-1][first+1,n−1] 为待填的数，回溯的时候交换回来即能完成撤销操作。
+即能使得在填第 first+1 个数的时候 nums 数组的 `[0,first]` 部分为已填过的数，`[first+1,n−1]` 为待填的数，回溯的时候交换回来即能完成撤销操作。
 
 举个简单的例子，假设我们有 [2, 5, 8, 9, 10] 这 5 个数要填入，
 
@@ -66,28 +66,26 @@
 ```java
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> res = new ArrayList<List<Integer>>();
-
-        List<Integer> output = new ArrayList<Integer>();
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> output = new ArrayList<>();
         for (int num : nums) {
             output.add(num);
         }
-
         int n = nums.length;
-        backtrack(n, output, res, 0);
-        return res;
+        backtrack(n, output, ans, 0);
+        return ans;
     }
 
-    public void backtrack(int n, List<Integer> output, List<List<Integer>> res, int first) {
+    private void backtrack(int n, List<Integer> output, List<List<Integer>> ans, int first) {
         // 所有数都填完了
         if (first == n) {
-            res.add(new ArrayList<Integer>(output));
+            ans.add(new ArrayList<>(output));
         }
         for (int i = first; i < n; i++) {
             // 动态维护数组
             Collections.swap(output, first, i);
             // 继续递归填下一个数
-            backtrack(n, output, res, first + 1);
+            backtrack(n, output, ans, first + 1);
             // 撤销操作
             Collections.swap(output, first, i);
         }
@@ -97,7 +95,7 @@ class Solution {
 
 时间复杂度：O(n × n!)，其中 n 为序列的长度。
 
-算法的复杂度首先受 backtrack 的调用次数制约，backtrack 的调用次数为 <img src="https://latex.codecogs.com/svg.image?\sum_{n}^{k=1}P(n,k)" /> 次，
+算法的复杂度首先受 `backtrack` 的调用次数制约，`backtrack` 的调用次数为 <img src="https://latex.codecogs.com/svg.image?\sum_{n}^{k=1}P(n,k)" /> 次，
 
 其中
 
@@ -110,9 +108,9 @@ class Solution {
 
 <img src="https://latex.codecogs.com/svg.image?\sum_{n}^{k=1}P(n,k)=n!+\frac{n!}{1!}+\frac{n!}{2!}+...+\frac{n!}{(n-1)!}<2n!+\frac{n!}{2}+\frac{n!}{2^{2}}+...+\frac{n!}{2^{n-2}}<3n!" /> 
 
-这说明 backtrack 的调用次数是 O(n!) 的。
+这说明 `backtrack` 的调用次数是 O(n!) 的。
 
-而对于 backtrack 调用的每个叶结点（共 n! 个），我们需要将当前答案使用 O(n) 的时间复制到答案数组中，相乘得时间复杂度为 O(n×n!)。
+而对于 `backtrack` 调用的每个叶结点（共 n! 个），我们需要将当前答案使用 O(n) 的时间复制到答案数组中，相乘得时间复杂度为 O(n×n!)。
 
 空间复杂度：O(n)，其中 n 为序列的长度。
 
@@ -122,13 +120,21 @@ class Solution {
 
 ## 组合
 
-从n个不同元素中，任取m(m≤n）个元素并成一组，叫做从n个不同元素中取出m个元素的一个组合；
+从 n 个不同元素中，任取 `m(m≤n)` 个元素并成一组，叫做从 n 个不同元素中取出 m 个元素的一个组合；
 
-从n个不同元素中取出m(m≤n）个元素的所有组合的个数，叫做从n个不同元素中取出m个元素的组合数。用符号 C(n,m) 表示。
+从 n 个不同元素中取出 `m(m≤n)` 个元素的所有组合的个数，叫做从 n 个不同元素中取出 m 个元素的组合数。用符号 <img src="https://latex.codecogs.com/svg.image?C(n,m)" /> 或 <img src="https://latex.codecogs.com/svg.image?C_{m}^{n}" /> 表示。
 
 <img src="https://latex.codecogs.com/svg.image?C_{m}^{n}=\frac{A_{m}^{n}}{m!}=\frac{n!}{m!(n-m)!};C(n,m)=C(n,n-m),n\geqslant&space;m"/>
 
 ### 求组合数的方法
+
+> 注意, 12! = 479,001,600 ,13! = 6,227,020,800 超过 int 的最大值
+
+如果直接计算阶乘，很容易造成数据溢出。
+
+实际上，我们可以模拟组合的实际操作，从 n 个球中取出 m 个球，每次取一个球，对于这个球，有两种可能：
+- 如果它属于 m，还需要从 n-1 中取出 m-1 个球；
+- 如果它不属于 m，则需要从 n-1 中取出 m 个球；
 
 ```java
 class Solution {
@@ -190,13 +196,15 @@ class Solution {
 |:---:|:---|:---|:---:|
 |💚 |[P1995_统计特殊四元组](./../content/P1995_CountSpecialQuadruplets.md) |[P1995_CountSpecialQuadruplets.java](./../../P1995_CountSpecialQuadruplets.java)|😄|
 
-给定数组 <img src="https://latex.codecogs.com/svg.image?nums=[1,2,3,4]" title="nums=[1,2,3,4,...,n]" />
+当然，P1995 的例子 n 为固定值，更加普遍适用的例子如下：
 
-从中取出n个数字：<img src="https://latex.codecogs.com/svg.image?nums[a]" />
+给定数组 <img src="https://latex.codecogs.com/svg.image?nums=[1,2,3,4,...,n]" title="nums=[1,2,3,4,...,n]" />
+
+从中取出m个数字：<img src="https://latex.codecogs.com/svg.image?nums[a]" />
 ，<img src="https://latex.codecogs.com/svg.image?nums[b]" />
-... <img src="https://latex.codecogs.com/svg.image?nums[n]" />
+... <img src="https://latex.codecogs.com/svg.image?nums[m]" />
 
-其中，<img src="https://latex.codecogs.com/svg.image?a<b<...<n" />
+其中，<img src="https://latex.codecogs.com/svg.image?a<b<...<m" />
 
 求所有可能的结果组合。
 
@@ -223,40 +231,43 @@ class Solution {
 
 ### 暴力法
 
+> 如果返回值为 `List<List<Integer>>` 类型，则无需预先计算组合的结果数。示例只是为了更全面一点故意使用 `int[][]` 类型返回
+
 ```java
 class Solution {
-    // 组合index
+    // 组合下标 index
     int index = 0;
 
-    public int[][] combineArray(int[] nums, int n) {
-        int[] indexes = new int[n];
+    public int[][] combineArray(int[] nums, int m) {
+        // 存储组合结果对应原始 nums 中的下标
+        int[] indexes = new int[m];
         // 如果组合数大于 int 的上限，抛出异常
-        int numberOfCombinations = Math.toIntExact(numberOfCombinations(nums.length, n));
-        int[][] ans = new int[numberOfCombinations][n];
-        combine(ans, nums, indexes, 0, n, n);
+        int numberOfCombinations = Math.toIntExact(numberOfCombinations(nums.length, m));
+        int[][] ans = new int[numberOfCombinations][m];
+        combine(ans, nums, indexes, 0, m, m);
         return ans;
     }
 
     /**
      * 组合结果枚举
      * @param ans 答案
-     * @param nums nums
+     * @param nums nums 原始数组
      * @param indexes 组合在原始数组中的下标数
      * @param start 开始值
      * @param count 当前indexes下标剩余可填空位
-     * @param NUM 元素个数
+     * @param m 组合元素个数
      */
-    public void combine(int[][] ans, int[] nums, int[] indexes, int start, int count, int NUM) {
+    public void combine(int[][] ans, int[] nums, int[] indexes, int start, int count, int m) {
         for (int i = start; i < nums.length + 1 - count; i++) {
             indexes[count - 1] = i;
             if (count - 1 == 0) {
-                int[] temp = new int[NUM];
-                for (int j = NUM - 1; j >= 0; j--) {
-                    temp[NUM - 1 - j] = nums[indexes[j]];
+                int[] temp = new int[m];
+                for (int j = m - 1; j >= 0; j--) {
+                    temp[m - 1 - j] = nums[indexes[j]];
                 }
                 ans[index++] = temp;
             } else {
-                combine(ans, nums, indexes, i + 1, count - 1, NUM);
+                combine(ans, nums, indexes, i + 1, count - 1, m);
             }
         }
     }
