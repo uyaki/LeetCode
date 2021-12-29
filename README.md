@@ -52,6 +52,10 @@
 ## 总结
 
 - 解题技巧：[一些坑](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Error.md)
+- 字符串
+  - KMP算法总结：[KMP](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/KMP.md)
+- 数组
+  - 排列组合：[Permutation and Combination](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/PermutationAndCombination.md)
 - 位运算的解题总结：[Bit](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Bit.md)
 - 贪心算法总结：[Greedy Algorithm](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/GreedyAlgorithm.md)
 - 背包问题[Knapsack problem](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/KnapsackProblem.md)
@@ -66,8 +70,7 @@
 - 动态规划的解题总结：[Dynamic Programming](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/DynamicProgramming.md)
 - 深度优先搜索DFS：
   - 岛屿问题总结：[Island Problem](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/IslandProblem.md)
-- 字符串
-  - KMP算法总结：[KMP](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/KMP.md)
+
 ---
 
 ## 数学题
@@ -142,6 +145,9 @@
 |💛 |[P807_保持城市天际线](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P807_MaxIncreaseToKeepCitySkyline.md) | 🍼 入门 |[P807_MaxIncreaseToKeepCitySkyline.java](./src/main/java/com/uyaki/leetcode/editor/cn/P807_MaxIncreaseToKeepCitySkyline.java)|😄|
 |💛 |[P911_在线选举](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P911_OnlineElection.md) | 二分法 |[P911_OnlineElection.java](./src/main/java/com/uyaki/leetcode/editor/cn/P911_OnlineElection.java)|😄|
 |💚 |[P997_找到小镇的法官](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P997_FindTheTownJudge.md) | 🍼 入门 |[P997_FindTheTownJudge.java](./src/main/java/com/uyaki/leetcode/editor/cn/P997_FindTheTownJudge.java)|😄|
+|+++|排列组合|+++|排列组合|+++|
+|💛 |[P46_全排列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P46_Permutations.md) | 👍[排列组合](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/PermutationAndCombination.md) |[P46_Permutations.java](./src/main/java/com/uyaki/leetcode/editor/cn/P46_Permutations.java)|😄|
+|💚 |[P1995_统计特殊四元组](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1995_CountSpecialQuadruplets.md) | 👍[排列组合](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/PermutationAndCombination.md) |[P1995_CountSpecialQuadruplets.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1995_CountSpecialQuadruplets.java)|😄|
 
 ---
 
