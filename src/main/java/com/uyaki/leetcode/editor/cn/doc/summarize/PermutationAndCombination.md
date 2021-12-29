@@ -257,7 +257,7 @@ class Solution {
      * @param count 当前indexes下标剩余可填空位
      * @param m 组合元素个数
      */
-    public void combine(int[][] ans, int[] nums, int[] indexes, int start, int count, int m) {
+    private void combine(int[][] ans, int[] nums, int[] indexes, int start, int count, int m) {
         for (int i = start; i < nums.length + 1 - count; i++) {
             indexes[count - 1] = i;
             if (count - 1 == 0) {
