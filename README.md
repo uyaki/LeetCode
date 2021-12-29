@@ -147,6 +147,7 @@
 |💚 |[P997_找到小镇的法官](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P997_FindTheTownJudge.md) | 🍼 入门 |[P997_FindTheTownJudge.java](./src/main/java/com/uyaki/leetcode/editor/cn/P997_FindTheTownJudge.java)|😄|
 |+++|排列组合|+++|排列组合|+++|
 |💛 |[P46_全排列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P46_Permutations.md) | 👍[排列组合](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/PermutationAndCombination.md) |[P46_Permutations.java](./src/main/java/com/uyaki/leetcode/editor/cn/P46_Permutations.java)|😄|
+|💛 |[P47_全排列 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P47_PermutationsIi.md) | 👍[排列组合](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/PermutationAndCombination.md) |[P47_PermutationsIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P47_PermutationsIi.java)|😄|
 |💚 |[P1995_统计特殊四元组](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1995_CountSpecialQuadruplets.md) | 👍[排列组合](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/PermutationAndCombination.md) |[P1995_CountSpecialQuadruplets.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1995_CountSpecialQuadruplets.java)|😄|
 
 ---
@@ -381,7 +382,8 @@
 |❤️ |[P488_祖玛游戏](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P488_ZumaGame.md) | |[P488_ZumaGame.java](./src/main/java/com/uyaki/leetcode/editor/cn/P488_ZumaGame.java)|🤯|
 |❤️ |[P638_大礼包](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P638_ShoppingOffers.md) | |[P638_ShoppingOffers.java](./src/main/java/com/uyaki/leetcode/editor/cn/P638_ShoppingOffers.java)|🤯|
 |+++|+++|+++|+++|+++|
-|💛 |[P47_全排列 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P47_PermutationsIi.md) | |[P47_PermutationsIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P47_PermutationsIi.java)|😄|
+|💛 |[P46_全排列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P46_Permutations.md) | 👍[排列组合](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/PermutationAndCombination.md) |[P46_Permutations.java](./src/main/java/com/uyaki/leetcode/editor/cn/P46_Permutations.java)|😄|
+|💛 |[P47_全排列 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P47_PermutationsIi.md) | 👍[排列组合](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/PermutationAndCombination.md) |[P47_PermutationsIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P47_PermutationsIi.java)|😄|
 |💛 |[P869_重新排序得到 2 的幂](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P869_ReorderedPowerOf2.md) | |[P869_ReorderedPowerOf2.java](./src/main/java/com/uyaki/leetcode/editor/cn/P869_ReorderedPowerOf2.java)|😄|
 |+++|+++|+++|+++|+++|
 ## TODO
