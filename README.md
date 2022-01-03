@@ -100,6 +100,7 @@
 |💛 |[P519_随机翻转矩阵](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P519_RandomFlipMatrix.md) | 👍 数组映射 |[P519_RandomFlipMatrix.java](./src/main/java/com/uyaki/leetcode/editor/cn/P519_RandomFlipMatrix.java)|😄|
 |💚 |[P598_范围求和 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P598_RangeAdditionIi.md) | 👎 数学 |[P598_RangeAdditionIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P598_RangeAdditionIi.java)|😄|
 |💚 |[P1154_一年中的第几天](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1154_DayOfTheYear.md) | 🍼 入门  |[P1154_DayOfTheYear.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1154_DayOfTheYear.java)|😄|
+|💚 |[P1185_一周中的第几天](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1185_DayOfTheWeek.md) | 🍼 入门 |[P1185_DayOfTheWeek.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1185_DayOfTheWeek.java)|😄|
 |💚 |[P1518_换酒问题](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1518_WaterBottles.md) | 🍼 入门  |[P1518_WaterBottles.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1518_WaterBottles.java)|😄|
 |+++|快速幂|+++|快速幂|+++|
 |💛 |[P50_Pow(x, n)](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P50_PowxN.md) | 👍 [快速幂](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/FastPow.md) |[P50_PowxN.java](./src/main/java/com/uyaki/leetcode/editor/cn/P50_PowxN.java)|😄|
