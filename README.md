@@ -365,8 +365,11 @@
 |💚 |[P121_买卖股票的最佳时机](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P121_BestTimeToBuyAndSellStock.md) | |[P121_BestTimeToBuyAndSellStock.java](./src/main/java/com/uyaki/leetcode/editor/cn/P121_BestTimeToBuyAndSellStock.java)|😄|
 |💛 |[P375_猜数字大小 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P375_GuessNumberHigherOrLowerIi.md) | |[P375_GuessNumberHigherOrLowerIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P375_GuessNumberHigherOrLowerIi.java)|😄|
 |❤️ |[P629_K个逆序对数组](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P629_KInversePairsArray.md) | [P629_KInversePairsArray](./src/main/java/com/uyaki/leetcode/editor/cn/doc/answer/P629_KInversePairsArray.md) |[P629_KInversePairsArray.java](./src/main/java/com/uyaki/leetcode/editor/cn/P629_KInversePairsArray.java)|🤯|
-|❤️ |[P913_猫和老鼠](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P913_CatAndMouse.md) | [P913_CatAndMouse](./src/main/java/com/uyaki/leetcode/editor/cn/doc/answer/P913_CatAndMouse.md) |[P913_CatAndMouse.java](./src/main/java/com/uyaki/leetcode/editor/cn/P913_CatAndMouse.java)|🤯🤯🤯|
 |❤️ |[P1218_最长定差子序列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1218_LongestArithmeticSubsequenceOfGivenDifference.md) | |[P1218_LongestArithmeticSubsequenceOfGivenDifference.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1218_LongestArithmeticSubsequenceOfGivenDifference.java)|😄|
+|+++|博弈问题|+++|博弈问题|+++|
+|💛 |[P486_预测赢家](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P486_PredictTheWinner.md) | 👍[博弈问题](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/GameProblem.md) |[P486_PredictTheWinner.java](./src/main/java/com/uyaki/leetcode/editor/cn/P486_PredictTheWinner.java)|😄|
+|💛 |[P877_石子游戏](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P877_StoneGame.md) | 👍[博弈问题](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/GameProblem.md) |[P877_StoneGame.java](./src/main/java/com/uyaki/leetcode/editor/cn/P877_StoneGame.java)|😄|
+|❤️ |[P913_猫和老鼠](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P913_CatAndMouse.md) | 👍[P913_CatAndMouse](./src/main/java/com/uyaki/leetcode/editor/cn/doc/answer/P913_CatAndMouse.md) |[P913_CatAndMouse.java](./src/main/java/com/uyaki/leetcode/editor/cn/P913_CatAndMouse.java)|🤯🤯🤯|
 
 ---
 
