@@ -68,6 +68,7 @@
   - 快速幂(本质：分治)总结：[Fast Pow](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/FastPow.md)
 - 二分法的解题总结：[binary search](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/BinarySearch.md)
 - 动态规划的解题总结：[Dynamic Programming](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/DynamicProgramming.md)
+  - 博弈问题总结：[Game Problem](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/GameProblem.md)
 - 深度优先搜索DFS：
   - 岛屿问题总结：[Island Problem](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/IslandProblem.md)
 
@@ -364,6 +365,7 @@
 |💚 |[P121_买卖股票的最佳时机](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P121_BestTimeToBuyAndSellStock.md) | |[P121_BestTimeToBuyAndSellStock.java](./src/main/java/com/uyaki/leetcode/editor/cn/P121_BestTimeToBuyAndSellStock.java)|😄|
 |💛 |[P375_猜数字大小 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P375_GuessNumberHigherOrLowerIi.md) | |[P375_GuessNumberHigherOrLowerIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P375_GuessNumberHigherOrLowerIi.java)|😄|
 |❤️ |[P629_K个逆序对数组](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P629_KInversePairsArray.md) | [P629_KInversePairsArray](./src/main/java/com/uyaki/leetcode/editor/cn/doc/answer/P629_KInversePairsArray.md) |[P629_KInversePairsArray.java](./src/main/java/com/uyaki/leetcode/editor/cn/P629_KInversePairsArray.java)|🤯|
+|❤️ |[P913_猫和老鼠](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P913_CatAndMouse.md) | [P913_CatAndMouse](./src/main/java/com/uyaki/leetcode/editor/cn/doc/answer/P913_CatAndMouse.md) |[P913_CatAndMouse.java](./src/main/java/com/uyaki/leetcode/editor/cn/P913_CatAndMouse.java)|🤯🤯🤯|
 |❤️ |[P1218_最长定差子序列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1218_LongestArithmeticSubsequenceOfGivenDifference.md) | |[P1218_LongestArithmeticSubsequenceOfGivenDifference.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1218_LongestArithmeticSubsequenceOfGivenDifference.java)|😄|
 
 ---
