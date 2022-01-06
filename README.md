@@ -281,7 +281,7 @@
 |💚 |[P111_二叉树的最小深度](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P111_MinimumDepthOfBinaryTree.md) | |[P111_MinimumDepthOfBinaryTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P111_MinimumDepthOfBinaryTree.java)|😄|
 |💛 |[P211_添加与搜索单词 - 数据结构设计](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P211_DesignAddAndSearchWordsDataStructure.md) | |[P211_DesignAddAndSearchWordsDataStructure.java](./src/main/java/com/uyaki/leetcode/editor/cn/P211_DesignAddAndSearchWordsDataStructure.java)|😄|
 |💛 |[P851_喧闹和富有](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P851_LoudAndRich.md) | 👍深度优先或者图拓扑 |[P851_LoudAndRich.java](./src/main/java/com/uyaki/leetcode/editor/cn/P851_LoudAndRich.java)|😄|
-|+++|岛屿问题|+++|+++|+++|
+|+++|岛屿问题|+++|岛屿问题|+++|
 |💛 |[P200_岛屿数量](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P200_NumberOfIslands.md) | 👍 [岛屿问题](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/IslandProblem.md) |[P200_NumberOfIslands.java](./src/main/java/com/uyaki/leetcode/editor/cn/P200_NumberOfIslands.java)|😄|
 |💛 |[P419_甲板上的战舰](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P419_BattleshipsInABoard.md) | 👍 [岛屿问题](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/IslandProblem.md) 的变种 |[P419_BattleshipsInABoard.java](./src/main/java/com/uyaki/leetcode/editor/cn/P419_BattleshipsInABoard.java)|😄|
 |💚 |[P463_岛屿的周长](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P463_IslandPerimeter.md) | 👍 [岛屿问题](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/IslandProblem.md) |[P463_IslandPerimeter.java](./src/main/java/com/uyaki/leetcode/editor/cn/P463_IslandPerimeter.java)|😄|
@@ -391,11 +391,11 @@
 |❤️ |[P301_删除无效的括号](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P301_RemoveInvalidParentheses.md) | |[P301_RemoveInvalidParentheses.java](./src/main/java/com/uyaki/leetcode/editor/cn/P301_RemoveInvalidParentheses.java)|🤯|
 |❤️ |[P488_祖玛游戏](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P488_ZumaGame.md) | |[P488_ZumaGame.java](./src/main/java/com/uyaki/leetcode/editor/cn/P488_ZumaGame.java)|🤯|
 |❤️ |[P638_大礼包](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P638_ShoppingOffers.md) | |[P638_ShoppingOffers.java](./src/main/java/com/uyaki/leetcode/editor/cn/P638_ShoppingOffers.java)|🤯|
-|+++|+++|+++|+++|+++|
+|+++|排列组合|+++|排列组合|+++|
 |💛 |[P46_全排列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P46_Permutations.md) | 👍[排列组合](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/PermutationAndCombination.md) |[P46_Permutations.java](./src/main/java/com/uyaki/leetcode/editor/cn/P46_Permutations.java)|😄|
 |💛 |[P47_全排列 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P47_PermutationsIi.md) | 👍[排列组合](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/PermutationAndCombination.md) |[P47_PermutationsIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P47_PermutationsIi.java)|😄|
 |💛 |[P869_重新排序得到 2 的幂](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P869_ReorderedPowerOf2.md) | |[P869_ReorderedPowerOf2.java](./src/main/java/com/uyaki/leetcode/editor/cn/P869_ReorderedPowerOf2.java)|😄|
-|+++|+++|+++|+++|+++|
+
 ## TODO
 
 - [ ] Dijkstra 算法详解
