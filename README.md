@@ -405,5 +405,6 @@
 
 ## 📝 License
 
-Copyright © 2021 [uyaki](https://github.com/uyaki).<br />
+Copyright © 2021 [uyaki](https://github.com/uyaki).
+
 This project is [MIT License](https://github.com/uyaki/LeetCode/blob/main/LICENSE) licensed.
