@@ -190,6 +190,7 @@
 
 |难度|题目|题解|代码|掌握度|
 |:---:|:---|:---|:---|:---:|
+|💛 |[P89_格雷编码](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P89_GrayCode.md) | |[P89_GrayCode.java](./src/main/java/com/uyaki/leetcode/editor/cn/P89_GrayCode.java)|🤯🤯|
 |💚 |[P190_颠倒二进制位](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P190_ReverseBits.md) | |[P190_ReverseBits.java](./src/main/java/com/uyaki/leetcode/editor/cn/P190_ReverseBits.java)|😄|
 |💚 |[P231_2 的幂](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P231_PowerOfTwo.md) | 👍👍 位运算 |[P231_PowerOfTwo.java](./src/main/java/com/uyaki/leetcode/editor/cn/P231_PowerOfTwo.java)|😄|
 |💚 |[P268_丢失的数字](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P268_MissingNumber.md) | 👍👍 异或`^`抵消 |[P268_MissingNumber.java](./src/main/java/com/uyaki/leetcode/editor/cn/P268_MissingNumber.java)|😄|
