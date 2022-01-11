@@ -291,6 +291,7 @@
 |💛 |[P695_岛屿的最大面积](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P695_MaxAreaOfIsland.md) | 👍 [岛屿问题](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/IslandProblem.md) |[P695_MaxAreaOfIsland.java](./src/main/java/com/uyaki/leetcode/editor/cn/P695_MaxAreaOfIsland.java)|😄|
 |❤️ |[P827_最大人工岛](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P827_MakingALargeIsland.md) | 👍 [岛屿问题](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/IslandProblem.md) |[P827_MakingALargeIsland.java](./src/main/java/com/uyaki/leetcode/editor/cn/P827_MakingALargeIsland.java)|😄|
 |💛 |[P1034_边界着色](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1034_ColoringABorder.md) | ❓ 题目在说啥啊 |[P1034_ColoringABorder.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1034_ColoringABorder.java)|😄|
+|❤️ |[P1036_逃离大迷宫](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1036_EscapeALargeMaze.md) | 👍 [官方题解](https://leetcode-cn.com/problems/escape-a-large-maze/solution/tao-chi-da-mi-gong-by-leetcode-solution-qxhz/) |[P1036_EscapeALargeMaze.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1036_EscapeALargeMaze.java)|😄|
 
 ---
 
