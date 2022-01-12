@@ -340,6 +340,7 @@
 
 |难度|题目|题解|代码|掌握度|
 |:---:|:---|:---|:---|:---:|
+|💛 |[P334_递增的三元子序列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P334_IncreasingTripletSubsequence.md) | |[P334_IncreasingTripletSubsequence.java](./src/main/java/com/uyaki/leetcode/editor/cn/P334_IncreasingTripletSubsequence.java)|😄|
 |💛 |[P397_整数替换](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P397_IntegerReplacement.md) | |[P397_IntegerReplacement.java](./src/main/java/com/uyaki/leetcode/editor/cn/P397_IntegerReplacement.java)|😄|
 |💚 |[P575_分糖果](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P575_DistributeCandies.md) | |[P575_DistributeCandies.java](./src/main/java/com/uyaki/leetcode/editor/cn/P575_DistributeCandies.java)|😄|
 |💛 |[P846_一手顺子](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P846_HandOfStraights.md) | 👍贪心 |[P846_HandOfStraights.java](./src/main/java/com/uyaki/leetcode/editor/cn/P846_HandOfStraights.java)|😄|
