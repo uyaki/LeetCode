@@ -750,6 +750,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P373_FindKPairsWithSmallestSums.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P373_FindKPairsWithSmallestSums.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P373_FindKPairsWithSmallestSums.java" />
+              <option name="questionId" value="373" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P375_GuessNumberHigherOrLowerIi.java">
           <value>
             <LeetcodeEditor>
