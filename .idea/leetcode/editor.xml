@@ -8,7 +8,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1_TwoSum.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1_TwoSum.java" />
-              <option name="questionId" value="1" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -17,7 +16,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[剑指 Offer II 001]整数除法.md" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[剑指 Offer II 001]整数除法.java" />
-              <option name="questionId" value="1000228" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -26,7 +24,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1005_MaximizeSumOfArrayAfterKNegations.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1005_MaximizeSumOfArrayAfterKNegations.java" />
-              <option name="questionId" value="1047" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -35,7 +32,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P100_SameTree.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P100_SameTree.java" />
-              <option name="questionId" value="100" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -44,7 +40,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P101_SymmetricTree.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P101_SymmetricTree.java" />
-              <option name="questionId" value="101" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -53,7 +48,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P102_BinaryTreeLevelOrderTraversal.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P102_BinaryTreeLevelOrderTraversal.java" />
-              <option name="questionId" value="102" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -62,7 +56,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1034_ColoringABorder.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1034_ColoringABorder.java" />
-              <option name="questionId" value="1104" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -71,7 +64,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1036_EscapeALargeMaze.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1036_EscapeALargeMaze.java" />
-              <option name="questionId" value="1106" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -80,7 +72,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P103_BinaryTreeZigzagLevelOrderTraversal.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P103_BinaryTreeZigzagLevelOrderTraversal.java" />
-              <option name="questionId" value="103" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -89,7 +80,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1044_LongestDuplicateSubstring.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1044_LongestDuplicateSubstring.java" />
-              <option name="questionId" value="1122" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -98,7 +88,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P104_MaximumDepthOfBinaryTree.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P104_MaximumDepthOfBinaryTree.java" />
-              <option name="questionId" value="104" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -107,7 +96,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P105_ConstructBinaryTreeFromPreorderAndInorderTraversal.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P105_ConstructBinaryTreeFromPreorderAndInorderTraversal.java" />
-              <option name="questionId" value="105" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -116,7 +104,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P106_ConstructBinaryTreeFromInorderAndPostorderTraversal.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P106_ConstructBinaryTreeFromInorderAndPostorderTraversal.java" />
-              <option name="questionId" value="106" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -125,7 +112,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1078_OccurrencesAfterBigram.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1078_OccurrencesAfterBigram.java" />
-              <option name="questionId" value="1156" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -134,7 +120,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P107_BinaryTreeLevelOrderTraversalIi.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P107_BinaryTreeLevelOrderTraversalIi.java" />
-              <option name="questionId" value="107" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -143,7 +128,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P108_ConvertSortedArrayToBinarySearchTree.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P108_ConvertSortedArrayToBinarySearchTree.java" />
-              <option name="questionId" value="108" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -152,7 +136,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P10_RegularExpressionMatching.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P10_RegularExpressionMatching.java" />
-              <option name="questionId" value="10" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -161,7 +144,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P110_BalancedBinaryTree.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P110_BalancedBinaryTree.java" />
-              <option name="questionId" value="110" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -170,7 +152,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P111_MinimumDepthOfBinaryTree.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P111_MinimumDepthOfBinaryTree.java" />
-              <option name="questionId" value="111" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -179,7 +160,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P114_FlattenBinaryTreeToLinkedList.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P114_FlattenBinaryTreeToLinkedList.java" />
-              <option name="questionId" value="114" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -188,7 +168,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1154_DayOfTheYear.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1154_DayOfTheYear.java" />
-              <option name="questionId" value="1260" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -197,7 +176,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1185_DayOfTheWeek.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1185_DayOfTheWeek.java" />
-              <option name="questionId" value="1289" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -206,7 +184,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P118_PascalsTriangle.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P118_PascalsTriangle.java" />
-              <option name="questionId" value="118" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -215,7 +192,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P119_PascalsTriangleIi.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P119_PascalsTriangleIi.java" />
-              <option name="questionId" value="119" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -224,7 +200,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P11_ContainerWithMostWater.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P11_ContainerWithMostWater.java" />
-              <option name="questionId" value="11" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -233,7 +208,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1218_LongestArithmeticSubsequenceOfGivenDifference.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1218_LongestArithmeticSubsequenceOfGivenDifference.java" />
-              <option name="questionId" value="1330" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -242,7 +216,17 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P121_BestTimeToBuyAndSellStock.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P121_BestTimeToBuyAndSellStock.java" />
-              <option name="questionId" value="121" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1220_CountVowelsPermutation.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1220_CountVowelsPermutation.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1220" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1220_CountVowelsPermutation.java" />
+              <option name="titleSlug" value="count-vowels-permutation" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -251,7 +235,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1436_DestinationCity.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1436_DestinationCity.java" />
-              <option name="questionId" value="1547" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -260,7 +243,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1446_ConsecutiveCharacters.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1446_ConsecutiveCharacters.java" />
-              <option name="questionId" value="1542" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -269,7 +251,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P144_BinaryTreePreorderTraversal.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P144_BinaryTreePreorderTraversal.java" />
-              <option name="questionId" value="144" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -278,7 +259,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P145_BinaryTreePostorderTraversal.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P145_BinaryTreePostorderTraversal.java" />
-              <option name="questionId" value="145" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -287,7 +267,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1514_PathWithMaximumProbability.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1514_PathWithMaximumProbability.java" />
-              <option name="questionId" value="1325" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -296,7 +275,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1518_WaterBottles.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1518_WaterBottles.java" />
-              <option name="questionId" value="1642" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -305,7 +283,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P155_MinStack.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P155_MinStack.java" />
-              <option name="questionId" value="155" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -314,7 +291,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1576_ReplaceAllSToAvoidConsecutiveRepeatingCharacters.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1576_ReplaceAllSToAvoidConsecutiveRepeatingCharacters.java" />
-              <option name="questionId" value="1698" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -323,7 +299,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P15_ThreeSum.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P15_ThreeSum.java" />
-              <option name="questionId" value="15" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -332,7 +307,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1609_EvenOddTree.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1609_EvenOddTree.java" />
-              <option name="questionId" value="1731" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -341,7 +315,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1610_MaximumNumberOfVisiblePoints.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1610_MaximumNumberOfVisiblePoints.java" />
-              <option name="questionId" value="1733" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -350,7 +323,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1614_MaximumNestingDepthOfTheParentheses.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1614_MaximumNestingDepthOfTheParentheses.java" />
-              <option name="questionId" value="1737" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -359,7 +331,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1629_SlowestKey.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1629_SlowestKey.java" />
-              <option name="questionId" value="1751" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -368,7 +339,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P166_FractionToRecurringDecimal.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P166_FractionToRecurringDecimal.java" />
-              <option name="questionId" value="166" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -377,7 +347,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P169_MajorityElement.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P169_MajorityElement.java" />
-              <option name="questionId" value="169" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -386,7 +355,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1705_MaximumNumberOfEatenApples.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1705_MaximumNumberOfEatenApples.java" />
-              <option name="questionId" value="1824" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -395,7 +363,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1716_CalculateMoneyInLeetcodeBank.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1716_CalculateMoneyInLeetcodeBank.java" />
-              <option name="questionId" value="1817" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -404,7 +371,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1816_TruncateSentence.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1816_TruncateSentence.java" />
-              <option name="questionId" value="1944" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -413,7 +379,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P187_RepeatedDnaSequences.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P187_RepeatedDnaSequences.java" />
-              <option name="questionId" value="187" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -422,7 +387,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P190_ReverseBits.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P190_ReverseBits.java" />
-              <option name="questionId" value="190" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -431,7 +395,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1995_CountSpecialQuadruplets.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1995_CountSpecialQuadruplets.java" />
-              <option name="questionId" value="2122" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -440,7 +403,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1_TwoSum.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1_TwoSum.java" />
-              <option name="questionId" value="1" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -449,7 +411,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P200_NumberOfIslands.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P200_NumberOfIslands.java" />
-              <option name="questionId" value="200" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -458,7 +419,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2022_Convert1dArrayInto2dArray.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P2022_Convert1dArrayInto2dArray.java" />
-              <option name="questionId" value="2132" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -467,7 +427,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P209_MinimumSizeSubarraySum.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P209_MinimumSizeSubarraySum.java" />
-              <option name="questionId" value="209" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -476,7 +435,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P20_ValidParentheses.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P20_ValidParentheses.java" />
-              <option name="questionId" value="20" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -485,7 +443,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P211_DesignAddAndSearchWordsDataStructure.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P211_DesignAddAndSearchWordsDataStructure.java" />
-              <option name="questionId" value="211" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -494,7 +451,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P21_MergeTwoSortedLists.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P21_MergeTwoSortedLists.java" />
-              <option name="questionId" value="21" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -503,7 +459,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P223_RectangleArea.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P223_RectangleArea.java" />
-              <option name="questionId" value="223" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -512,7 +467,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P225_ImplementStackUsingQueues.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P225_ImplementStackUsingQueues.java" />
-              <option name="questionId" value="225" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -521,7 +475,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P229_MajorityElementIi.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P229_MajorityElementIi.java" />
-              <option name="questionId" value="229" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -530,7 +483,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P230_KthSmallestElementInABst.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P230_KthSmallestElementInABst.java" />
-              <option name="questionId" value="230" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -539,7 +491,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P231_PowerOfTwo.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P231_PowerOfTwo.java" />
-              <option name="questionId" value="231" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -548,7 +499,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P232_ImplementQueueUsingStacks.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P232_ImplementQueueUsingStacks.java" />
-              <option name="questionId" value="232" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -557,7 +507,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P234_PalindromeLinkedList.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P234_PalindromeLinkedList.java" />
-              <option name="questionId" value="234" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -566,7 +515,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P237_DeleteNodeInALinkedList.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P237_DeleteNodeInALinkedList.java" />
-              <option name="questionId" value="237" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -575,7 +523,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P23_MergeKSortedLists.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P23_MergeKSortedLists.java" />
-              <option name="questionId" value="23" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -584,7 +531,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P240_SearchA2dMatrixIi.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P240_SearchA2dMatrixIi.java" />
-              <option name="questionId" value="240" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -593,7 +539,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P241_DifferentWaysToAddParentheses.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P241_DifferentWaysToAddParentheses.java" />
-              <option name="questionId" value="241" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -602,7 +547,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P260_SingleNumberIii.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P260_SingleNumberIii.java" />
-              <option name="questionId" value="260" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -611,7 +555,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P268_MissingNumber.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P268_MissingNumber.java" />
-              <option name="questionId" value="268" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -620,7 +563,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P273_IntegerToEnglishWords.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P273_IntegerToEnglishWords.java" />
-              <option name="questionId" value="273" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -629,7 +571,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P282_ExpressionAddOperators.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P282_ExpressionAddOperators.java" />
-              <option name="questionId" value="282" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -638,7 +579,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P284_PeekingIterator.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P284_PeekingIterator.java" />
-              <option name="questionId" value="284" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -647,7 +587,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P299_BullsAndCows.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P299_BullsAndCows.java" />
-              <option name="questionId" value="299" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -656,7 +595,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P29_DivideTwoIntegers.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P29_DivideTwoIntegers.java" />
-              <option name="questionId" value="29" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -665,7 +603,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2_AddTwoNumbers.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P2_AddTwoNumbers.java" />
-              <option name="questionId" value="2" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -674,7 +611,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P301_RemoveInvalidParentheses.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P301_RemoveInvalidParentheses.java" />
-              <option name="questionId" value="301" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -683,7 +619,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P306_AdditiveNumber.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P306_AdditiveNumber.java" />
-              <option name="questionId" value="306" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -692,7 +627,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P318_MaximumProductOfWordLengths.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P318_MaximumProductOfWordLengths.java" />
-              <option name="questionId" value="318" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -701,7 +635,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P319_BulbSwitcher.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P319_BulbSwitcher.java" />
-              <option name="questionId" value="319" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -710,7 +643,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P334_IncreasingTripletSubsequence.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P334_IncreasingTripletSubsequence.java" />
-              <option name="questionId" value="334" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -719,7 +651,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P335_SelfCrossing.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P335_SelfCrossing.java" />
-              <option name="questionId" value="335" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -728,7 +659,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P352_DataStreamAsDisjointIntervals.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P352_DataStreamAsDisjointIntervals.java" />
-              <option name="questionId" value="352" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -737,7 +667,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P35_SearchInsertPosition.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P35_SearchInsertPosition.java" />
-              <option name="questionId" value="35" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -746,7 +675,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P367_ValidPerfectSquare.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P367_ValidPerfectSquare.java" />
-              <option name="questionId" value="367" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -755,7 +683,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P372_SuperPow.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P372_SuperPow.java" />
-              <option name="questionId" value="372" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -764,7 +691,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P373_FindKPairsWithSmallestSums.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P373_FindKPairsWithSmallestSums.java" />
-              <option name="questionId" value="373" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -773,7 +699,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P375_GuessNumberHigherOrLowerIi.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P375_GuessNumberHigherOrLowerIi.java" />
-              <option name="questionId" value="375" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -782,7 +707,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P382_LinkedListRandomNode.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P382_LinkedListRandomNode.java" />
-              <option name="questionId" value="382" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -791,7 +715,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P383_RansomNote.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P383_RansomNote.java" />
-              <option name="questionId" value="383" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -800,7 +723,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P384_ShuffleAnArray.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P384_ShuffleAnArray.java" />
-              <option name="questionId" value="384" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -809,7 +731,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P38_CountAndSay.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P38_CountAndSay.java" />
-              <option name="questionId" value="38" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -818,7 +739,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P390_EliminationGame.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P390_EliminationGame.java" />
-              <option name="questionId" value="390" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -827,7 +747,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P391_PerfectRectangle.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P391_PerfectRectangle.java" />
-              <option name="questionId" value="391" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -836,7 +755,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P397_IntegerReplacement.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P397_IntegerReplacement.java" />
-              <option name="questionId" value="397" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -845,7 +763,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P3_LongestSubstringWithoutRepeatingCharacters.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P3_LongestSubstringWithoutRepeatingCharacters.java" />
-              <option name="questionId" value="3" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -854,7 +771,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P400_NthDigit.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P400_NthDigit.java" />
-              <option name="questionId" value="400" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -863,7 +779,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P405_ConvertANumberToHexadecimal.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P405_ConvertANumberToHexadecimal.java" />
-              <option name="questionId" value="405" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -872,7 +787,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P407_TrappingRainWaterIi.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P407_TrappingRainWaterIi.java" />
-              <option name="questionId" value="407" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -881,7 +795,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P412_FizzBuzz.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P412_FizzBuzz.java" />
-              <option name="questionId" value="412" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -890,7 +803,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P414_ThirdMaximumNumber.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P414_ThirdMaximumNumber.java" />
-              <option name="questionId" value="414" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -899,7 +811,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P419_BattleshipsInABoard.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P419_BattleshipsInABoard.java" />
-              <option name="questionId" value="419" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -908,7 +819,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P423_ReconstructOriginalDigitsFromEnglish.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P423_ReconstructOriginalDigitsFromEnglish.java" />
-              <option name="questionId" value="423" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -917,7 +827,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P434_NumberOfSegmentsInAString.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P434_NumberOfSegmentsInAString.java" />
-              <option name="questionId" value="434" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -926,7 +835,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P438_FindAllAnagramsInAString.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P438_FindAllAnagramsInAString.java" />
-              <option name="questionId" value="438" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -935,7 +843,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P441_ArrangingCoins.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P441_ArrangingCoins.java" />
-              <option name="questionId" value="441" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -944,7 +851,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P453_MinimumMovesToEqualArrayElements.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P453_MinimumMovesToEqualArrayElements.java" />
-              <option name="questionId" value="453" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -953,7 +859,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P458_PoorPigs.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P458_PoorPigs.java" />
-              <option name="questionId" value="458" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -962,7 +867,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P463_IslandPerimeter.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P463_IslandPerimeter.java" />
-              <option name="questionId" value="463" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -971,7 +875,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P46_Permutations.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P46_Permutations.java" />
-              <option name="questionId" value="46" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -980,7 +883,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P472_ConcatenatedWords.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P472_ConcatenatedWords.java" />
-              <option name="questionId" value="472" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -989,7 +891,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P475_Heaters.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P475_Heaters.java" />
-              <option name="questionId" value="475" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -998,7 +899,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P476_NumberComplement.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P476_NumberComplement.java" />
-              <option name="questionId" value="476" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1007,7 +907,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P47_PermutationsIi.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P47_PermutationsIi.java" />
-              <option name="questionId" value="47" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1016,7 +915,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P482_LicenseKeyFormatting.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P482_LicenseKeyFormatting.java" />
-              <option name="questionId" value="482" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1025,7 +923,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P486_PredictTheWinner.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P486_PredictTheWinner.java" />
-              <option name="questionId" value="486" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1034,7 +931,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P488_ZumaGame.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P488_ZumaGame.java" />
-              <option name="questionId" value="488" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1043,7 +939,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P492_ConstructTheRectangle.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P492_ConstructTheRectangle.java" />
-              <option name="questionId" value="492" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1052,7 +947,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P495_TeemoAttacking.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P495_TeemoAttacking.java" />
-              <option name="questionId" value="495" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1061,7 +955,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P496_NextGreaterElementI.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P496_NextGreaterElementI.java" />
-              <option name="questionId" value="496" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1070,7 +963,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P4_MedianOfTwoSortedArrays.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P4_MedianOfTwoSortedArrays.java" />
-              <option name="questionId" value="4" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1079,7 +971,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P500_KeyboardRow.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P500_KeyboardRow.java" />
-              <option name="questionId" value="500" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1088,7 +979,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P506_RelativeRanks.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P506_RelativeRanks.java" />
-              <option name="questionId" value="506" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1097,7 +987,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P507_PerfectNumber.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P507_PerfectNumber.java" />
-              <option name="questionId" value="507" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1106,7 +995,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P50_PowxN.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P50_PowxN.java" />
-              <option name="questionId" value="50" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1115,7 +1003,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P519_RandomFlipMatrix.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P519_RandomFlipMatrix.java" />
-              <option name="questionId" value="913" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1124,7 +1011,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P520_DetectCapital.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P520_DetectCapital.java" />
-              <option name="questionId" value="520" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1133,7 +1019,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P53_MaximumSubarray.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P53_MaximumSubarray.java" />
-              <option name="questionId" value="53" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1142,7 +1027,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P559_MaximumDepthOfNAryTree.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P559_MaximumDepthOfNAryTree.java" />
-              <option name="questionId" value="774" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1151,7 +1035,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P563_BinaryTreeTilt.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P563_BinaryTreeTilt.java" />
-              <option name="questionId" value="563" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1160,7 +1043,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P575_DistributeCandies.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P575_DistributeCandies.java" />
-              <option name="questionId" value="575" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1169,7 +1051,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P594_LongestHarmoniousSubsequence.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P594_LongestHarmoniousSubsequence.java" />
-              <option name="questionId" value="594" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1178,7 +1059,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P598_RangeAdditionIi.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P598_RangeAdditionIi.java" />
-              <option name="questionId" value="598" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1187,7 +1067,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P5_LongestPalindromicSubstring.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P5_LongestPalindromicSubstring.java" />
-              <option name="questionId" value="5" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1196,7 +1075,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P629_KInversePairsArray.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P629_KInversePairsArray.java" />
-              <option name="questionId" value="629" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1205,7 +1083,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P630_CourseScheduleIii.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P630_CourseScheduleIii.java" />
-              <option name="questionId" value="630" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1214,7 +1091,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P638_ShoppingOffers.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P638_ShoppingOffers.java" />
-              <option name="questionId" value="638" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1223,7 +1099,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P66_PlusOne.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P66_PlusOne.java" />
-              <option name="questionId" value="66" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1232,7 +1107,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P677_MapSumPairs.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P677_MapSumPairs.java" />
-              <option name="questionId" value="677" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1241,7 +1115,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P682_BaseballGame.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P682_BaseballGame.java" />
-              <option name="questionId" value="682" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1250,7 +1123,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P686_RepeatedStringMatch.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P686_RepeatedStringMatch.java" />
-              <option name="questionId" value="686" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1259,7 +1131,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P689_MaximumSumOf3NonOverlappingSubarrays.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P689_MaximumSumOf3NonOverlappingSubarrays.java" />
-              <option name="questionId" value="689" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1268,7 +1139,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P695_MaxAreaOfIsland.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P695_MaxAreaOfIsland.java" />
-              <option name="questionId" value="695" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1277,7 +1147,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P69_Sqrtx.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P69_Sqrtx.java" />
-              <option name="questionId" value="69" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1286,7 +1155,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P700_SearchInABinarySearchTree.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P700_SearchInABinarySearchTree.java" />
-              <option name="questionId" value="783" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1295,7 +1163,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P704_BinarySearch.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P704_BinarySearch.java" />
-              <option name="questionId" value="792" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1304,7 +1171,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P709_ToLowerCase.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P709_ToLowerCase.java" />
-              <option name="questionId" value="742" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1313,7 +1179,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P70_ClimbingStairs.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P70_ClimbingStairs.java" />
-              <option name="questionId" value="70" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1322,7 +1187,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P71_SimplifyPath.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P71_SimplifyPath.java" />
-              <option name="questionId" value="71" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1331,7 +1195,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P747_LargestNumberAtLeastTwiceOfOthers.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P747_LargestNumberAtLeastTwiceOfOthers.java" />
-              <option name="questionId" value="748" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1340,7 +1203,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P748_ShortestCompletingWord.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P748_ShortestCompletingWord.java" />
-              <option name="questionId" value="749" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1349,7 +1211,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P786_KThSmallestPrimeFraction.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P786_KThSmallestPrimeFraction.java" />
-              <option name="questionId" value="802" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1358,7 +1219,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P794_ValidTicTacToeState.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P794_ValidTicTacToeState.java" />
-              <option name="questionId" value="810" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1367,7 +1227,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P807_MaxIncreaseToKeepCitySkyline.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P807_MaxIncreaseToKeepCitySkyline.java" />
-              <option name="questionId" value="825" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1376,7 +1235,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P825_FriendsOfAppropriateAges.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P825_FriendsOfAppropriateAges.java" />
-              <option name="questionId" value="852" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1385,7 +1243,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P827_MakingALargeIsland.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P827_MakingALargeIsland.java" />
-              <option name="questionId" value="854" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1394,7 +1251,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P846_HandOfStraights.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P846_HandOfStraights.java" />
-              <option name="questionId" value="876" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1403,7 +1259,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P851_LoudAndRich.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P851_LoudAndRich.java" />
-              <option name="questionId" value="881" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1412,7 +1267,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P859_BuddyStrings.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P859_BuddyStrings.java" />
-              <option name="questionId" value="889" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1421,7 +1275,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P869_ReorderedPowerOf2.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P869_ReorderedPowerOf2.java" />
-              <option name="questionId" value="900" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1430,7 +1283,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P877_StoneGame.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P877_StoneGame.java" />
-              <option name="questionId" value="909" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1439,7 +1291,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P894_AllPossibleFullBinaryTrees.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P894_AllPossibleFullBinaryTrees.java" />
-              <option name="questionId" value="930" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1448,7 +1299,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P89_GrayCode.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P89_GrayCode.java" />
-              <option name="questionId" value="89" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1457,7 +1307,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P911_OnlineElection.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P911_OnlineElection.java" />
-              <option name="questionId" value="947" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1466,7 +1315,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P913_CatAndMouse.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P913_CatAndMouse.java" />
-              <option name="questionId" value="949" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1475,7 +1323,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P94_BinaryTreeInorderTraversal.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P94_BinaryTreeInorderTraversal.java" />
-              <option name="questionId" value="94" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1484,7 +1331,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P95_UniqueBinarySearchTreesIi.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P95_UniqueBinarySearchTreesIi.java" />
-              <option name="questionId" value="95" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1493,7 +1339,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P96_UniqueBinarySearchTrees.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P96_UniqueBinarySearchTrees.java" />
-              <option name="questionId" value="96" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1502,7 +1347,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P98_ValidateBinarySearchTree.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P98_ValidateBinarySearchTree.java" />
-              <option name="questionId" value="98" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1511,7 +1355,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P997_FindTheTownJudge.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P997_FindTheTownJudge.java" />
-              <option name="questionId" value="1039" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1520,7 +1363,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P99_RecoverBinarySearchTree.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P99_RecoverBinarySearchTree.java" />
-              <option name="questionId" value="99" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1529,7 +1371,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/PLCP 04_BrokenBoardDominoes.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/PLCP 04_BrokenBoardDominoes.java" />
-              <option name="questionId" value="100093" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1538,7 +1379,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P剑指 Offer II 061_Qn8gGX.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P剑指 Offer II 061_Qn8gGX.java" />
-              <option name="questionId" value="1000326" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1547,7 +1387,6 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P剑指 Offer II 069_B1IidL.md" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P剑指 Offer II 069_B1IidL.java" />
-              <option name="questionId" value="1000333" />
             </LeetcodeEditor>
           </value>
         </entry>

@@ -51,7 +51,7 @@
 
 ## 总结
 
-- 解题技巧：[一些坑](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Error.md)
+- 解题技巧：[算法基础](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Base.md)
 - 字符串
   - KMP算法总结：[KMP](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/KMP.md)
 - 数组
@@ -376,6 +376,7 @@
 |💛 |[P375_猜数字大小 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P375_GuessNumberHigherOrLowerIi.md) | |[P375_GuessNumberHigherOrLowerIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P375_GuessNumberHigherOrLowerIi.java)|😄|
 |❤️ |[P629_K个逆序对数组](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P629_KInversePairsArray.md) | [P629_KInversePairsArray](./src/main/java/com/uyaki/leetcode/editor/cn/doc/answer/P629_KInversePairsArray.md) |[P629_KInversePairsArray.java](./src/main/java/com/uyaki/leetcode/editor/cn/P629_KInversePairsArray.java)|🤯|
 |❤️ |[P1218_最长定差子序列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1218_LongestArithmeticSubsequenceOfGivenDifference.md) | |[P1218_LongestArithmeticSubsequenceOfGivenDifference.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1218_LongestArithmeticSubsequenceOfGivenDifference.java)|😄|
+|❤️ |[P1220_统计元音字母序列的数目](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1220_CountVowelsPermutation.md) | 👍逆向思维推导i-1 |[P1220_CountVowelsPermutation.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1220_CountVowelsPermutation.java)|😄|
 |+++|博弈问题|+++|博弈问题|+++|
 |💛 |[P486_预测赢家](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P486_PredictTheWinner.md) | 👍[博弈问题](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/GameProblem.md) |[P486_PredictTheWinner.java](./src/main/java/com/uyaki/leetcode/editor/cn/P486_PredictTheWinner.java)|😄|
 |💛 |[P877_石子游戏](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P877_StoneGame.md) | 👍[博弈问题](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/GameProblem.md) |[P877_StoneGame.java](./src/main/java/com/uyaki/leetcode/editor/cn/P877_StoneGame.java)|😄|
