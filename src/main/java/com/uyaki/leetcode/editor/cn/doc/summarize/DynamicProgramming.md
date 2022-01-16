@@ -18,4 +18,7 @@
 
 ## 示例
 
-- [P70_爬楼梯](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P70_ClimbingStairs.md)
+
+|难度|题目|代码|掌握度|
+|:---:|:---|:---|:---|
+|💚 |[P70_爬楼梯](./../content/P70_ClimbingStairs.md)  |[P70_ClimbingStairs.java](./../../P70_ClimbingStairs.java)|😄|

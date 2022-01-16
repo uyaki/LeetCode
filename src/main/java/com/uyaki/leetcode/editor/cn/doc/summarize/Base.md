@@ -54,15 +54,19 @@ public static void arraycopy(Object src, int srcPos, Object dest, int destPos, i
 
 > 计算中间值时，应该使用 <strong>(right - left) / 2 + left</strong> 而不是 <strong>(right + left)/2</strong>。
 
-虽然数学上 `(right - left) / 2 + left = (right + left)/2`。
+虽然数学上：
 
-但是 java 中 int 的数据范围 `[-2^31,2^31-1]`，其中 `2^31 = 2147483648`。
+<img src="https://latex.codecogs.com/svg.image?(right-left)/2&plus;left=(right&plus;left)/2"/>
 
-对于极值：Integer.MAX_VALUE = **2147483647**
-- `(right - left) / 2 + left = (2147483647 - 1) /2 + 1 = 1073741824`
-- ` (right + left)/2=(2147483647+1)/2 = (-2147483648)/2 = -1073741824`。
+但是 java 中 int 的数据范围 
 
-结果出错。
+<img src="https://latex.codecogs.com/svg.image?int\in&space;[-2^{31},2^{31}-1],2^{31}=2147483648"/>
+
+对于极值 Integer.MAX_VALUE = **2147483647** ，会导致以下结果：
+1. `(right - left) / 2 + left = (2147483647 - 1) /2 + 1 = 1073741824`
+2. `(right + left)/2=(2147483647+1)/2 = (-2147483648)/2 = -1073741824`。
+
+显然，等式 2 结果数据溢出。
 
 例子：
 

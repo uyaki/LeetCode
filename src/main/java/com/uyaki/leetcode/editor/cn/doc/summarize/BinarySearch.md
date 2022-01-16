@@ -42,7 +42,9 @@ class Solution {
 
 ## 例子
 
-如 [P35_搜索插入位置](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P35_SearchInsertPosition.md)
+|难度|题目|代码|掌握度|
+|:---:|:---|:---|:---|
+|💚 |[P35_搜索插入位置](./../content/P35_SearchInsertPosition.md)  |[P35_SearchInsertPosition.java](./../../P35_SearchInsertPosition.java)|😄|
 
 ```java
 class Solution {
