@@ -75,7 +75,7 @@ public class P352_DataStreamAsDisjointIntervals {
 
         public void addNum(int val) {
             nums.add(val);
-            Collections.sort(nums, Comparator.comparingInt(o -> o));
+            nums.sort(Comparator.comparingInt(o -> o));
         }
 
         public int[][] getIntervals() {

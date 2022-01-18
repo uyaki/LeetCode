@@ -8,6 +8,7 @@
   - [字符串操作](#字符串操作)
   - [数组](#数组)
   - [优先队列](#优先队列)
+  - [排序](#排序)
   - [哈希](#哈希)
   - [递归](#递归)
   - [位运算](#位运算)
@@ -171,6 +172,13 @@
 |❤️ |[P786_第 K 个最小的素数分数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P786_KThSmallestPrimeFraction.md) | |[P786_KThSmallestPrimeFraction.java](./src/main/java/com/uyaki/leetcode/editor/cn/P786_KThSmallestPrimeFraction.java)|😄|
 |💛 |[P1705_吃苹果的最大数目](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1705_MaximumNumberOfEatenApples.md) | 👍 优先队列、贪心 |[P1705_MaximumNumberOfEatenApples.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1705_MaximumNumberOfEatenApples.java)|😄|
 |💛 |[P1514_概率最大的路径](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1514_PathWithMaximumProbability.md) | |[P1514_PathWithMaximumProbability.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1514_PathWithMaximumProbability.java)|😄|
+
+---
+
+## 排序
+|难度|题目|题解|代码|掌握度|
+|:---:|:---|:---|:---|:---:|
+|💛 |[P539_最小时间差](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P539_MinimumTimeDifference.md) | 👍题目只能算ez，了解鸽巢原理 |[P539_MinimumTimeDifference.java](./src/main/java/com/uyaki/leetcode/editor/cn/P539_MinimumTimeDifference.java)|😄|
 
 ---
 ## 哈希
