@@ -51,6 +51,7 @@ public class P539_MinimumTimeDifference {
             if (n > 1440) {
                 return 0;
             }
+            // 按分钟数排序
             timePoints.sort(Comparator.comparingInt(this::convertTime2Minutes));
             int min = Integer.MAX_VALUE;
             int first = convertTime2Minutes(timePoints.get(0));
@@ -61,11 +62,16 @@ public class P539_MinimumTimeDifference {
                 pre = cur;
             }
             // 最后可能出现 23:00  1:00这种情况
-            int last = convertTime2Minutes(timePoints.get(timePoints.size() - 1));
+            int last = convertTime2Minutes(timePoints.get(n - 1));
             min = Math.min(min, first + 24 * 60 - last);
             return min;
         }
 
+        /**
+         * 时间转化为分钟数
+         * @param time time
+         * @return 分钟数
+         */
         private int convertTime2Minutes(String time) {
             String[] str = time.split(":");
             return Integer.parseInt(str[0]) * 60 + Integer.parseInt(str[1]);
