@@ -59,6 +59,8 @@
 
 package com.uyaki.leetcode.editor.cn;
 
+import java.util.Arrays;
+
 /**
  * 石子游戏 IX
  */
@@ -71,6 +73,23 @@ public class P2029_StoneGameIx {
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
         public boolean stoneGameIX(int[] stones) {
+            //把石子分成三类，它们的价值除以 3 的余数分别为 0, 1, 2
+            // 如果类型 0 的石子的个数为偶数，那么胜负情况等价于没有类型 0 的石子的胜负情况；
+            // 那么 Alice 获胜当且仅当类型 1 和类型 2的石子至少都有 1 个；
+            // 如果类型 0 的石子个数为奇数，那么胜负情况等价于只有 1 个类型 0 的石子的胜负情况。
+            // 那么 Alice 获胜当且仅当「在没有类型 0 石子的情况下，Bob 获胜且原因不是因为所有石子都被移除」。
+            // 对应到上面的分析即为「类型 1 的石子比类型 2 多超过 2 个」或者「类型 2 的石子比类型 1 多超过 2 个」
+            int[] count = new int[3];
+            Arrays.fill(count, 0);
+            for (int val : stones) {
+                count[val % 3]++;
+            }
+            if (count[0] % 2 == 0) {
+                return count[1] >= 1 && count[2] >= 1;
+            }
+            return count[1] - count[2] > 2 || count[2] - count[1] > 2;
+        }
+        public boolean stoneGameIX2(int[] stones) {
             int cnt0 = 0, cnt1 = 0, cnt2 = 0;
             for (int val : stones) {
                 int type = val % 3;
