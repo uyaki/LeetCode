@@ -390,6 +390,7 @@
 |💛 |[P486_预测赢家](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P486_PredictTheWinner.md) | 👍[博弈问题](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/GameProblem.md) |[P486_PredictTheWinner.java](./src/main/java/com/uyaki/leetcode/editor/cn/P486_PredictTheWinner.java)|😄|
 |💛 |[P877_石子游戏](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P877_StoneGame.md) | 👍[博弈问题](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/GameProblem.md) |[P877_StoneGame.java](./src/main/java/com/uyaki/leetcode/editor/cn/P877_StoneGame.java)|😄|
 |❤️ |[P913_猫和老鼠](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P913_CatAndMouse.md) | 👍[P913_CatAndMouse](./src/main/java/com/uyaki/leetcode/editor/cn/doc/answer/P913_CatAndMouse.md) |[P913_CatAndMouse.java](./src/main/java/com/uyaki/leetcode/editor/cn/P913_CatAndMouse.java)|🤯🤯🤯|
+|💛 |[P2029_石子游戏 IX](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2029_StoneGameIx.md) | 👍[博弈问题](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/GameProblem.md) |[P2029_StoneGameIx.java](./src/main/java/com/uyaki/leetcode/editor/cn/P2029_StoneGameIx.java)|🤯🤯🤯|
 
 ---
 
