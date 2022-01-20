@@ -85,7 +85,7 @@ public class P2029_StoneGameIx {
             if (cnt0 % 2 == 0) {
                 return cnt1 >= 1 && cnt2 >= 1;
             }
-			return cnt1 - cnt2 > 2 || cnt2 - cnt1 > 2;
+            return cnt1 - cnt2 > 2 || cnt2 - cnt1 > 2;
         }
     }
 //leetcode submit region end(Prohibit modification and deletion)
