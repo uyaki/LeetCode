@@ -19,6 +19,7 @@
   - [树](#树)
     - [树的遍历](#树的遍历)
     - [深度优先搜索](#深度优先搜索)
+    - [广度优先搜索](#广度优先搜索)
     - [字典树（前缀树）](#字典树前缀树)
   - [分治法](#分治法)
   - [二分查找](#二分查找)
@@ -305,6 +306,14 @@
 |❤️ |[P827_最大人工岛](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P827_MakingALargeIsland.md) | 👍 [岛屿问题](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/IslandProblem.md) |[P827_MakingALargeIsland.java](./src/main/java/com/uyaki/leetcode/editor/cn/P827_MakingALargeIsland.java)|😄|
 |💛 |[P1034_边界着色](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1034_ColoringABorder.md) | ❓ 题目在说啥啊 |[P1034_ColoringABorder.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1034_ColoringABorder.java)|😄|
 |❤️ |[P1036_逃离大迷宫](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1036_EscapeALargeMaze.md) | 👍 [官方题解](https://leetcode-cn.com/problems/escape-a-large-maze/solution/tao-chi-da-mi-gong-by-leetcode-solution-qxhz/) |[P1036_EscapeALargeMaze.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1036_EscapeALargeMaze.java)|😄|
+
+---
+
+### 广度优先搜索
+
+|难度|题目|题解|代码|掌握度|
+|:---:|:---|:---|:---|:---:|
+|❤️ |[P1345_跳跃游戏 IV](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1345_JumpGameIv.md) | 👍 [官方题解](https://leetcode-cn.com/problems/jump-game-iv/solution/tiao-yue-you-xi-iv-by-leetcode-solution-zsix/) |[P1345_JumpGameIv.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1345_JumpGameIv.java)|😄|
 
 ---
 
