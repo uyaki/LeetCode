@@ -73,6 +73,8 @@
   - 博弈问题总结：[Game Problem](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/GameProblem.md)
 - 深度优先搜索DFS：
   - 岛屿问题总结：[Island Problem](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/IslandProblem.md)
+- 图算法总结
+  - [图论基础](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Graph_Base.md)
 
 ---
 
@@ -315,6 +317,7 @@
 |难度|题目|题解|代码|掌握度|
 |:---:|:---|:---|:---|:---:|
 |❤️ |[P1345_跳跃游戏 IV](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1345_JumpGameIv.md) | 👍 [官方题解](https://leetcode-cn.com/problems/jump-game-iv/solution/tiao-yue-you-xi-iv-by-leetcode-solution-zsix/) |[P1345_JumpGameIv.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1345_JumpGameIv.java)|😄|
+|❤️ |[P2045_到达目的地的第二短时间](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2045_SecondMinimumTimeToReachDestination.md) | 👍 [官方题解](https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination/solution/dao-da-mu-de-di-de-di-er-duan-shi-jian-b-05i0/) |[P2045_SecondMinimumTimeToReachDestination.java](./src/main/java/com/uyaki/leetcode/editor/cn/P2045_SecondMinimumTimeToReachDestination.java)|😄|
 
 ---
 
