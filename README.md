@@ -191,6 +191,7 @@
 |难度|题目|题解|代码|掌握度|
 |:---:|:---|:---|:---|:---:|
 |💛 |[P677_键值映射](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P677_MapSumPairs.md) | |[P677_MapSumPairs.java](./src/main/java/com/uyaki/leetcode/editor/cn/P677_MapSumPairs.java)|😄|
+|💛 |[P2013_检测正方形](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2013_DetectSquares.md) | |[P2013_DetectSquares.java](./src/main/java/com/uyaki/leetcode/editor/cn/P2013_DetectSquares.java)|😄|
 
 ---
 
