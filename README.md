@@ -107,6 +107,7 @@
 |💚 |[P1154_一年中的第几天](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1154_DayOfTheYear.md) | 🍼 入门  |[P1154_DayOfTheYear.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1154_DayOfTheYear.java)|😄|
 |💚 |[P1185_一周中的第几天](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1185_DayOfTheWeek.md) | 🍼 入门 |[P1185_DayOfTheWeek.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1185_DayOfTheWeek.java)|😄|
 |💚 |[P1518_换酒问题](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1518_WaterBottles.md) | 🍼 入门  |[P1518_WaterBottles.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1518_WaterBottles.java)|😄|
+|💚 |[P1688_比赛中的配对次数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1688_CountOfMatchesInTournament.md) | 🍼 入门  |[P1688_CountOfMatchesInTournament.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1688_CountOfMatchesInTournament.java)|😄|
 |💚 |[P1716_计算力扣银行的钱](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1716_CalculateMoneyInLeetcodeBank.md) | 🍼 入门  |[P1716_CalculateMoneyInLeetcodeBank.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1716_CalculateMoneyInLeetcodeBank.java)|😄|
 |+++|快速幂|+++|快速幂|+++|
 |💛 |[P50_Pow(x, n)](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P50_PowxN.md) | 👍 [快速幂](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/FastPow.md) |[P50_PowxN.java](./src/main/java/com/uyaki/leetcode/editor/cn/P50_PowxN.java)|😄|
