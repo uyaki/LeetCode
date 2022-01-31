@@ -241,6 +241,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1342_NumberOfStepsToReduceANumberToZero.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1342_NumberOfStepsToReduceANumberToZero.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1342" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1342_NumberOfStepsToReduceANumberToZero.java" />
+              <option name="titleSlug" value="number-of-steps-to-reduce-a-number-to-zero" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1345_JumpGameIv.java">
           <value>
             <LeetcodeEditor>
