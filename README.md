@@ -254,15 +254,16 @@
 
 ## 滑动窗口
 
-|难度|题目|题解|代码|掌握度|
-|:---:|:---|:---|:---|:---:|
-|💛 |[P3_无重复字符的最长子串](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P3_LongestSubstringWithoutRepeatingCharacters.md) | |[P3_LongestSubstringWithoutRepeatingCharacters.java](./src/main/java/com/uyaki/leetcode/editor/cn/P3_LongestSubstringWithoutRepeatingCharacters.java)|😄|
-|💛 |[P15_三数之和](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P15_ThreeSum.md) | |[P15_ThreeSum.java](./src/main/java/com/uyaki/leetcode/editor/cn/P15_ThreeSum.java)|😄|
-|💛 |[P187_重复的DNA序列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P187_RepeatedDnaSequences.md) | |[P187_RepeatedDnaSequences.java](./src/main/java/com/uyaki/leetcode/editor/cn/P187_RepeatedDnaSequences.java)|😄|
-|💛 |[P209_长度最小的子数组](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P209_MinimumSizeSubarraySum.md) | |[P209_MinimumSizeSubarraySum.java](./src/main/java/com/uyaki/leetcode/editor/cn/P209_MinimumSizeSubarraySum.java)|😄|
-|💚 |[P219_存在重复元素 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P219_ContainsDuplicateIi.md) | |[P219_ContainsDuplicateIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P219_ContainsDuplicateIi.java)|😄|
-|💛 |[P438_找到字符串中所有字母异位词](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P438_FindAllAnagramsInAString.md) | |[P438_FindAllAnagramsInAString.java](./src/main/java/com/uyaki/leetcode/editor/cn/P438_FindAllAnagramsInAString.java)|😄|
-|❤️ |[P689_三个无重叠子数组的最大和](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P689_MaximumSumOf3NonOverlappingSubarrays.md) | 👍  |[P689_MaximumSumOf3NonOverlappingSubarrays.java](./src/main/java/com/uyaki/leetcode/editor/cn/P689_MaximumSumOf3NonOverlappingSubarrays.java)|😄|
+|难度| 题目                                                                                                                         |题解|代码|掌握度|
+|:---:|:---------------------------------------------------------------------------------------------------------------------------|:---|:---|:---:|
+|💛 | [P3_无重复字符的最长子串](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P3_LongestSubstringWithoutRepeatingCharacters.md) | |[P3_LongestSubstringWithoutRepeatingCharacters.java](./src/main/java/com/uyaki/leetcode/editor/cn/P3_LongestSubstringWithoutRepeatingCharacters.java)|😄|
+|💛 | [P15_三数之和](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P15_ThreeSum.md)                                       | |[P15_ThreeSum.java](./src/main/java/com/uyaki/leetcode/editor/cn/P15_ThreeSum.java)|😄|
+|💛 | [P187_重复的DNA序列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P187_RepeatedDnaSequences.md)                     | |[P187_RepeatedDnaSequences.java](./src/main/java/com/uyaki/leetcode/editor/cn/P187_RepeatedDnaSequences.java)|😄|
+|💛 | [P209_长度最小的子数组](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P209_MinimumSizeSubarraySum.md)                   | |[P209_MinimumSizeSubarraySum.java](./src/main/java/com/uyaki/leetcode/editor/cn/P209_MinimumSizeSubarraySum.java)|😄|
+|💚 | [P219_存在重复元素 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P219_ContainsDuplicateIi.md)                     | |[P219_ContainsDuplicateIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P219_ContainsDuplicateIi.java)|😄|
+|💛 | [P438_找到字符串中所有字母异位词](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P438_FindAllAnagramsInAString.md)            | |[P438_FindAllAnagramsInAString.java](./src/main/java/com/uyaki/leetcode/editor/cn/P438_FindAllAnagramsInAString.java)|😄|
+|❤️ | [P689_三个无重叠子数组的最大和](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P689_MaximumSumOf3NonOverlappingSubarrays.md) | 👍  |[P689_MaximumSumOf3NonOverlappingSubarrays.java](./src/main/java/com/uyaki/leetcode/editor/cn/P689_MaximumSumOf3NonOverlappingSubarrays.java)|😄|
+|💚 | [P1763_最长的美好子字符串](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1763_LongestNiceSubstring.md)                    | |[P1763_LongestNiceSubstring.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1763_LongestNiceSubstring.java)|😄|
 
 ---
 
