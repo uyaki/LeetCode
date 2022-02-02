@@ -480,6 +480,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P2000_ReversePrefixOfWord.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2000_ReversePrefixOfWord.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2000" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P2000_ReversePrefixOfWord.java" />
+              <option name="titleSlug" value="reverse-prefix-of-word" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P200_NumberOfIslands.java">
           <value>
             <LeetcodeEditor>
