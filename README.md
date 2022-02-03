@@ -373,15 +373,16 @@
 
 ## 贪心算法
 
-|难度|题目|题解|代码|掌握度|
-|:---:|:---|:---|:---|:---:|
-|💛 |[P334_递增的三元子序列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P334_IncreasingTripletSubsequence.md) | |[P334_IncreasingTripletSubsequence.java](./src/main/java/com/uyaki/leetcode/editor/cn/P334_IncreasingTripletSubsequence.java)|😄|
-|💛 |[P397_整数替换](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P397_IntegerReplacement.md) | |[P397_IntegerReplacement.java](./src/main/java/com/uyaki/leetcode/editor/cn/P397_IntegerReplacement.java)|😄|
-|💚 |[P575_分糖果](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P575_DistributeCandies.md) | |[P575_DistributeCandies.java](./src/main/java/com/uyaki/leetcode/editor/cn/P575_DistributeCandies.java)|😄|
-|💛 |[P846_一手顺子](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P846_HandOfStraights.md) | 👍贪心 |[P846_HandOfStraights.java](./src/main/java/com/uyaki/leetcode/editor/cn/P846_HandOfStraights.java)|😄|
-|💚 |[P1005_K 次取反后最大化的数组和](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1005_MaximizeSumOfArrayAfterKNegations.md) | |[P1005_MaximizeSumOfArrayAfterKNegations.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1005_MaximizeSumOfArrayAfterKNegations.java)|😄|
-|+++|课程表|+++|课程表|+++|
-|❤️ |[P630_课程表 III](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P630_CourseScheduleIii.md) | |[P630_CourseScheduleIii.java](./src/main/java/com/uyaki/leetcode/editor/cn/P630_CourseScheduleIii.java)|😄|
+|难度| 题目                                                                                                                         | 题解          |代码|掌握度|
+|:---:|:---------------------------------------------------------------------------------------------------------------------------|:------------|:---|:---:|
+|💛 | [P334_递增的三元子序列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P334_IncreasingTripletSubsequence.md)             |             |[P334_IncreasingTripletSubsequence.java](./src/main/java/com/uyaki/leetcode/editor/cn/P334_IncreasingTripletSubsequence.java)|😄|
+|💛 | [P397_整数替换](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P397_IntegerReplacement.md)                           |             |[P397_IntegerReplacement.java](./src/main/java/com/uyaki/leetcode/editor/cn/P397_IntegerReplacement.java)|😄|
+|💚 | [P575_分糖果](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P575_DistributeCandies.md)                             |             |[P575_DistributeCandies.java](./src/main/java/com/uyaki/leetcode/editor/cn/P575_DistributeCandies.java)|😄|
+|💛 | [P846_一手顺子](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P846_HandOfStraights.md)                              | 👍贪心        |[P846_HandOfStraights.java](./src/main/java/com/uyaki/leetcode/editor/cn/P846_HandOfStraights.java)|😄|
+|💚 | [P1005_K 次取反后最大化的数组和](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1005_MaximizeSumOfArrayAfterKNegations.md) |             |[P1005_MaximizeSumOfArrayAfterKNegations.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1005_MaximizeSumOfArrayAfterKNegations.java)|😄|
+|💛 | [P1414_和为 K 的最少斐波那契数字数目](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1414_FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.md)                               | 👍 [官方题解](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/solution/he-wei-k-de-zui-shao-fei-bo-na-qi-shu-zi-shu-mu-by/) |[P1414_FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1414_FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java)|😄|
+|+++| 课程表                                                                                                                        | +++         |课程表|+++|
+|❤️ | [P630_课程表 III](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P630_CourseScheduleIii.md)                         |             |[P630_CourseScheduleIii.java](./src/main/java/com/uyaki/leetcode/editor/cn/P630_CourseScheduleIii.java)|😄|
 
 ---
 
