@@ -421,6 +421,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1725_NumberOfRectanglesThatCanFormTheLargestSquare.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1725_NumberOfRectanglesThatCanFormTheLargestSquare.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1725" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1725_NumberOfRectanglesThatCanFormTheLargestSquare.java" />
+              <option name="titleSlug" value="number-of-rectangles-that-can-form-the-largest-square" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1763_LongestNiceSubstring.java">
           <value>
             <LeetcodeEditor>
