@@ -82,21 +82,22 @@ public class P1219_PathWithMaximumGold {
             if (!(r >= 0 && r < grid.length && c >= 0 && c < grid[0].length)) {
                 return;
             }
+            int cur = grid[r][c];
             // 说明这个格子已经访问过了 或者 没有矿了
-            if (grid[r][c] == 0) {
+            if (cur == 0) {
                 return;
             }
-            gold += grid[r][c];
-            ans = Math.max(ans, gold);
 
-            int tmp = grid[r][c];
+            gold += cur;
+            ans = Math.max(ans, gold);
+            // 回溯前置
             grid[r][c] = 0;
             dfs(r - 1, c, gold);
             dfs(r + 1, c, gold);
             dfs(r, c - 1, gold);
             dfs(r, c + 1, gold);
-            // 回溯
-            grid[r][c] = tmp;
+            // 回溯后置
+            grid[r][c] = cur;
         }
     }
 //leetcode submit region end(Prohibit modification and deletion)
