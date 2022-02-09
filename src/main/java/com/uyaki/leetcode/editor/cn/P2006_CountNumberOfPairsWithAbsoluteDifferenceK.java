@@ -67,7 +67,6 @@ public class P2006_CountNumberOfPairsWithAbsoluteDifferenceK {
             int ans = 0;
             for (int i = 0; i < nums.length - 1; i++) {
                 for (int j = i + 1; j < nums.length; j++) {
-                    int cur = nums[i];
                     if (nums[j] == nums[i] - k || nums[j] == nums[i] + k) {
                         ans++;
                     }
