@@ -557,6 +557,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P2006_CountNumberOfPairsWithAbsoluteDifferenceK.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2006_CountNumberOfPairsWithAbsoluteDifferenceK.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2006" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P2006_CountNumberOfPairsWithAbsoluteDifferenceK.java" />
+              <option name="titleSlug" value="count-number-of-pairs-with-absolute-difference-k" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P200_NumberOfIslands.java">
           <value>
             <LeetcodeEditor>
