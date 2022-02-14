@@ -357,18 +357,19 @@
 
 ## 二分查找
 
-|难度|题目|题解|代码|掌握度|
-|:---:|:---|:---|:---|:---:|
-|💚 |[P35_搜索插入位置](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P35_SearchInsertPosition.md) | |[P35_SearchInsertPosition.java](./src/main/java/com/uyaki/leetcode/editor/cn/P35_SearchInsertPosition.java)|😄|
-|💚 |[P69_x 的平方根](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P69_Sqrtx.md) | |[P69_Sqrtx.java](./src/main/java/com/uyaki/leetcode/editor/cn/P69_Sqrtx.java)|😄|
-|💛 |[P240_搜索二维矩阵 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P240_SearchA2dMatrixIi.md) | |[P240_SearchA2dMatrixIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P240_SearchA2dMatrixIi.java)|😄|
-|❤️ |[P352_将数据流变为多个不相交区间](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P352_DataStreamAsDisjointIntervals.md) | |[P352_DataStreamAsDisjointIntervals.java](./src/main/java/com/uyaki/leetcode/editor/cn/P352_DataStreamAsDisjointIntervals.java)|🤯|
-|💚 |[P367_有效的完全平方数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P367_ValidPerfectSquare.md) | |[P367_ValidPerfectSquare.java](./src/main/java/com/uyaki/leetcode/editor/cn/P367_ValidPerfectSquare.java)|😄|
-|💚 |[P441_排列硬币](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P441_ArrangingCoins.md) | |[P441_ArrangingCoins.java](./src/main/java/com/uyaki/leetcode/editor/cn/P441_ArrangingCoins.java)|😄|
-|💛 |[P475_供暖器](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P475_Heaters.md) | 排序+二分 |[P475_Heaters.java](./src/main/java/com/uyaki/leetcode/editor/cn/P475_Heaters.java)|😄|
-|💚 |[P704_二分查找](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P704_BinarySearch.md) | |[P704_BinarySearch.java](./src/main/java/com/uyaki/leetcode/editor/cn/P704_BinarySearch.java)|😄|
-|❤️ |[P1610_可见点的最大数目](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1610_MaximumNumberOfVisiblePoints.md) | 二分法或滑动窗口 |[P1610_MaximumNumberOfVisiblePoints.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1610_MaximumNumberOfVisiblePoints.java)|🤯🤯|
-|💚 |[P剑指 Offer II 069_B1IidL](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P剑指%20Offer%20II%20069_B1IidL.md) | |[P剑指_Offer_II_069_B1IidL.java](./src/main/java/com/uyaki/leetcode/editor/cn/P剑指_Offer_II_069_B1IidL.java)|😄|
+|难度| 题目                                                                                                                   |题解|代码|掌握度|
+|:---:|:---------------------------------------------------------------------------------------------------------------------|:---|:---|:---:|
+|💚 | [P35_搜索插入位置](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P35_SearchInsertPosition.md)                   | |[P35_SearchInsertPosition.java](./src/main/java/com/uyaki/leetcode/editor/cn/P35_SearchInsertPosition.java)|😄|
+|💚 | [P69_x 的平方根](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P69_Sqrtx.md)                                  | |[P69_Sqrtx.java](./src/main/java/com/uyaki/leetcode/editor/cn/P69_Sqrtx.java)|😄|
+|💛 | [P240_搜索二维矩阵 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P240_SearchA2dMatrixIi.md)                 | |[P240_SearchA2dMatrixIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P240_SearchA2dMatrixIi.java)|😄|
+|❤️ | [P352_将数据流变为多个不相交区间](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P352_DataStreamAsDisjointIntervals.md) | |[P352_DataStreamAsDisjointIntervals.java](./src/main/java/com/uyaki/leetcode/editor/cn/P352_DataStreamAsDisjointIntervals.java)|🤯|
+|💚 | [P367_有效的完全平方数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P367_ValidPerfectSquare.md)                 | |[P367_ValidPerfectSquare.java](./src/main/java/com/uyaki/leetcode/editor/cn/P367_ValidPerfectSquare.java)|😄|
+|💚 | [P441_排列硬币](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P441_ArrangingCoins.md)                         | |[P441_ArrangingCoins.java](./src/main/java/com/uyaki/leetcode/editor/cn/P441_ArrangingCoins.java)|😄|
+|💛 | [P475_供暖器](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P475_Heaters.md)                                 | 排序+二分 |[P475_Heaters.java](./src/main/java/com/uyaki/leetcode/editor/cn/P475_Heaters.java)|😄|
+|💛 | [P540_有序数组中的单一元素](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P540_SingleElementInASortedArray.md)                 | |[P540_SingleElementInASortedArray.java](./src/main/java/com/uyaki/leetcode/editor/cn/P540_SingleElementInASortedArray.java)|😄|
+|💚 | [P704_二分查找](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P704_BinarySearch.md)                           | |[P704_BinarySearch.java](./src/main/java/com/uyaki/leetcode/editor/cn/P704_BinarySearch.java)|😄|
+|❤️ | [P1610_可见点的最大数目](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1610_MaximumNumberOfVisiblePoints.md)     | 二分法或滑动窗口 |[P1610_MaximumNumberOfVisiblePoints.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1610_MaximumNumberOfVisiblePoints.java)|🤯🤯|
+|💚 | [P剑指 Offer II 069_B1IidL](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P剑指%20Offer%20II%20069_B1IidL.md) | |[P剑指_Offer_II_069_B1IidL.java](./src/main/java/com/uyaki/leetcode/editor/cn/P剑指_Offer_II_069_B1IidL.java)|😄|
 
 ---
 
