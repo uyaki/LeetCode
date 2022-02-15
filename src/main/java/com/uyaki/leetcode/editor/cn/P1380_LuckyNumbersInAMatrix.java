@@ -60,6 +60,7 @@ public class P1380_LuckyNumbersInAMatrix {
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
         public List<Integer> luckyNumbers(int[][] matrix) {
+            // 答案只可能有 1 个 或者 0个元素 ， 反证法如下
             // 假设有两个解，A[x1,y1] B[x2,y2] ,显然 x1!=x2 且 y1 != y2
             // 对于 A ， 同行最小值，所以 1、m[x1][y1] < m[x1][y2]
             //          同列最大值，所以 2、m[x1][y1] > m[x2][y1]
@@ -87,7 +88,7 @@ public class P1380_LuckyNumbersInAMatrix {
                         maxIndex = j;
                     }
                 }
-                // maxIndex刚好在当前行
+                // maxIndex刚好在当前行，获得唯一解
                 if (maxIndex == i) {
                     return Collections.singletonList(matrix[i][rowMinIndex[i]]);
                 }
