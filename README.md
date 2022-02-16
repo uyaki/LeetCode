@@ -278,18 +278,19 @@
 
 ## 树
 
-|难度|题目|题解|代码|掌握度|
-|:---:|:---|:---|:---|:---:|
-|💛 |[P95_不同的二叉搜索树 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P95_UniqueBinarySearchTreesIi.md) | |[P95_UniqueBinarySearchTreesIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P95_UniqueBinarySearchTreesIi.java)|😄|
-|💛 |[P98_验证二叉搜索树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P98_ValidateBinarySearchTree.md) | |[P98_ValidateBinarySearchTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P98_ValidateBinarySearchTree.java)|😄|
-|💛 |[P99_恢复二叉搜索树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P99_RecoverBinarySearchTree.md) | |[P99_RecoverBinarySearchTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P99_RecoverBinarySearchTree.java)|😄|
-|💚 |[P100_相同的树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P100_SameTree.md) | |[P100_SameTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P100_SameTree.java)|😄|
-|💚 |[P101_对称二叉树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P101_SymmetricTree.md) | |[P101_SymmetricTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P101_SymmetricTree.java)|😄|
-|💚 |[P108_将有序数组转换为二叉搜索树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P108_ConvertSortedArrayToBinarySearchTree.md) |树+分治法 |[P108_ConvertSortedArrayToBinarySearchTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P108_ConvertSortedArrayToBinarySearchTree.java)|😄|
-|💚 |[P563_二叉树的坡度](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P563_BinaryTreeTilt.md) | |[P563_BinaryTreeTilt.java](./src/main/java/com/uyaki/leetcode/editor/cn/P563_BinaryTreeTilt.java)|😄|
-|💚 |[P700_二叉搜索树中的搜索](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P700_SearchInABinarySearchTree.md) | 🍼 入门 |[P700_SearchInABinarySearchTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P700_SearchInABinarySearchTree.java)|😄|
-|+++|N叉树|+++|N叉树|+++|
-|💚 |[P559_N 叉树的最大深度](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P559_MaximumDepthOfNAryTree.md) | |[P559_MaximumDepthOfNAryTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P559_MaximumDepthOfNAryTree.java)|😄|
+|难度| 题目                                                                                                                          | 题解       |代码|掌握度|
+|:---:|:----------------------------------------------------------------------------------------------------------------------------|:---------|:---|:---:|
+|💛 | [P95_不同的二叉搜索树 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P95_UniqueBinarySearchTreesIi.md)                |          |[P95_UniqueBinarySearchTreesIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P95_UniqueBinarySearchTreesIi.java)|😄|
+|💛 | [P98_验证二叉搜索树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P98_ValidateBinarySearchTree.md)                     |          |[P98_ValidateBinarySearchTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P98_ValidateBinarySearchTree.java)|😄|
+|💛 | [P99_恢复二叉搜索树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P99_RecoverBinarySearchTree.md)                      |          |[P99_RecoverBinarySearchTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P99_RecoverBinarySearchTree.java)|😄|
+|💚 | [P100_相同的树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P100_SameTree.md)                                      |          |[P100_SameTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P100_SameTree.java)|😄|
+|💚 | [P101_对称二叉树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P101_SymmetricTree.md)                                |          |[P101_SymmetricTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P101_SymmetricTree.java)|😄|
+|💚 | [P108_将有序数组转换为二叉搜索树](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P108_ConvertSortedArrayToBinarySearchTree.md) | 树+分治法    |[P108_ConvertSortedArrayToBinarySearchTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P108_ConvertSortedArrayToBinarySearchTree.java)|😄|
+|💚 | [P563_二叉树的坡度](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P563_BinaryTreeTilt.md)                              |          |[P563_BinaryTreeTilt.java](./src/main/java/com/uyaki/leetcode/editor/cn/P563_BinaryTreeTilt.java)|😄|
+|💚 | [P700_二叉搜索树中的搜索](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P700_SearchInABinarySearchTree.md)                | 🍼 入门    |[P700_SearchInABinarySearchTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P700_SearchInABinarySearchTree.java)|😄|
+|❤️❤️❤️ | [P1719_重构一棵树的方案数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1719_NumberOfWaysToReconstructATree.md) | [官方题解](https://leetcode-cn.com/problems/number-of-ways-to-reconstruct-a-tree/solution/zhong-gou-yi-ke-shu-de-fang-an-shu-by-le-36e1/) |[P1719_NumberOfWaysToReconstructATree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1719_NumberOfWaysToReconstructATree.java)|🤯🤯🤯|
+|+++| N叉树                                                                                                                         | +++      |N叉树|+++|
+|💚 | [P559_N 叉树的最大深度](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P559_MaximumDepthOfNAryTree.md)                   |          |[P559_MaximumDepthOfNAryTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P559_MaximumDepthOfNAryTree.java)|😄|
 
 ### 树的遍历
 
