@@ -1431,6 +1431,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P688_KnightProbabilityInChessboard.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P688_KnightProbabilityInChessboard.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com688" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P688_KnightProbabilityInChessboard.java" />
+              <option name="titleSlug" value="knight-probability-in-chessboard" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P689_MaximumSumOf3NonOverlappingSubarrays.java">
           <value>
             <LeetcodeEditor>
