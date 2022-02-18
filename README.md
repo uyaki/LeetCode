@@ -21,6 +21,7 @@
     - [深度优先搜索](#深度优先搜索)
     - [广度优先搜索](#广度优先搜索)
     - [字典树（前缀树）](#字典树前缀树)
+  - [图](#图)
   - [分治法](#分治法)
   - [二分查找](#二分查找)
   - [双指针](#双指针)
@@ -346,6 +347,15 @@
 |:---:|:---|:---|:---|:---:|
 | |P208 | | | |
 |❤️ |[P472_连接词](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P472_ConcatenatedWords.md) | 👍字典树+DFS  |[P472_ConcatenatedWords.java](./src/main/java/com/uyaki/leetcode/editor/cn/P472_ConcatenatedWords.java)|😄|
+
+---
+
+## 图
+
+|难度| 题目                                                                                             | 题解   |代码|掌握度|
+|:---:|:-----------------------------------------------------------------------------------------------|:-----|:---|:---:|
+|💚 | [P1791_P1791_FindCenterOfStarGraph](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1791_FindCenterOfStarGraph.md) | 过于简单 |[P1791_FindCenterOfStarGraph.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1791_FindCenterOfStarGraph.java)|😄|
+
 
 ---
 

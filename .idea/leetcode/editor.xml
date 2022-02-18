@@ -553,6 +553,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1791_FindCenterOfStarGraph.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1791_FindCenterOfStarGraph.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1791" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1791_FindCenterOfStarGraph.java" />
+              <option name="titleSlug" value="find-center-of-star-graph" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1816_TruncateSentence.java">
           <value>
             <LeetcodeEditor>
@@ -691,6 +702,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P2047_NumberOfValidWordsInASentence.java" />
               <option name="titleSlug" value="number-of-valid-words-in-a-sentence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P2075_DecodeTheSlantedCiphertext.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2075_DecodeTheSlantedCiphertext.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2075" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P2075_DecodeTheSlantedCiphertext.java" />
+              <option name="titleSlug" value="decode-the-slanted-ciphertext" />
             </LeetcodeEditor>
           </value>
         </entry>
