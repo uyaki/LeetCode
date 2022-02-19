@@ -191,11 +191,12 @@
 ---
 
 ## 排序
-|难度|题目| 题解               |代码|掌握度|
-|:---:|:---|:-----------------|:---|:---:|
-|💛 |[P539_最小时间差](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P539_MinimumTimeDifference.md) | 👍题目只能算ez，了解鸽巢原理 |[P539_MinimumTimeDifference.java](./src/main/java/com/uyaki/leetcode/editor/cn/P539_MinimumTimeDifference.java)|😄|
-|💚 | [P1984_学生分数的最小差值](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1984_MinimumDifferenceBetweenHighestAndLowestOfKScores.md)                              |                  |[P1984_MinimumDifferenceBetweenHighestAndLowestOfKScores.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1984_MinimumDifferenceBetweenHighestAndLowestOfKScores.java)|😄|
-|💛 |[P1996_游戏中弱角色的数量](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1996_TheNumberOfWeakCharactersInTheGame.md) | 👍题目只能算ez，入门     |[P1996_TheNumberOfWeakCharactersInTheGame.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1996_TheNumberOfWeakCharactersInTheGame.java)|😄|
+|难度| 题目                                                                                                                                     | 题解               |代码|掌握度|
+|:---:|:---------------------------------------------------------------------------------------------------------------------------------------|:-----------------|:---|:---:|
+|💛 | [P539_最小时间差](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P539_MinimumTimeDifference.md)                                   | 👍题目只能算ez，了解鸽巢原理 |[P539_MinimumTimeDifference.java](./src/main/java/com/uyaki/leetcode/editor/cn/P539_MinimumTimeDifference.java)|😄|
+|💛 | [P969_煎饼排序](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P969_PancakeSorting.md)                                    | 👍题目只能算ez，了解鸽巢原理 |[P969_PancakeSorting.java](./src/main/java/com/uyaki/leetcode/editor/cn/P969_PancakeSorting.java)|😄|
+|💚 | [P1984_学生分数的最小差值](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1984_MinimumDifferenceBetweenHighestAndLowestOfKScores.md) |                  |[P1984_MinimumDifferenceBetweenHighestAndLowestOfKScores.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1984_MinimumDifferenceBetweenHighestAndLowestOfKScores.java)|😄|
+|💛 | [P1996_游戏中弱角色的数量](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1996_TheNumberOfWeakCharactersInTheGame.md)                | 👍题目只能算ez，入门     |[P1996_TheNumberOfWeakCharactersInTheGame.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1996_TheNumberOfWeakCharactersInTheGame.java)|😄|
 
 ---
 ## 哈希
