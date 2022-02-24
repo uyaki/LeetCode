@@ -5,6 +5,7 @@
   - [说明](#说明)
   - [总结](#总结)
   - [数学题](#数学题)
+  - [模拟](#模拟)
   - [字符串操作](#字符串操作)
   - [数组](#数组)
   - [优先队列](#优先队列)
@@ -114,6 +115,14 @@
 |+++| 快速幂                                                                                                                     | +++                                                                             |快速幂|+++|
 |💛 | [P50_Pow(x, n)](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P50_PowxN.md)                                  | 👍 [快速幂](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/FastPow.md) |[P50_PowxN.java](./src/main/java/com/uyaki/leetcode/editor/cn/P50_PowxN.java)|😄|
 |💛 | [P372_超级次方](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P372_SuperPow.md)                                  | 👍 [快速幂](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/FastPow.md) |[P166_FractionToRecurringDecimal.java](./src/main/java/com/uyaki/leetcode/editor/cn/P372_SuperPow.java)|😄|
+
+---
+
+## 模拟
+
+|难度| 题目                                                                                                         | 题解                        |代码|掌握度|
+|:---:|:-----------------------------------------------------------------------------------------------------------|:--------------------------|:---|:---:|
+|💛 | [P1706_球会落何处](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1706_WhereWillTheBallFall.md) |               |[P1706_WhereWillTheBallFall.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1706_WhereWillTheBallFall.java)|😄|
 
 
 ---
