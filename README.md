@@ -469,17 +469,18 @@
 
 ## 回溯法
 
-|难度|题目|题解|代码|掌握度|
-|:---:|:---|:---|:---|:---:|
-|❤️ |[P282_给表达式添加运算符](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P282_ExpressionAddOperators.md) | |[P282_ExpressionAddOperators.java](./src/main/java/com/uyaki/leetcode/editor/cn/P282_ExpressionAddOperators.java)|🤯|
-|❤️ |[P301_删除无效的括号](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P301_RemoveInvalidParentheses.md) | |[P301_RemoveInvalidParentheses.java](./src/main/java/com/uyaki/leetcode/editor/cn/P301_RemoveInvalidParentheses.java)|🤯|
-|💛 |[P306_累加数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P306_AdditiveNumber.md) | 👍 |[P306_AdditiveNumber.java](./src/main/java/com/uyaki/leetcode/editor/cn/P306_AdditiveNumber.java)|😄|
-|❤️ |[P488_祖玛游戏](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P488_ZumaGame.md) | |[P488_ZumaGame.java](./src/main/java/com/uyaki/leetcode/editor/cn/P488_ZumaGame.java)|🤯|
-|❤️ |[P638_大礼包](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P638_ShoppingOffers.md) | |[P638_ShoppingOffers.java](./src/main/java/com/uyaki/leetcode/editor/cn/P638_ShoppingOffers.java)|🤯|
-|+++|排列组合|+++|排列组合|+++|
-|💛 |[P46_全排列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P46_Permutations.md) | 👍[排列组合](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/PermutationAndCombination.md) |[P46_Permutations.java](./src/main/java/com/uyaki/leetcode/editor/cn/P46_Permutations.java)|😄|
-|💛 |[P47_全排列 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P47_PermutationsIi.md) | 👍[排列组合](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/PermutationAndCombination.md) |[P47_PermutationsIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P47_PermutationsIi.java)|😄|
-|💛 |[P869_重新排序得到 2 的幂](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P869_ReorderedPowerOf2.md) | |[P869_ReorderedPowerOf2.java](./src/main/java/com/uyaki/leetcode/editor/cn/P869_ReorderedPowerOf2.java)|😄|
+|难度| 题目                                                                                                         |题解|代码|掌握度|
+|:---:|:-----------------------------------------------------------------------------------------------------------|:---|:---|:---:|
+|❤️ | [P282_给表达式添加运算符](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P282_ExpressionAddOperators.md)  | |[P282_ExpressionAddOperators.java](./src/main/java/com/uyaki/leetcode/editor/cn/P282_ExpressionAddOperators.java)|🤯|
+|❤️ | [P301_删除无效的括号](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P301_RemoveInvalidParentheses.md)  | |[P301_RemoveInvalidParentheses.java](./src/main/java/com/uyaki/leetcode/editor/cn/P301_RemoveInvalidParentheses.java)|🤯|
+|💛 | [P306_累加数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P306_AdditiveNumber.md)                | 👍 |[P306_AdditiveNumber.java](./src/main/java/com/uyaki/leetcode/editor/cn/P306_AdditiveNumber.java)|😄|
+|❤️ | [P488_祖玛游戏](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P488_ZumaGame.md)                     | |[P488_ZumaGame.java](./src/main/java/com/uyaki/leetcode/editor/cn/P488_ZumaGame.java)|🤯|
+|❤️ | [P638_大礼包](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P638_ShoppingOffers.md)                | |[P638_ShoppingOffers.java](./src/main/java/com/uyaki/leetcode/editor/cn/P638_ShoppingOffers.java)|🤯|
+|❤️ | [P1601_最多可达成的换楼请求数目](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1601_MaximumNumberOfAchievableTransferRequests.md) | |[P1601_MaximumNumberOfAchievableTransferRequests.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1601_MaximumNumberOfAchievableTransferRequests.java)|🤯|
+|+++| 排列组合                                                                                                       |+++|排列组合|+++|
+|💛 | [P46_全排列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P46_Permutations.md)                    | 👍[排列组合](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/PermutationAndCombination.md) |[P46_Permutations.java](./src/main/java/com/uyaki/leetcode/editor/cn/P46_Permutations.java)|😄|
+|💛 | [P47_全排列 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P47_PermutationsIi.md)               | 👍[排列组合](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/PermutationAndCombination.md) |[P47_PermutationsIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P47_PermutationsIi.java)|😄|
+|💛 | [P869_重新排序得到 2 的幂](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P869_ReorderedPowerOf2.md)     | |[P869_ReorderedPowerOf2.java](./src/main/java/com/uyaki/leetcode/editor/cn/P869_ReorderedPowerOf2.java)|😄|
 
 ## TODO
 
