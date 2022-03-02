@@ -1431,6 +1431,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P564_FindTheClosestPalindrome.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P564_FindTheClosestPalindrome.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com564" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P564_FindTheClosestPalindrome.java" />
+              <option name="titleSlug" value="find-the-closest-palindrome" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P575_DistributeCandies.java">
           <value>
             <LeetcodeEditor>
