@@ -258,15 +258,16 @@
 
 ## 栈
 
-|难度|题目|题解|代码|掌握度|
-|:---:|:---|:---|:---|:---:|
-|💚 |[P20_有效的括号](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P20_ValidParentheses.md) | |[P20_ValidParentheses.java](./src/main/java/com/uyaki/leetcode/editor/cn/P20_ValidParentheses.java)|😄|
-|💛 |[P71_简化路径](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P71_SimplifyPath.md) | |[P71_SimplifyPath.java](./src/main/java/com/uyaki/leetcode/editor/cn/P71_SimplifyPath.java)|😄|
-|💚 |[P155_最小栈](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P155_MinStack.md) | |[P155_MinStack.java](./src/main/java/com/uyaki/leetcode/editor/cn/P155_MinStack.java)|😄|
-|💚 |[P225_用队列实现栈](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P225_ImplementStackUsingQueues.md) | |[P225_ImplementStackUsingQueues.java](./src/main/java/com/uyaki/leetcode/editor/cn/P225_ImplementStackUsingQueues.java)|😄|
-|💚 |[P232_用栈实现队列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P232_ImplementQueueUsingStacks.md) | |[P232_ImplementQueueUsingStacks.java](./src/main/java/com/uyaki/leetcode/editor/cn/P232_ImplementQueueUsingStacks.java)|😄|
-|💚 |[P496_下一个更大元素 I](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P496_NextGreaterElementI.md) | |[P496_NextGreaterElementI.java](./src/main/java/com/uyaki/leetcode/editor/cn/P496_NextGreaterElementI.java)|😄|
-|💚 |[P682_棒球比赛](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P682_BaseballGame.md) | |[P682_BaseballGame.java](./src/main/java/com/uyaki/leetcode/editor/cn/P682_BaseballGame.java)|😄|
+|难度| 题目                                                                                                        | 题解    |代码|掌握度|
+|:---:|:----------------------------------------------------------------------------------------------------------|:------|:---|:---:|
+|💚 | [P20_有效的括号](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P20_ValidParentheses.md)             |       |[P20_ValidParentheses.java](./src/main/java/com/uyaki/leetcode/editor/cn/P20_ValidParentheses.java)|😄|
+|💛 | [P71_简化路径](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P71_SimplifyPath.md)                  |       |[P71_SimplifyPath.java](./src/main/java/com/uyaki/leetcode/editor/cn/P71_SimplifyPath.java)|😄|
+|💚 | [P155_最小栈](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P155_MinStack.md)                     |       |[P155_MinStack.java](./src/main/java/com/uyaki/leetcode/editor/cn/P155_MinStack.java)|😄|
+|💚 | [P225_用队列实现栈](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P225_ImplementStackUsingQueues.md) |       |[P225_ImplementStackUsingQueues.java](./src/main/java/com/uyaki/leetcode/editor/cn/P225_ImplementStackUsingQueues.java)|😄|
+|💚 | [P232_用栈实现队列](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P232_ImplementQueueUsingStacks.md) |       |[P232_ImplementQueueUsingStacks.java](./src/main/java/com/uyaki/leetcode/editor/cn/P232_ImplementQueueUsingStacks.java)|😄|
+|💚 | [P496_下一个更大元素 I](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P496_NextGreaterElementI.md)    |       |[P496_NextGreaterElementI.java](./src/main/java/com/uyaki/leetcode/editor/cn/P496_NextGreaterElementI.java)|😄|
+|💚 | [P682_棒球比赛](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P682_BaseballGame.md)                |       |[P682_BaseballGame.java](./src/main/java/com/uyaki/leetcode/editor/cn/P682_BaseballGame.java)|😄|
+|💛 | [P2104_子数组范围和](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2104_SumOfSubarrayRanges.md)                | 👍单调栈 |[P2104_SumOfSubarrayRanges.java](./src/main/java/com/uyaki/leetcode/editor/cn/P2104_SumOfSubarrayRanges.java)|😄|
 
 ---
 
