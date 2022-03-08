@@ -6,6 +6,7 @@
   - [总结](#总结)
   - [数学题](#数学题)
   - [模拟](#模拟)
+  - [预处理](#预处理)
   - [字符串操作](#字符串操作)
   - [数组](#数组)
   - [优先队列](#优先队列)
@@ -128,6 +129,12 @@
 |💛 | [P537_复数乘法](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P537_ComplexNumberMultiplication.md)  |    🍼 入门       |[P537_ComplexNumberMultiplication.java](./src/main/java/com/uyaki/leetcode/editor/cn/P537_ComplexNumberMultiplication.java)|😄|
 |💛 | [P1706_球会落何处](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1706_WhereWillTheBallFall.md) |               |[P1706_WhereWillTheBallFall.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1706_WhereWillTheBallFall.java)|😄|
 
+---
+## 预处理
+
+|难度| 题目                                                                                                   | 题解                        |代码|掌握度|
+|:---:|:-----------------------------------------------------------------------------------------------------|:--------------------------|:---|:---:|
+|💛 | [P2055_蜡烛之间的盘子](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2055_PlatesBetweenCandles.md) |    👍预处理 + 前缀和      |[P2055_PlatesBetweenCandles.java](./src/main/java/com/uyaki/leetcode/editor/cn/P2055_PlatesBetweenCandles.java)|😄|
 
 ---
 
