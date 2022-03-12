@@ -321,7 +321,8 @@
 |❤️❤️❤️ | [P1719_重构一棵树的方案数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1719_NumberOfWaysToReconstructATree.md)         | [官方题解](https://leetcode-cn.com/problems/number-of-ways-to-reconstruct-a-tree/solution/zhong-gou-yi-ke-shu-de-fang-an-shu-by-le-36e1/) |[P1719_NumberOfWaysToReconstructATree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1719_NumberOfWaysToReconstructATree.java)|🤯🤯🤯|
 |+++| N叉树                                                                                                                         | +++      |N叉树|+++|
 |💚 | [P559_N 叉树的最大深度](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P559_MaximumDepthOfNAryTree.md)                   |          |[P559_MaximumDepthOfNAryTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P559_MaximumDepthOfNAryTree.java)|😄|
-|💚 | [P589_N 叉树的前序遍历](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P589_NAryTreePreorderTraversal.md)                   |          |[P589_NAryTreePreorderTraversal.java](./src/main/java/com/uyaki/leetcode/editor/cn/P589_NAryTreePreorderTraversal.java)|😄|
+|💚 | [P589_N 叉树的前序遍历](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P589_NAryTreePreorderTraversal.md)                |          |[P589_NAryTreePreorderTraversal.java](./src/main/java/com/uyaki/leetcode/editor/cn/P589_NAryTreePreorderTraversal.java)|😄|
+|💚 | [P590_N 叉树的后序遍历](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P590_NAryTreePostorderTraversal.md)                |          |[P590_NAryTreePostorderTraversal.java](./src/main/java/com/uyaki/leetcode/editor/cn/P590_NAryTreePostorderTraversal.java)|😄|
 
 ### 树的遍历
 
