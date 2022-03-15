@@ -60,6 +60,7 @@
 - 字符串
   - KMP算法总结：[KMP](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/KMP.md)
 - 数组
+  - 数组子集：[Array Subsets](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/ArraySubsets.md) 
   - 排列组合：[Permutation and Combination](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/PermutationAndCombination.md)
 - 位运算的解题总结：[Bit](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Bit.md)
 - 贪心算法总结：[Greedy Algorithm](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/GreedyAlgorithm.md)
