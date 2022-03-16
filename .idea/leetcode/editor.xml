@@ -1248,6 +1248,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P432_AllOoneDataStructure.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P432_AllOoneDataStructure.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com432" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P432_AllOoneDataStructure.java" />
+              <option name="titleSlug" value="all-oone-data-structure" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P434_NumberOfSegmentsInAString.java">
           <value>
             <LeetcodeEditor>

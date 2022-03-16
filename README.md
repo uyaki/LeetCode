@@ -286,11 +286,12 @@
 
 ## 链表
 
-|难度|题目|题解|代码|掌握度|
-|:---:|:---|:---|:---|:---:|
-|💚 |[P234_回文链表](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P234_PalindromeLinkedList.md) | |[P234_PalindromeLinkedList.java](./src/main/java/com/uyaki/leetcode/editor/cn/P234_PalindromeLinkedList.java)|😄|
-|💚 |[P237_删除链表中的节点](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P237_DeleteNodeInALinkedList.md) | |[P237_DeleteNodeInALinkedList.java](./src/main/java/com/uyaki/leetcode/editor/cn/P237_DeleteNodeInALinkedList.java)|😄|
-|💛 |[P382_链表随机节点](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P382_LinkedListRandomNode.md) | 👍水塘抽样 |[P382_LinkedListRandomNode.java](./src/main/java/com/uyaki/leetcode/editor/cn/P382_LinkedListRandomNode.java)|😄|
+|难度| 题目                                                                                                        | 题解       |代码|掌握度|
+|:---:|:----------------------------------------------------------------------------------------------------------|:---------|:---|:---:|
+|💚 | [P234_回文链表](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P234_PalindromeLinkedList.md)        |          |[P234_PalindromeLinkedList.java](./src/main/java/com/uyaki/leetcode/editor/cn/P234_PalindromeLinkedList.java)|😄|
+|💚 | [P237_删除链表中的节点](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P237_DeleteNodeInALinkedList.md) |          |[P237_DeleteNodeInALinkedList.java](./src/main/java/com/uyaki/leetcode/editor/cn/P237_DeleteNodeInALinkedList.java)|😄|
+|💛 | [P382_链表随机节点](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P382_LinkedListRandomNode.md)      | 👍水塘抽样   |[P382_LinkedListRandomNode.java](./src/main/java/com/uyaki/leetcode/editor/cn/P382_LinkedListRandomNode.java)|😄|
+|❤️ | [P432_全 O(1) 的数据结构](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P432_AllOoneDataStructure.md)       | 👍手写双向链表 |[P432_AllOoneDataStructure.java](./src/main/java/com/uyaki/leetcode/editor/cn/P432_AllOoneDataStructure.java)|🤨|
 
 ---
 
