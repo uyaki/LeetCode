@@ -69,7 +69,9 @@
 - 摩尔投票法总结：[Boyer–Moore Majority Vote](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Boyer–MooreMajorityVote.md)
 - 二分图的最大匹配算法
     - 匈牙利算法：[HungarianAlgorithm](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/HungarianAlgorithm.md)
-- 树的解题总结：[Tree](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Tree.md)
+- 树
+  - 解题总结：[Tree](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Tree.md)
+  - 前缀树：[Trie](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Trie.md)
 - 分治法的解题总结：[Divide And Conquer](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/DivideAndConquer.md)
   - 快速幂(本质：分治)总结：[Fast Pow](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/FastPow.md)
 - 二分法的解题总结：[binary search](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/BinarySearch.md)
@@ -379,10 +381,11 @@
 ---
 
 ### 字典树（前缀树）
-|难度|题目|题解|代码|掌握度|
-|:---:|:---|:---|:---|:---:|
-| |P208 | | | |
-|❤️ |[P472_连接词](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P472_ConcatenatedWords.md) | 👍字典树+DFS  |[P472_ConcatenatedWords.java](./src/main/java/com/uyaki/leetcode/editor/cn/P472_ConcatenatedWords.java)|😄|
+|难度| 题目                                                                                                        |题解|代码|掌握度|
+|:---:|:----------------------------------------------------------------------------------------------------------|:---|:---|:---:|
+|💛 | [P208_实现 Trie (前缀树)](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P208_ImplementTriePrefixTree.md)        | |[P208_ImplementTriePrefixTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P208_ImplementTriePrefixTree.java)|😄|
+|💚 | [P720_词典中最长的单词](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P720_LongestWordInDictionary.md) | 👍字典树 |[P720_LongestWordInDictionary.java](./src/main/java/com/uyaki/leetcode/editor/cn/P720_LongestWordInDictionary.java)|😄|
+|❤️ | [P472_连接词](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P472_ConcatenatedWords.md)            | 👍字典树+DFS  |[P472_ConcatenatedWords.java](./src/main/java/com/uyaki/leetcode/editor/cn/P472_ConcatenatedWords.java)|😄|
 
 ---
 
@@ -390,7 +393,7 @@
 
 |难度| 题目                                                                                             | 题解   |代码|掌握度|
 |:---:|:-----------------------------------------------------------------------------------------------|:-----|:---|:---:|
-|💚 | [P1791_P1791_FindCenterOfStarGraph](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1791_FindCenterOfStarGraph.md) | 过于简单 |[P1791_FindCenterOfStarGraph.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1791_FindCenterOfStarGraph.java)|😄|
+|💚 | [P1791_FindCenterOfStarGraph](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1791_FindCenterOfStarGraph.md) | 过于简单 |[P1791_FindCenterOfStarGraph.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1791_FindCenterOfStarGraph.java)|😄|
 
 
 ---
