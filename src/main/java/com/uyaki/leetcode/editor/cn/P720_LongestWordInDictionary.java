@@ -89,6 +89,7 @@ public class P720_LongestWordInDictionary {
                 for (int i = 0; i < word.length(); i++) {
                     char ch = word.charAt(i);
                     int index = ch - 'a';
+                    //单词是由 words 词典中其他单词逐步添加一个字母组成，所以需要保证每一级的isEnd都是true
                     if (node.children[index] == null|| !node.children[index].isEnd) {
                         return false;
                     }
