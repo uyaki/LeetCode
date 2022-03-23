@@ -385,11 +385,12 @@
 ---
 
 ### 字典树（前缀树）
-|难度| 题目                                                                                                        |题解|代码|掌握度|
-|:---:|:----------------------------------------------------------------------------------------------------------|:---|:---|:---:|
-|💛 | [P208_实现 Trie (前缀树)](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P208_ImplementTriePrefixTree.md)        | |[P208_ImplementTriePrefixTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P208_ImplementTriePrefixTree.java)|😄|
-|💚 | [P720_词典中最长的单词](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P720_LongestWordInDictionary.md) | 👍字典树 |[P720_LongestWordInDictionary.java](./src/main/java/com/uyaki/leetcode/editor/cn/P720_LongestWordInDictionary.java)|😄|
-|❤️ | [P472_连接词](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P472_ConcatenatedWords.md)            | 👍字典树+DFS  |[P472_ConcatenatedWords.java](./src/main/java/com/uyaki/leetcode/editor/cn/P472_ConcatenatedWords.java)|😄|
+|难度| 题目                                                                                                             | 题解                                                                                                                    |代码|掌握度|
+|:---:|:---------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|:---|:---:|
+|💛 | [P208_实现 Trie (前缀树)](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P208_ImplementTriePrefixTree.md) |                                                                                                                       |[P208_ImplementTriePrefixTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P208_ImplementTriePrefixTree.java)|😄|
+|❤️ | [P440_字典序的第K小数字](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P440_KThSmallestInLexicographicalOrder.md)                 | 👍[P440_字典序的第K小数字](./src/main/java/com/uyaki/leetcode/editor/cn/doc/answer/P440_KThSmallestInLexicographicalOrder.md) |[P440_KThSmallestInLexicographicalOrder.java](./src/main/java/com/uyaki/leetcode/editor/cn/P440_KThSmallestInLexicographicalOrder.java)|😄|
+|❤️ | [P472_连接词](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P472_ConcatenatedWords.md)                 | 👍字典树+DFS                                                                                                             |[P472_ConcatenatedWords.java](./src/main/java/com/uyaki/leetcode/editor/cn/P472_ConcatenatedWords.java)|😄|
+|💚 | [P720_词典中最长的单词](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P720_LongestWordInDictionary.md)      | 👍字典树                                                                                                                 |[P720_LongestWordInDictionary.java](./src/main/java/com/uyaki/leetcode/editor/cn/P720_LongestWordInDictionary.java)|😄|
 
 ---
 
