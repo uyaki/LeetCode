@@ -129,12 +129,13 @@
 
 ## 模拟|设计
 
-|难度| 题目                                                                                                           | 题解                        |代码|掌握度|
-|:---:|:-------------------------------------------------------------------------------------------------------------|:--------------------------|:---|:---:|
-|💛 | [P537_复数乘法](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P537_ComplexNumberMultiplication.md)    |    🍼 入门       |[P537_ComplexNumberMultiplication.java](./src/main/java/com/uyaki/leetcode/editor/cn/P537_ComplexNumberMultiplication.java)|😄|
-|💚 | [P661_图片平滑器](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P661_ImageSmoother.md) | 🍼 入门  |[P661_ImageSmoother.java](./src/main/java/com/uyaki/leetcode/editor/cn/P661_ImageSmoother.java)|😄|
-|💛 | [P1706_球会落何处](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1706_WhereWillTheBallFall.md)        |               |[P1706_WhereWillTheBallFall.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1706_WhereWillTheBallFall.java)|😄|
-|💛 | [P2043_简易银行系统](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2043_SimpleBankSystem.md)           |      🍼 入门          |[P2043_SimpleBankSystem.java](./src/main/java/com/uyaki/leetcode/editor/cn/P2043_SimpleBankSystem.java)|😄|
+|难度| 题目                                                                                                        | 题解                        |代码|掌握度|
+|:---:|:----------------------------------------------------------------------------------------------------------|:--------------------------|:---|:---:|
+|💛 | [P537_复数乘法](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P537_ComplexNumberMultiplication.md) |    🍼 入门       |[P537_ComplexNumberMultiplication.java](./src/main/java/com/uyaki/leetcode/editor/cn/P537_ComplexNumberMultiplication.java)|😄|
+|💚 | [P661_图片平滑器](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P661_ImageSmoother.md)              | 🍼 入门  |[P661_ImageSmoother.java](./src/main/java/com/uyaki/leetcode/editor/cn/P661_ImageSmoother.java)|😄|
+|💛 | [P1706_球会落何处](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1706_WhereWillTheBallFall.md)     |               |[P1706_WhereWillTheBallFall.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1706_WhereWillTheBallFall.java)|😄|
+|💛 | [P2028_找出缺失的观测数据](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2028_FindMissingObservations.md)        |      🍼 入门          |[P2028_FindMissingObservations.java](./src/main/java/com/uyaki/leetcode/editor/cn/P2028_FindMissingObservations.java)|😄|
+|💛 | [P2043_简易银行系统](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2043_SimpleBankSystem.md)        |      🍼 入门          |[P2043_SimpleBankSystem.java](./src/main/java/com/uyaki/leetcode/editor/cn/P2043_SimpleBankSystem.java)|😄|
 
 ---
 ## 预处理

@@ -727,6 +727,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P2028_FindMissingObservations.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2028_FindMissingObservations.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2028" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P2028_FindMissingObservations.java" />
+              <option name="titleSlug" value="find-missing-observations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P2029_StoneGameIx.java">
           <value>
             <LeetcodeEditor>
@@ -1760,7 +1771,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P682_BaseballGame.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com682" />
+              <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P682_BaseballGame.java" />
+              <option name="titleSlug" value="baseball-game" />
             </LeetcodeEditor>
           </value>
         </entry>
