@@ -1,86 +1,90 @@
 # README
 
 - [README](#readme)
-  - [IDEA插件之LeetCode Editor配置](#idea插件之leetcode-editor配置)
-  - [说明](#说明)
-  - [总结](#总结)
-  - [数学题](#数学题)
-  - [模拟|设计](#模拟|设计)
-  - [预处理](#预处理)
-  - [字符串操作](#字符串操作)
-  - [数组](#数组)
-  - [优先队列](#优先队列)
-  - [排序](#排序)
-  - [哈希](#哈希)
-  - [递归](#递归)
-  - [位运算](#位运算)
-  - [堆](#堆)
-  - [栈](#栈)
-  - [链表](#链表)
-  - [滑动窗口](#滑动窗口)
-  - [树](#树)
-    - [树的遍历](#树的遍历)
-    - [深度优先搜索](#深度优先搜索)
-    - [广度优先搜索](#广度优先搜索)
-    - [字典树（前缀树）](#字典树前缀树)
-  - [图](#图)
-  - [分治法](#分治法)
-  - [二分查找](#二分查找)
-  - [双指针](#双指针)
-  - [贪心算法](#贪心算法)
-  - [记忆化搜索](#记忆化搜索)
-  - [动态规划](#动态规划)
-  - [最短路径](#最短路径)
-  - [回溯法](#回溯法)
-  - [TODO](#todo)
-  - [📝 License](#-license)
-  
+    - [IDEA插件之LeetCode Editor配置](#idea插件之leetcode-editor配置)
+    - [说明](#说明)
+    - [总结](#总结)
+    - [数学题](#数学题)
+    - [模拟|设计](#模拟|设计)
+    - [预处理](#预处理)
+    - [字符串操作](#字符串操作)
+    - [数组](#数组)
+    - [优先队列](#优先队列)
+    - [排序](#排序)
+    - [哈希](#哈希)
+    - [递归](#递归)
+    - [位运算](#位运算)
+    - [堆](#堆)
+    - [栈](#栈)
+    - [链表](#链表)
+    - [滑动窗口](#滑动窗口)
+    - [树](#树)
+        - [树的遍历](#树的遍历)
+        - [深度优先搜索](#深度优先搜索)
+        - [广度优先搜索](#广度优先搜索)
+        - [字典树（前缀树）](#字典树前缀树)
+    - [图](#图)
+    - [分治法](#分治法)
+    - [二分查找](#二分查找)
+    - [双指针](#双指针)
+    - [贪心算法](#贪心算法)
+    - [记忆化搜索](#记忆化搜索)
+    - [动态规划](#动态规划)
+    - [最短路径](#最短路径)
+    - [回溯法](#回溯法)
+    - [TODO](#todo)
+    - [📝 License](#-license)
+
 ## IDEA插件之LeetCode Editor配置
 
 [LeetCode_Editor配置](./src/main/java/com/uyaki/leetcode/editor/cn/doc/plugin/LeetCode_Editor.md)
 
 ## 说明
+
 - 题目难度
-  - 💚：简单
-  - 💛：中等
-  - ❤️：困难
+    - 💚：简单
+    - 💛：中等
+    - ❤️：困难
 - 掌握情况
-  - 😄：EZ
-  - 🤨：有一些疑惑
-  - 🤯：WTF
+    - 😄：EZ
+    - 🤨：有一些疑惑
+    - 🤯：WTF
 - 题解
-  - 🍼 入门
-  - 👍 有意思
-  - ❓ 出题意义不明
-  - 🧠 脑筋急转弯
+    - 🍼 入门
+    - 👍 有意思
+    - ❓ 出题意义不明
+    - 🧠 脑筋急转弯
 
 ## 总结
 
 - 解题技巧：[算法基础](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Base.md)
 - 字符串
-  - KMP算法总结：[KMP](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/KMP.md)
+    - KMP算法总结：[KMP](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/KMP.md)
 - 数组
-  - 数组子集：[Array Subsets](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/ArraySubsets.md) 
-  - 排列组合：[Permutation and Combination](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/PermutationAndCombination.md)
+    - 数组子集：[Array Subsets](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/ArraySubsets.md)
+    -
+    排列组合：[Permutation and Combination](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/PermutationAndCombination.md)
 - 位运算的解题总结：[Bit](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Bit.md)
 - 贪心算法总结：[Greedy Algorithm](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/GreedyAlgorithm.md)
 - 背包问题[Knapsack problem](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/KnapsackProblem.md)
-- 最接近目标值的子序列合问题解法[Sum of target subsequences](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/SumOfTargetSubsequences.md)
-- 摩尔投票法总结：[Boyer–Moore Majority Vote](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Boyer–MooreMajorityVote.md)
+-
+最接近目标值的子序列合问题解法[Sum of target subsequences](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/SumOfTargetSubsequences.md)
+-
+摩尔投票法总结：[Boyer–Moore Majority Vote](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Boyer–MooreMajorityVote.md)
 - 二分图的最大匹配算法
     - 匈牙利算法：[HungarianAlgorithm](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/HungarianAlgorithm.md)
 - 树
-  - 解题总结：[Tree](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Tree.md)
-  - 前缀树：[Trie](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Trie.md)
+    - 解题总结：[Tree](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Tree.md)
+    - 前缀树：[Trie](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Trie.md)
 - 分治法的解题总结：[Divide And Conquer](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/DivideAndConquer.md)
-  - 快速幂(本质：分治)总结：[Fast Pow](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/FastPow.md)
+    - 快速幂(本质：分治)总结：[Fast Pow](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/FastPow.md)
 - 二分法的解题总结：[binary search](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/BinarySearch.md)
 - 动态规划的解题总结：[Dynamic Programming](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/DynamicProgramming.md)
-  - 博弈问题总结：[Game Problem](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/GameProblem.md)
+    - 博弈问题总结：[Game Problem](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/GameProblem.md)
 - 深度优先搜索DFS：
-  - 岛屿问题总结：[Island Problem](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/IslandProblem.md)
+    - 岛屿问题总结：[Island Problem](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/IslandProblem.md)
 - 图算法总结
-  - [图论基础](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Graph_Base.md)
+    - [图论基础](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Graph_Base.md)
 
 ---
 
@@ -129,15 +133,17 @@
 
 ## 模拟|设计
 
-|难度| 题目                                                                                                        | 题解                        |代码|掌握度|
-|:---:|:----------------------------------------------------------------------------------------------------------|:--------------------------|:---|:---:|
-|💛 | [P537_复数乘法](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P537_ComplexNumberMultiplication.md) |    🍼 入门       |[P537_ComplexNumberMultiplication.java](./src/main/java/com/uyaki/leetcode/editor/cn/P537_ComplexNumberMultiplication.java)|😄|
-|💚 | [P661_图片平滑器](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P661_ImageSmoother.md)              | 🍼 入门  |[P661_ImageSmoother.java](./src/main/java/com/uyaki/leetcode/editor/cn/P661_ImageSmoother.java)|😄|
-|💛 | [P1706_球会落何处](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1706_WhereWillTheBallFall.md)     |               |[P1706_WhereWillTheBallFall.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1706_WhereWillTheBallFall.java)|😄|
-|💛 | [P2028_找出缺失的观测数据](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2028_FindMissingObservations.md)        |      🍼 入门          |[P2028_FindMissingObservations.java](./src/main/java/com/uyaki/leetcode/editor/cn/P2028_FindMissingObservations.java)|😄|
-|💛 | [P2043_简易银行系统](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2043_SimpleBankSystem.md)        |      🍼 入门          |[P2043_SimpleBankSystem.java](./src/main/java/com/uyaki/leetcode/editor/cn/P2043_SimpleBankSystem.java)|😄|
+|难度| 题目                                                                                                           | 题解      |代码|掌握度|
+|:---:|:-------------------------------------------------------------------------------------------------------------|:--------|:---|:---:|
+|💛 | [P537_复数乘法](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P537_ComplexNumberMultiplication.md)    | 🍼 入门   |[P537_ComplexNumberMultiplication.java](./src/main/java/com/uyaki/leetcode/editor/cn/P537_ComplexNumberMultiplication.java)|😄|
+|💚 | [P661_图片平滑器](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P661_ImageSmoother.md)                 | 🍼 入门   |[P661_ImageSmoother.java](./src/main/java/com/uyaki/leetcode/editor/cn/P661_ImageSmoother.java)|😄|
+|❤️ | [1606_找到处理最多请求的服务器](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1606_FindServersThatHandledMostNumberOfRequests.md)      | 模拟+优先队列 |[P1606_FindServersThatHandledMostNumberOfRequests.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1606_FindServersThatHandledMostNumberOfRequests.java)|😄|
+|💛 | [P1706_球会落何处](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1706_WhereWillTheBallFall.md)        |         |[P1706_WhereWillTheBallFall.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1706_WhereWillTheBallFall.java)|😄|
+|💛 | [P2028_找出缺失的观测数据](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2028_FindMissingObservations.md) | 🍼 入门   |[P2028_FindMissingObservations.java](./src/main/java/com/uyaki/leetcode/editor/cn/P2028_FindMissingObservations.java)|😄|
+|💛 | [P2043_简易银行系统](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2043_SimpleBankSystem.md)           | 🍼 入门   |[P2043_SimpleBankSystem.java](./src/main/java/com/uyaki/leetcode/editor/cn/P2043_SimpleBankSystem.java)|😄|
 
 ---
+
 ## 预处理
 
 |难度| 题目                                                                                                   | 题解                        |代码|掌握度|
@@ -213,6 +219,7 @@
 ---
 
 ## 优先队列
+
 |难度|题目|题解|代码|掌握度|
 |:---:|:---|:---|:---|:---:|
 |❤️ |[P23_合并K个升序链表](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P23_MergeKSortedLists.md) | |[P23_MergeKSortedLists.java](./src/main/java/com/uyaki/leetcode/editor/cn/P23_MergeKSortedLists.java)|🤨|
@@ -225,6 +232,7 @@
 ---
 
 ## 排序
+
 |难度| 题目                                                                                                                                     | 题解               |代码|掌握度|
 |:---:|:---------------------------------------------------------------------------------------------------------------------------------------|:-----------------|:---|:---:|
 |💛 | [P539_最小时间差](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P539_MinimumTimeDifference.md)                                   | 👍题目只能算ez，了解鸽巢原理 |[P539_MinimumTimeDifference.java](./src/main/java/com/uyaki/leetcode/editor/cn/P539_MinimumTimeDifference.java)|😄|
@@ -233,6 +241,7 @@
 |💛 | [P1996_游戏中弱角色的数量](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1996_TheNumberOfWeakCharactersInTheGame.md)                | 👍题目只能算ez，入门     |[P1996_TheNumberOfWeakCharactersInTheGame.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1996_TheNumberOfWeakCharactersInTheGame.java)|😄|
 
 ---
+
 ## 哈希
 
 |难度| 题目                                                                                                 |题解|代码|掌握度|
@@ -389,6 +398,7 @@
 ---
 
 ### 字典树（前缀树）
+
 |难度| 题目                                                                                                             | 题解                                                                                                                    |代码|掌握度|
 |:---:|:---------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|:---|:---:|
 |💛 | [P208_实现 Trie (前缀树)](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P208_ImplementTriePrefixTree.md) |                                                                                                                       |[P208_ImplementTriePrefixTree.java](./src/main/java/com/uyaki/leetcode/editor/cn/P208_ImplementTriePrefixTree.java)|😄|
@@ -403,7 +413,6 @@
 |难度| 题目                                                                                             | 题解   |代码|掌握度|
 |:---:|:-----------------------------------------------------------------------------------------------|:-----|:---|:---:|
 |💚 | [P1791_FindCenterOfStarGraph](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1791_FindCenterOfStarGraph.md) | 过于简单 |[P1791_FindCenterOfStarGraph.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1791_FindCenterOfStarGraph.java)|😄|
-
 
 ---
 
