@@ -63,14 +63,16 @@
 - 数组
     - 数组子集：[Array Subsets](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/ArraySubsets.md)
     -
-    排列组合：[Permutation and Combination](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/PermutationAndCombination.md)
+  排列组合：[Permutation and Combination](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/PermutationAndCombination.md)
 - 位运算的解题总结：[Bit](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Bit.md)
 - 贪心算法总结：[Greedy Algorithm](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/GreedyAlgorithm.md)
 - 背包问题[Knapsack problem](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/KnapsackProblem.md)
 -
+
 最接近目标值的子序列合问题解法[Sum of target subsequences](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/SumOfTargetSubsequences.md)
 -
 摩尔投票法总结：[Boyer–Moore Majority Vote](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Boyer–MooreMajorityVote.md)
+
 - 二分图的最大匹配算法
     - 匈牙利算法：[HungarianAlgorithm](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/HungarianAlgorithm.md)
 - 树
@@ -95,7 +97,7 @@
 |💛 | [P29_两数相除](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P29_DivideTwoIntegers.md)                           | 👍 二分查找+快速乘                                                                                                 |[P29_DivideTwoIntegers.java](./src/main/java/com/uyaki/leetcode/editor/cn/P29_DivideTwoIntegers.java)|😄|
 |💚 | [P66_加一](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P66_PlusOne.md)                                       | 越界问题                                                                                                        |[P66_PlusOne.java](./src/main/java/com/uyaki/leetcode/editor/cn/P66_PlusOne.java)|😄|
 |💛 | [P166_分数到小数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P166_FractionToRecurringDecimal.md)               | 👍 长除法                                                                                                      |[P166_FractionToRecurringDecimal.java](./src/main/java/com/uyaki/leetcode/editor/cn/P166_FractionToRecurringDecimal.java)|😄|
-|💛 | [P172_阶乘后的零](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P172_FactorialTrailingZeroes.md)                          |                                                                                              |[P172_FactorialTrailingZeroes.java](./src/main/java/com/uyaki/leetcode/editor/cn/P172_FactorialTrailingZeroes.java)|😄|
+|💛 | [P172_阶乘后的零](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P172_FactorialTrailingZeroes.md)                  |                                                                                              |[P172_FactorialTrailingZeroes.java](./src/main/java/com/uyaki/leetcode/editor/cn/P172_FactorialTrailingZeroes.java)|😄|
 |💛 | [P223_矩形面积](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P223_RectangleArea.md)                             | 👍 投影法                                                                                                      |[P223_RectangleArea.java](./src/main/java/com/uyaki/leetcode/editor/cn/P223_RectangleArea.java)|😄|
 |💛 | [P229_求众数 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P229_MajorityElementIi.md)                       | 👍👍 摩尔投票法                                                                                                  |[P229_MajorityElementIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P229_MajorityElementIi.java)|😄|
 |💚 | [P258_各位相加](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P258_AddDigits.md)                                 | 👍 [官方题解](https://leetcode-cn.com/problems/add-digits/solution/ge-wei-xiang-jia-by-leetcode-solution-u4kj/) |[P258_AddDigits.java](./src/main/java/com/uyaki/leetcode/editor/cn/P258_AddDigits.java)|😄|
@@ -118,6 +120,7 @@
 |💛 | [P519_随机翻转矩阵](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P519_RandomFlipMatrix.md)                        | 👍 数组映射                                                                                                     |[P519_RandomFlipMatrix.java](./src/main/java/com/uyaki/leetcode/editor/cn/P519_RandomFlipMatrix.java)|😄|
 |💛 | [P553_最优除法](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P553_OptimalDivision.md)                           | 🍼 入门                                                                                                       |[P553_OptimalDivision.java](./src/main/java/com/uyaki/leetcode/editor/cn/P553_OptimalDivision.java)|😄|
 |💚 | [P598_范围求和 II](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P598_RangeAdditionIi.md)                        | 👎 数学                                                                                                       |[P598_RangeAdditionIi.java](./src/main/java/com/uyaki/leetcode/editor/cn/P598_RangeAdditionIi.java)|😄|
+|💚 | [P728_自除数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P728_SelfDividingNumbers.md)                                      | 🍼 入门                                                                                                       |[P728_SelfDividingNumbers.java](./src/main/java/com/uyaki/leetcode/editor/cn/P728_SelfDividingNumbers.java)|😄|
 |❤️ | [P798_得分最高的最小轮调](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P798_SmallestRotationWithHighestScore.md)     | 👍差分数组                                                                                                      |[P798_SmallestRotationWithHighestScore.java](./src/main/java/com/uyaki/leetcode/editor/cn/P798_SmallestRotationWithHighestScore.java)|🤯|
 |💚 | [P1154_一年中的第几天](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1154_DayOfTheYear.md)                         | 🍼 入门                                                                                                       |[P1154_DayOfTheYear.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1154_DayOfTheYear.java)|😄|
 |💚 | [P1185_一周中的第几天](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1185_DayOfTheWeek.md)                         | 🍼 入门                                                                                                       |[P1185_DayOfTheWeek.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1185_DayOfTheWeek.java)|😄|
