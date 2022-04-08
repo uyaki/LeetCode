@@ -14,4 +14,18 @@ public class P1_TwoSumTest {
         Assert.assertArrayEquals(solution.twoSum(new int[]{3, 3}, 6), new int[]{0, 1});
 
     }
+
+    public static ThreadLocal<String> tl = new ThreadLocal<>();
+
+    public static void main(String[] args) {
+        tl.set("hello");
+        Thread subThread = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                System.out.println("子线程tl：" + tl.get());
+            }
+        });
+        subThread.start();
+        System.out.println("main中的tl：" + tl.get());
+    }
 }
