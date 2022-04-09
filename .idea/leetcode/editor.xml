@@ -2009,6 +2009,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P780_ReachingPoints.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P780_ReachingPoints.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com780" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P780_ReachingPoints.java" />
+              <option name="titleSlug" value="reaching-points" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P786_KThSmallestPrimeFraction.java">
           <value>
             <LeetcodeEditor>
