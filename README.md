@@ -464,11 +464,12 @@
 
 ## 双指针
 
-|难度| 题目                                                                                                       |题解|代码|掌握度|
-|:---:|:---------------------------------------------------------------------------------------------------------|:---|:---|:---:|
-|💛 | [P825_适龄的朋友](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P825_FriendsOfAppropriateAges.md)  | 排序+双指针 |[P825_FriendsOfAppropriateAges.java](./src/main/java/com/uyaki/leetcode/editor/cn/P825_FriendsOfAppropriateAges.java)|😄|
+|难度| 题目                                                                                                               | 题解     |代码|掌握度|
+|:---:|:-----------------------------------------------------------------------------------------------------------------|:-------|:---|:---:|
+|💚 | [P821_字符的最短距离](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P821_ShortestDistanceToACharacter.md)               | 🍼 入门     |[P821_ShortestDistanceToACharacter.java](./src/main/java/com/uyaki/leetcode/editor/cn/P821_ShortestDistanceToACharacter.java)|😄|
+|💛 | [P825_适龄的朋友](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P825_FriendsOfAppropriateAges.md)          | 排序+双指针 |[P825_FriendsOfAppropriateAges.java](./src/main/java/com/uyaki/leetcode/editor/cn/P825_FriendsOfAppropriateAges.java)|😄|
+|💚 | [P917_仅仅反转字母](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P917_ReverseOnlyLetters.md)               |        |[P917_ReverseOnlyLetters.java](./src/main/java/com/uyaki/leetcode/editor/cn/P917_ReverseOnlyLetters.java)|😄|
 |💛 | [P2024_考试的最大困扰度](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2024_MaximizeTheConfusionOfAnExam.md) | 排序+双指针 |[P2024_MaximizeTheConfusionOfAnExam.java](./src/main/java/com/uyaki/leetcode/editor/cn/P2024_MaximizeTheConfusionOfAnExam.java)|😄|
-|💚 | [P917_仅仅反转字母](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P917_ReverseOnlyLetters.md)       |             |[P917_ReverseOnlyLetters.java](./src/main/java/com/uyaki/leetcode/editor/cn/P917_ReverseOnlyLetters.java)|😄|
 
 ---
 
