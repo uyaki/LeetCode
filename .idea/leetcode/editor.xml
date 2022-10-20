@@ -2163,6 +2163,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P779_KThSymbolInGrammar.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P779_KThSymbolInGrammar.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com779" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P779_KThSymbolInGrammar.java" />
+              <option name="titleSlug" value="k-th-symbol-in-grammar" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P780_ReachingPoints.java">
           <value>
             <LeetcodeEditor>
