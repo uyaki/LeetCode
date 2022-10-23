@@ -481,6 +481,7 @@
 |💛 | [P825_适龄的朋友](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P825_FriendsOfAppropriateAges.md)          | 排序+双指针 |[P825_FriendsOfAppropriateAges.java](./src/main/java/com/uyaki/leetcode/editor/cn/P825_FriendsOfAppropriateAges.java)|😄|
 |💚 | [P905_按奇偶排序数组](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P905_SortArrayByParity.md)               |        |[P905_SortArrayByParity.java](./src/main/java/com/uyaki/leetcode/editor/cn/P905_SortArrayByParity.java)|😄|
 |💚 | [P917_仅仅反转字母](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P917_ReverseOnlyLetters.md)               |        |[P917_ReverseOnlyLetters.java](./src/main/java/com/uyaki/leetcode/editor/cn/P917_ReverseOnlyLetters.java)|😄|
+|💚 | [P1768_交替合并字符串](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1768_MergeStringsAlternately.md)   | 🍼 入门     |[P1768_MergeStringsAlternately.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1768_MergeStringsAlternately.java)|😄|
 |💛 | [P2024_考试的最大困扰度](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2024_MaximizeTheConfusionOfAnExam.md) | 排序+双指针 |[P2024_MaximizeTheConfusionOfAnExam.java](./src/main/java/com/uyaki/leetcode/editor/cn/P2024_MaximizeTheConfusionOfAnExam.java)|😄|
 
 ---
