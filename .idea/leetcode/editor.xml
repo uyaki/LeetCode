@@ -344,6 +344,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1812_DetermineColorOfAChessboardSquare.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1812_DetermineColorOfAChessboardSquare.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1812" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1812_DetermineColorOfAChessboardSquare.java" />
+              <option name="titleSlug" value="determine-color-of-a-chessboard-square" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1984_MinimumDifferenceBetweenHighestAndLowestOfKScores.java">
           <value>
             <LeetcodeEditor>
