@@ -59,7 +59,8 @@
 
 - 解题技巧：[算法基础](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/Base.md)
 - 字符串
-    - KMP算法总结：[KMP](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/KMP.md)
+    - KMP算法总结：[KMP](https://uyaki.github.io/posts/algorithm/kmp%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/)
+    - 子序列总结：[子序列问题通用解题思路](https://uyaki.github.io/posts/algorithm/%E5%AD%90%E5%BA%8F%E5%88%97%E9%97%AE%E9%A2%98%E9%80%9A%E7%94%A8%E6%80%9D%E8%B7%AF/)
 - 数组
     - 数组子集：[Array Subsets](./src/main/java/com/uyaki/leetcode/editor/cn/doc/summarize/ArraySubsets.md)
     -
