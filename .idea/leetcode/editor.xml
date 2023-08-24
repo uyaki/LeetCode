@@ -168,6 +168,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1448_CountGoodNodesInBinaryTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1448_CountGoodNodesInBinaryTree.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1448" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1448_CountGoodNodesInBinaryTree.java" />
+              <option name="titleSlug" value="count-good-nodes-in-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1601_MaximumNumberOfAchievableTransferRequests.java">
           <value>
             <LeetcodeEditor>
