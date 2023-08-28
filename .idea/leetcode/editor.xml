@@ -1224,6 +1224,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P823_BinaryTreesWithFactors.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P823_BinaryTreesWithFactors.md" />
+              <option name="frontendQuestionId" value="leetcode.cn823" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P823_BinaryTreesWithFactors.java" />
+              <option name="titleSlug" value="binary-trees-with-factors" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P824_GoatLatin.java">
           <value>
             <LeetcodeEditor>
