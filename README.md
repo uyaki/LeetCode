@@ -305,9 +305,10 @@
 |💛 | [P393_UTF-8 编码验证](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P393_Utf8Validation.md)                          | 👍位移         |[P393_Utf8Validation.java](./src/main/java/com/uyaki/leetcode/editor/cn/P393_Utf8Validation.java)|😄|
 |💚 | [P476_数字的补数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P476_NumberComplement.md)                             |              |[P476_NumberComplement.java](./src/main/java/com/uyaki/leetcode/editor/cn/P476_NumberComplement.java)|🤨|
 |💚 | [P693_交替位二进制数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P693_BinaryNumberWithAlternatingBits.md)            | 👍位移+异或+与    |[P693_BinaryNumberWithAlternatingBits.java](./src/main/java/com/uyaki/leetcode/editor/cn/P693_BinaryNumberWithAlternatingBits.java)|😄|
-|💛 | [P779_第K个语法符号](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P779_KThSymbolInGrammar.md)                           | 👍位移         |[P779_KThSymbolInGrammar.java](./src/main/java/com/uyaki/leetcode/editor/cn/P779_KThSymbolInGrammar.java)|😄|
+|💛 | [P779_第K个语法符号](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P779_KThSymbolInGrammar.md)                         | 👍位移         |[P779_KThSymbolInGrammar.java](./src/main/java/com/uyaki/leetcode/editor/cn/P779_KThSymbolInGrammar.java)|😄|
 |💚 | [P868_二进制间距](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P868_BinaryGap.md)                                    | 👍位移+异或+与    |[P868_BinaryGap.java](./src/main/java/com/uyaki/leetcode/editor/cn/P868_BinaryGap.java)|😄|
 |💚 | [P1342_将数字变成 0 的操作次数](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1342_NumberOfStepsToReduceANumberToZero.md) | 🍼 入门        |[P1342_NumberOfStepsToReduceANumberToZero.java](./src/main/java/com/uyaki/leetcode/editor/cn/P1342_NumberOfStepsToReduceANumberToZero.java)|🤨|
+|💚 | [P2103_环和杆](./src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2103_RingsAndRods.md)                                   |              |[P2103_RingsAndRods.java](./src/main/java/com/uyaki/leetcode/editor/cn/P2103_RingsAndRods.java)|😄|
 
 ---
 
