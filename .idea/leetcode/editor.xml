@@ -663,6 +663,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P2760_LongestEvenOddSubarrayWithThreshold.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P2760_LongestEvenOddSubarrayWithThreshold.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2760" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P2760_LongestEvenOddSubarrayWithThreshold.java" />
+              <option name="titleSlug" value="longest-even-odd-subarray-with-threshold" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P307_RangeSumQueryMutable.java">
           <value>
             <LeetcodeEditor>
