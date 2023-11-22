@@ -146,6 +146,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1410_HtmlEntityParser.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/doc/content/P1410_HtmlEntityParser.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1410" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1410_HtmlEntityParser.java" />
+              <option name="titleSlug" value="html-entity-parser" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/uyaki/leetcode/editor/cn/P1414_FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java">
           <value>
             <LeetcodeEditor>
